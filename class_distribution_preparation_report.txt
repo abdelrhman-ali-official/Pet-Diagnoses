@@ -1,0 +1,56 @@
+Class Distribution Analysis and Preparation Report:
+Loaded augmented dataset from: /home/ubuntu/pet_diagnosis_augmented.csv
+Original shape: (1130, 6)
+Target column: Primary_Condition
+Minimum samples per class for stratified splitting: 2
+
+Found 43 classes with fewer than 2 samples:
+  - Liver Disease (Count: 1)
+  - Periodontal Disease (Count: 1)
+  - Osteoarthritis (Count: 1)
+  - Allergic Dermatitis (Count: 1)
+  - Hip Dysplasia (Count: 1)
+  - Mange (Count: 1)
+  - Feline Anxiety (Count: 1)
+  - Urinary Tract Infection (Count: 1)
+  - Intestinal Worms (Count: 1)
+  - Epilepsy (Count: 1)
+  - Megacolon (Count: 1)
+  - Congenital Heart Defect (Count: 1)
+  - Allergic Reaction (Count: 1)
+  - Degenerative Myelopathy (Count: 1)
+  - Anal Gland Impaction (Count: 1)
+  - Roundworms (Count: 1)
+  - Cataracts (Count: 1)
+  - Nasal Polyps (Count: 1)
+  - Gastric Ulcers (Count: 1)
+  - Cancer (Count: 1)
+  - Oral Cancer (Count: 1)
+  - Retinal Disease (Count: 1)
+  - Intussusception (Count: 1)
+  - Pneumonia (Count: 1)
+  - Abscess (Count: 1)
+  - Ear Infection (Count: 1)
+  - Tick-Borne Disease (Count: 1)
+  - Canine Flu (Count: 1)
+  - Feline Renal Disease (Count: 1)
+  - Allergic Rhinitis (Count: 1)
+  - Bordetella Infection (Count: 1)
+  - Heartworm Disease (Count: 1)
+  - Chronic Bronchitis (Count: 1)
+  - Feline Respiratory Infection (Count: 1)
+  - Feline Chlamydia (Count: 1)
+  - Canine Influenza (Count: 1)
+  - Feline Coronavirus (Count: 1)
+  - Canine Heartworm Disease (Count: 1)
+  - Feline Chlamydiosis (Count: 1)
+  - Canine Cough (Count: 1)
+  - Feline Immunodeficiency Virus (Count: 1)
+  - Canine Infectious Hepatitis (Count: 1)
+  - Feline Panleukopenia Virus (Count: 1)
+
+Removed 43 rare classes.
+Shape after removing rare classes: (1087, 6)
+Number of rows removed: 43
+
+Prepared dataset saved to: /home/ubuntu/pet_diagnosis_augmented_prepared.csv

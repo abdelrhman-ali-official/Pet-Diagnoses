@@ -1,0 +1,434 @@
+--- Dataset Analysis Report ---
+
+--- Dataset Shape ---
+(983, 11)
+
+--- First 5 Rows ---
+  Animal_Type Age_Category            Symptom_1         Symptom_2    Symptom_3         Symptom_4         Symptom_5     Primary_Condition  Severity Treatment_Category  Accuracy_Score
+0         Dog        Puppy             Vomiting          Diarrhea     Lethargy       Dehydration  Loss of Appetite            Parvovirus    Severe          Emergency            0.95
+1         Dog        Adult             Coughing          Sneezing   Runny Nose             Fever          Lethargy          Kennel Cough  Moderate            Medical            0.92
+2         Dog       Senior   Difficulty Walking        Joint Pain    Stiffness  Reduced Activity       Weight Gain             Arthritis  Moderate            Chronic            0.94
+3         Cat       Kitten     Loss of Appetite          Lethargy  Dehydration          Vomiting          Diarrhea  Feline Panleukopenia    Severe          Emergency            0.96
+4         Cat        Adult  Increased Urination  Increased Thirst  Weight Loss          Lethargy         Poor Coat              Diabetes    Severe            Chronic            0.93
+
+--- Data Types ---
+Animal_Type            object
+Age_Category           object
+Symptom_1              object
+Symptom_2              object
+Symptom_3              object
+Symptom_4              object
+Symptom_5              object
+Primary_Condition      object
+Severity               object
+Treatment_Category     object
+Accuracy_Score        float64
+
+--- Missing Values per Column ---
+Animal_Type           0
+Age_Category          0
+Symptom_1             0
+Symptom_2             0
+Symptom_3             0
+Symptom_4             0
+Symptom_5             0
+Primary_Condition     0
+Severity              0
+Treatment_Category    0
+Accuracy_Score        0
+
+--- Unique Values & Counts for Categorical Columns ---
+
+-- Column: Animal_Type --
+Animal_Type
+Dog    500
+Cat    483
+
+-- Column: Age_Category --
+Age_Category
+Adult     319
+Senior    315
+Puppy     183
+Kitten    166
+
+-- Column: Symptom_1 --
+Symptom_1
+Swollen Abdomen           127
+Difficulty Breathing      107
+Diarrhea                   71
+Limping                    56
+Vomiting                   55
+Excessive Panting          52
+Difficulty Walking         37
+Swollen Joints             35
+Excessive Licking          35
+Increased Thirst           35
+Coughing                   22
+Eye Discharge              19
+Seizures                   19
+Sneezing                   19
+Excessive Grooming         18
+Difficulty Urinating       18
+Increased Appetite         18
+Confusion                  18
+Difficulty Jumping         18
+Difficulty Eating          18
+Excessive Barking          18
+Excessive Drooling         17
+Swollen Paw Pads           17
+Weight Gain                17
+Abdominal Swelling         17
+Excessive Scratching       17
+Head Tilt                  17
+Swollen Eyes               17
+Swollen Lymph Nodes        17
+Hair Loss                   2
+Excessive Drinking          2
+Excessive Thirst            2
+Increased Urination         2
+Fever                       2
+Weight Loss                 2
+Bloody Stool                1
+Scratching                  1
+Loss of Appetite            1
+Urinating Outside Box       1
+Itching                     1
+Vision Problems             1
+Bad Breath                  1
+Difficulty Rising           1
+Cloudy Eyes                 1
+Swollen Face                1
+Increased Vocalization      1
+Vomiting Blood              1
+Poor Appetite               1
+Lumps                       1
+Constipation                1
+Ear Scratching              1
+Lameness                    1
+Pot-Bellied Appearance      1
+Drooling                    1
+Scooting                    1
+
+-- Column: Symptom_2 --
+Symptom_2
+Lethargy                88
+Vomiting                73
+Diarrhea                72
+Coughing                71
+Difficulty Breathing    56
+Hair Loss               55
+Disorientation          54
+Weight Loss             39
+Weakness                36
+Increased Urination     35
+Fever                   35
+Restlessness            34
+Pain                    19
+Wheezing                19
+Blood in Urine          19
+Joint Pain              19
+Anxiety                 19
+Nasal Discharge         19
+Gagging                 19
+Open-Mouth Breathing    18
+Pacing                  18
+Swollen Leg             18
+Scratching              18
+Squinting               18
+Thickened Skin          17
+Discharge               17
+Lameness                17
+Difficulty Eating       17
+Stiffness               17
+Frequent Urination       4
+Increased Thirst         2
+Swollen Lymph Nodes      2
+Sneezing                 2
+Swollen Joint            1
+Dilated Pupils           1
+Bleeding Gums            1
+Increased Appetite       1
+Reduced Activity         1
+Bumping Into Objects     1
+Joint Swelling           1
+Swelling                 1
+Head Shaking             1
+Excessive Grooming       1
+Pawing at Mouth          1
+Poor Growth              1
+Licking Rear             1
+Straining                1
+Hives                    1
+Muscle Wasting           1
+Black Stool              1
+
+-- Column: Symptom_3 --
+Symptom_3
+Lethargy                  145
+Dehydration                70
+Weight Loss                58
+Pain                       56
+Skin Lesions               37
+Poor Appetite              36
+Exercise Intolerance       36
+Abdominal Pain             36
+Swelling                   36
+Pale Gums                  36
+Circling                   35
+Pacing                     35
+Changes in Sleep           19
+Congestion                 19
+Skin Redness               19
+Crying in Litter Box       19
+Fever                      19
+Redness                    18
+Bad Breath                 18
+Difficulty Breathing       18
+Lameness                   18
+Tremors                    18
+Panting                    18
+Muscle Wasting             18
+Destructive Behavior       18
+Drooling                   18
+Coughing                   18
+Hair Loss                  17
+Poor Growth                17
+Squinting                  17
+Increased Thirst           17
+Stiffness                   1
+Runny Nose                  1
+Loss of Appetite            1
+Red Skin                    1
+Loss of Balance             1
+Diarrhea                    1
+Frequent Urination          1
+Pot-Bellied Appearance      1
+Eye Discharge               1
+Aggression                  1
+Tooth Loss                  1
+Bumping Into Objects        1
+Weakness                    1
+Weight Gain                 1
+Facial Swelling             1
+Itching                     1
+Rapid Breathing             1
+Urinary Accidents           1
+Vomiting                    1
+Ear Odor                    1
+Disorientation              1
+Difficulty Swallowing       1
+Dull Coat                   1
+Swollen Anal Area           1
+
+-- Column: Symptom_4 --
+Symptom_4
+Fever                   127
+Lethargy                116
+Vomiting                 56
+Poor Appetite            55
+Loss of Appetite         38
+Anxiety                  38
+Weakness                 36
+Irritability             36
+Restlessness             19
+Trembling                19
+Reduced Activity         19
+Dehydration              19
+Collapse                 18
+Blue Gums                18
+Frequent Licking         18
+Pawing at Eye            18
+Poor Growth              18
+Head Tilt                18
+Bad Breath               18
+Exercise Intolerance     18
+Coughing                 18
+Pain                     18
+Fainting                 18
+Escape Attempts          18
+Diarrhea                 17
+Loss of Balance          17
+Redness                  17
+Poor Coat                17
+Slow Healing             17
+Nasal Discharge          17
+Whining                  17
+Frequent Urination       17
+Weight Loss              17
+Skin Redness             17
+Difficulty Eating         2
+Straining                 1
+Scabs                     1
+Increased Appetite        1
+Sneezing                  1
+Fatigue                   1
+Behavioral Changes        1
+Hyperactivity             1
+Confusion                 1
+Vocalization              1
+Inflammation              1
+Difficulty Breathing      1
+Ear Discharge             1
+Discomfort                1
+Reduced Appetite          1
+Pale Gums                 1
+Pawing at Face            1
+Yellowing of Eyes         1
+
+-- Column: Symptom_5 --
+Symptom_5
+Lethargy                     191
+Collapse                     111
+Weight Loss                   73
+Fever                         71
+Dehydration                   37
+Restlessness                  36
+Pawing at Mouth               35
+Seizures                      35
+Diarrhea                      20
+Blue Gums                     20
+Hot Spots                     19
+Vomiting                      19
+Incontinence                  18
+Loss of Appetite              18
+Hiding                        18
+Weight Gain                   18
+Scratching                    18
+Exercise Intolerance          18
+Swelling                      18
+Pale Gums                     18
+Hair Loss                     18
+Inappropriate Elimination     18
+House Soiling                 18
+Blindness                     18
+Tremors                       17
+Recurrent Infections          17
+Dull Coat                     17
+Pawing at Face                17
+Abdominal Pain                17
+Irritability                   2
+Poor Coat                      2
+Disorientation                 2
+Increased Appetite             1
+Behavioral Changes             1
+Anal Discharge                 1
+Difficulty Breathing           1
+Redness                        1
+Aggression                     1
+Pain                           1
+Coughing                       1
+Drooling                       1
+
+-- Column: Primary_Condition --
+Primary_Condition
+Arthritis                        36
+Coronavirus                      36
+Pleural Effusion                 36
+Feline Infectious Peritonitis    36
+Conjunctivitis                   35
+Gastroenteritis                  35
+Cognitive Dysfunction            19
+Hyperthyroidism                  19
+Intestinal Parasites             18
+Psychogenic Alopecia             18
+Intervertebral Disc Disease      18
+Broken Bone                      18
+Heart Disease                    18
+Bladder Stones                   18
+Internal Bleeding                18
+Pancreatitis                     18
+Tracheal Collapse                18
+Noise Phobia                     18
+Thyroid Disease                  18
+Parvovirus                       18
+Lung Cancer                      18
+Separation Anxiety               18
+Bronchitis                       18
+Stomatitis                       18
+Splenic Tumor                    18
+Rhinitis                         18
+Congestive Heart Failure         18
+Panosteitis                      18
+Hypoglycemia                     18
+Chronic Kidney Disease           18
+Hydrocephalus                    18
+Osteomyelitis                    18
+Acral Lick Dermatitis            18
+Abdominal Cancer                 18
+Feline Calicivirus               18
+Diabetes Mellitus                17
+Vestibular Disease               17
+Flea Allergy Dermatitis          17
+Lymphoma                         17
+Parasitic Infection              17
+Oral Tumor                       17
+Septic Arthritis                 17
+Intestinal Blockage              17
+Pulmonary Fibrosis               17
+Heat Stroke                      17
+Hypothyroidism                   17
+Food Allergy                     17
+Kidney Disease                    2
+Diabetes                          2
+Cushing's Disease                 2
+Kennel Cough                      2
+Feline Panleukopenia              1
+Periodontal Disease               1
+Distemper                         1
+Osteoarthritis                    1
+Epilepsy                          1
+Intestinal Worms                  1
+Urinary Tract Infection           1
+Upper Respiratory Infection       1
+Hip Dysplasia                     1
+Feline Asthma                     1
+Feline Anxiety                    1
+Allergic Dermatitis               1
+Degenerative Myelopathy           1
+Cataracts                         1
+Congenital Heart Defect           1
+Roundworms                        1
+Ringworm                          1
+Retinal Disease                   1
+Inflammatory Bowel Disease        1
+Mange                             1
+Lyme Disease                      1
+Liver Disease                     1
+Nasal Polyps                      1
+Gastric Ulcers                    1
+Allergic Reaction                 1
+Oral Cancer                       1
+Anal Gland Impaction              1
+Pneumonia                         1
+Intussusception                   1
+Abscess                           1
+Ear Infection                     1
+Megacolon                         1
+Cancer                            1
+
+-- Column: Severity --
+Severity
+Moderate    427
+Severe      409
+Mild        147
+
+-- Column: Treatment_Category --
+Treatment_Category
+Medical       312
+Chronic       230
+Emergency     131
+Surgical      109
+Terminal      109
+Behavioral     73
+Dental         19
+
+--- Summary Statistics for Numerical Columns ---
+       Accuracy_Score
+count      983.000000
+mean         0.925809
+std          0.022814
+min          0.870000
+25%          0.910000
+50%          0.930000
+75%          0.940000
+max          0.970000

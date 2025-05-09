@@ -1,0 +1,36 @@
+
+Data Augmentation Report:
+
+Original dataset path: /home/ubuntu/pet_diagnosis_preprocessed.csv
+Original dataset shape: (983, 6)
+
+Kaggle dataset path: /home/ubuntu/pet_diagnosis_project/data/cleaned_animal_disease_prediction.csv
+Kaggle dataset (Dogs and Cats only) shape: (147, 26)
+
+Transformed Kaggle data for augmentation shape: (147, 6)
+
+Augmented (combined) dataset path: /home/ubuntu/pet_diagnosis_augmented.csv
+Augmented (combined) dataset shape: (1130, 6)
+
+Columns in augmented dataset: ['Animal_Type', 'Age_Category', 'Primary_Condition', 'Severity', 'Treatment_Category', 'All_Symptoms']
+
+Age Categorization Logic for Kaggle Data:
+- Parsed 'Age' column (e.g., '2 months', '5 years').
+- Mapped to 'Puppy', 'Kitten', 'Adult', 'Senior' based on Animal_Type and age.
+  - Dog: <1 year = Puppy, 1-7 years = Adult, >7 years = Senior.
+  - Cat: <1 year = Kitten, 1-7 years = Adult, >7 years = Senior.
+  - Months were converted to years for categorization.
+
+Symptom Combination Logic for Kaggle Data:
+- Combined Symptom_1, Symptom_2, Symptom_3, Symptom_4.
+- Incorporated boolean symptom flags (e.g., Vomiting, Diarrhea) as text symptoms.
+- Created a single 'All_Symptoms' string, similar to the original dataset.
+
+Missing Columns Handling (Severity, Treatment_Category):
+- These columns were not present in the Kaggle dataset.
+- They have been added to the augmented portion with the value 'Unknown'.
+
+Source of Augmentation Data:
+Kaggle Dataset: animal disease prediction
+URL: https://www.kaggle.com/datasets/shijo96john/animal-disease-prediction
+File used: cleaned_animal_disease_prediction.csv

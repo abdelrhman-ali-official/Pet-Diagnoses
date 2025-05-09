@@ -1,0 +1,121 @@
+--- Preprocessed Dataset Analysis Report ---
+
+--- Dataset Shape ---
+(983, 6)
+
+--- Value Counts for Key Categorical Columns ---
+
+-- Column: Animal_Type --
+Animal_Type
+Dog    500
+Cat    483
+
+-- Column: Age_Category --
+Age_Category
+Adult     319
+Senior    315
+Puppy     183
+Kitten    166
+
+-- Column: Primary_Condition --
+Primary_Condition
+Arthritis                        36
+Coronavirus                      36
+Pleural Effusion                 36
+Feline Infectious Peritonitis    36
+Conjunctivitis                   35
+Gastroenteritis                  35
+Cognitive Dysfunction            19
+Hyperthyroidism                  19
+Intestinal Parasites             18
+Psychogenic Alopecia             18
+Intervertebral Disc Disease      18
+Broken Bone                      18
+Heart Disease                    18
+Bladder Stones                   18
+Internal Bleeding                18
+Pancreatitis                     18
+Tracheal Collapse                18
+Noise Phobia                     18
+Thyroid Disease                  18
+Parvovirus                       18
+Lung Cancer                      18
+Separation Anxiety               18
+Bronchitis                       18
+Stomatitis                       18
+Splenic Tumor                    18
+Rhinitis                         18
+Congestive Heart Failure         18
+Panosteitis                      18
+Hypoglycemia                     18
+Chronic Kidney Disease           18
+Hydrocephalus                    18
+Osteomyelitis                    18
+Acral Lick Dermatitis            18
+Abdominal Cancer                 18
+Feline Calicivirus               18
+Diabetes Mellitus                17
+Vestibular Disease               17
+Flea Allergy Dermatitis          17
+Lymphoma                         17
+Parasitic Infection              17
+Oral Tumor                       17
+Septic Arthritis                 17
+Intestinal Blockage              17
+Pulmonary Fibrosis               17
+Heat Stroke                      17
+Hypothyroidism                   17
+Food Allergy                     17
+Kidney Disease                    2
+Diabetes                          2
+Cushing's Disease                 2
+Kennel Cough                      2
+Feline Panleukopenia              1
+Periodontal Disease               1
+Distemper                         1
+Osteoarthritis                    1
+Epilepsy                          1
+Intestinal Worms                  1
+Urinary Tract Infection           1
+Upper Respiratory Infection       1
+Hip Dysplasia                     1
+Feline Asthma                     1
+Feline Anxiety                    1
+Allergic Dermatitis               1
+Degenerative Myelopathy           1
+Cataracts                         1
+Congenital Heart Defect           1
+Roundworms                        1
+Ringworm                          1
+Retinal Disease                   1
+Inflammatory Bowel Disease        1
+Mange                             1
+Lyme Disease                      1
+Liver Disease                     1
+Nasal Polyps                      1
+Gastric Ulcers                    1
+Allergic Reaction                 1
+Oral Cancer                       1
+Anal Gland Impaction              1
+Pneumonia                         1
+Intussusception                   1
+Abscess                           1
+Ear Infection                     1
+Megacolon                         1
+Cancer                            1
+
+-- Column: Severity --
+Severity
+Moderate    427
+Severe      409
+Mild        147
+
+-- Column: Treatment_Category --
+Treatment_Category
+Medical       312
+Chronic       230
+Emergency     131
+Surgical      109
+Terminal      109
+Behavioral     73
+Dental         19

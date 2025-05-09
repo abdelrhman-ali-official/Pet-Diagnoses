@@ -1,0 +1,1088 @@
+Animal_Type,Age_Category,Primary_Condition,Severity,Treatment_Category,All_Symptoms
+Dog,Puppy,Parvovirus,Severe,Emergency,Vomiting Diarrhea Lethargy Dehydration Loss of Appetite
+Dog,Adult,Kennel Cough,Moderate,Medical,Coughing Sneezing Runny Nose Fever Lethargy
+Dog,Senior,Arthritis,Moderate,Chronic,Difficulty Walking Joint Pain Stiffness Reduced Activity Weight Gain
+Cat,Kitten,Feline Panleukopenia,Severe,Emergency,Loss of Appetite Lethargy Dehydration Vomiting Diarrhea
+Cat,Adult,Diabetes,Severe,Chronic,Increased Urination Increased Thirst Weight Loss Lethargy Poor Coat
+Cat,Senior,Feline Asthma,Moderate,Chronic,Difficulty Breathing Coughing Loss of Appetite Lethargy Weight Loss
+Dog,Senior,Cushing's Disease,Severe,Chronic,Excessive Thirst Frequent Urination Weight Loss Lethargy Increased Appetite
+Cat,Kitten,Upper Respiratory Infection,Moderate,Medical,Eye Discharge Sneezing Congestion Loss of Appetite Lethargy
+Cat,Senior,Hyperthyroidism,Severe,Chronic,Weight Loss Vomiting Diarrhea Poor Appetite Lethargy
+Dog,Puppy,Intestinal Parasites,Moderate,Medical,Bloody Stool Vomiting Fever Lethargy Dehydration
+Dog,Senior,Cognitive Dysfunction,Moderate,Chronic,Confusion Anxiety Changes in Sleep Vocalization Disorientation
+Dog,Puppy,Distemper,Severe,Emergency,Fever Swollen Lymph Nodes Lethargy Loss of Appetite Coughing
+Cat,Adult,Hyperthyroidism,Severe,Chronic,Weight Loss Increased Appetite Aggression Hyperactivity Restlessness
+Dog,Senior,Heart Disease,Severe,Chronic,Coughing Difficulty Breathing Exercise Intolerance Fatigue Collapse
+Cat,Kitten,Feline Calicivirus,Moderate,Medical,Fever Swollen Lymph Nodes Eye Discharge Sneezing Lethargy
+Dog,Adult,Diabetes,Severe,Chronic,Excessive Drinking Frequent Urination Weight Loss Increased Appetite Lethargy
+Cat,Adult,Inflammatory Bowel Disease,Moderate,Chronic,Vomiting Weight Loss Poor Appetite Lethargy Diarrhea
+Dog,Adult,Lyme Disease,Moderate,Medical,Lameness Joint Swelling Pain Fever Lethargy
+Cat,Adult,Psychogenic Alopecia,Mild,Behavioral,Hair Loss Excessive Grooming Skin Lesions Anxiety Aggression
+Dog,Senior,Kidney Disease,Severe,Chronic,Increased Urination Increased Thirst Urinary Accidents Lethargy Weight Loss
+Dog,Puppy,Kennel Cough,Moderate,Medical,Coughing Gagging Difficulty Swallowing Lethargy Fever
+Cat,Kitten,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Poor Growth Dull Coat Lethargy Diarrhea
+Cat,Adult,Kidney Disease,Severe,Chronic,Excessive Thirst Frequent Urination Weight Loss Vomiting Lethargy
+Cat,Kitten,Ringworm,Mild,Medical,Hair Loss Scratching Skin Lesions Restlessness Irritability
+Cat,Senior,Cognitive Dysfunction,Moderate,Chronic,Increased Vocalization Disorientation Changes in Sleep Anxiety Inappropriate Elimination
+Cat,Adult,Cushing's Disease,Moderate,Chronic,Excessive Drinking Frequent Urination Weight Gain Lethargy Poor Coat
+Dog,Adult,Internal Bleeding,Severe,Emergency,Swollen Abdomen Difficulty Breathing Pale Gums Weakness Collapse
+Cat,Senior,Bladder Stones,Moderate,Surgical,Difficulty Urinating Blood in Urine Crying in Litter Box Frequent Licking Lethargy
+Dog,Puppy,Conjunctivitis,Mild,Medical,Eye Discharge Squinting Redness Pawing at Eye Swelling
+Cat,Kitten,Broken Bone,Moderate,Surgical,Limping Swollen Leg Pain Fever Lethargy
+Dog,Senior,Thyroid Disease,Moderate,Chronic,Increased Appetite Weight Loss Panting Restlessness Hair Loss
+Cat,Adult,Pleural Effusion,Severe,Emergency,Difficulty Breathing Open-Mouth Breathing Lethargy Blue Gums Collapse
+Dog,Adult,Acral Lick Dermatitis,Mild,Behavioral,Excessive Licking Hair Loss Skin Redness Anxiety Restlessness
+Cat,Senior,Abdominal Cancer,Severe,Terminal,Swollen Abdomen Difficulty Breathing Weight Loss Poor Appetite Lethargy
+Dog,Puppy,Hypoglycemia,Severe,Emergency,Difficulty Walking Weakness Tremors Collapse Seizures
+Cat,Kitten,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Senior,Tracheal Collapse,Moderate,Chronic,Coughing Gagging Difficulty Breathing Exercise Intolerance Collapse
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Pale Gums
+Dog,Adult,Noise Phobia,Mild,Behavioral,Excessive Panting Anxiety Pacing Trembling Hiding
+Cat,Senior,Chronic Kidney Disease,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Vomiting Lethargy
+Dog,Puppy,Panosteitis,Moderate,Medical,Swollen Joints Fever Lameness Pain Lethargy
+Cat,Kitten,Coronavirus,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Congestive Heart Failure,Severe,Chronic,Difficulty Breathing Coughing Exercise Intolerance Fainting Collapse
+Cat,Adult,Rhinitis,Mild,Medical,Sneezing Nasal Discharge Congestion Loss of Appetite Lethargy
+Dog,Adult,Splenic Tumor,Severe,Surgical,Swollen Abdomen Lethargy Pale Gums Weakness Collapse
+Cat,Senior,Stomatitis,Moderate,Dental,Difficulty Eating Weight Loss Drooling Bad Breath Pawing at Mouth
+Dog,Puppy,Coronavirus,Moderate,Medical,Diarrhea Vomiting Lethargy Dehydration Fever
+Cat,Kitten,Bronchitis,Moderate,Medical,Difficulty Breathing Wheezing Coughing Lethargy Blue Gums
+Dog,Senior,Pleural Effusion,Severe,Emergency,Swollen Abdomen Difficulty Breathing Lethargy Coughing Exercise Intolerance
+Cat,Adult,Arthritis,Moderate,Chronic,Limping Joint Pain Swelling Fever Lethargy
+Dog,Adult,Separation Anxiety,Mild,Behavioral,Excessive Barking Pacing Destructive Behavior Escape Attempts House Soiling
+Cat,Senior,Lung Cancer,Severe,Terminal,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Osteomyelitis,Moderate,Medical,Limping Pain Swelling Fever Lethargy
+Cat,Kitten,Hydrocephalus,Severe,Chronic,Seizures Disorientation Circling Head Tilt Blindness
+Dog,Senior,Intervertebral Disc Disease,Severe,Surgical,Difficulty Walking Weakness Muscle Wasting Lethargy Incontinence
+Cat,Adult,Pancreatitis,Severe,Emergency,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Adult,Food Allergy,Moderate,Medical,Excessive Licking Scratching Hair Loss Skin Redness Hot Spots
+Cat,Senior,Diabetes Mellitus,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Poor Coat Lethargy
+Dog,Puppy,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Lethargy Fever Abdominal Pain
+Cat,Kitten,Intestinal Blockage,Severe,Surgical,Swollen Abdomen Lethargy Poor Growth Diarrhea Vomiting
+Dog,Senior,Pulmonary Fibrosis,Severe,Terminal,Difficulty Breathing Coughing Exercise Intolerance Lethargy Collapse
+Dog,Puppy,Vestibular Disease,Moderate,Medical,Head Tilt Disorientation Circling Loss of Balance Seizures
+Cat,Adult,Flea Allergy Dermatitis,Mild,Medical,Excessive Scratching Hair Loss Skin Lesions Irritability Restlessness
+Dog,Adult,Lymphoma,Severe,Terminal,Swollen Lymph Nodes Fever Lethargy Loss of Appetite Weight Loss
+Cat,Senior,Arthritis,Moderate,Chronic,Difficulty Jumping Stiffness Pain Reduced Activity Weight Gain
+Dog,Puppy,Parasitic Infection,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Cat,Kitten,Conjunctivitis,Mild,Medical,Swollen Eyes Discharge Squinting Redness Pawing at Face
+Dog,Senior,Hyperthyroidism,Moderate,Chronic,Excessive Panting Restlessness Increased Thirst Frequent Urination Weight Loss
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Diarrhea
+Dog,Adult,Oral Tumor,Severe,Surgical,Excessive Drooling Difficulty Eating Bad Breath Weight Loss Pawing at Mouth
+Cat,Senior,Heart Disease,Severe,Chronic,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Septic Arthritis,Moderate,Medical,Swollen Joints Lameness Pain Fever Lethargy
+Cat,Kitten,Parvovirus,Severe,Emergency,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Cognitive Dysfunction,Moderate,Chronic,Confusion Disorientation Changes in Sleep Anxiety Inappropriate Elimination
+Cat,Kitten,Feline Calicivirus,Moderate,Medical,Swollen Paw Pads Lethargy Fever Nasal Discharge Loss of Appetite
+Dog,Adult,Heat Stroke,Severe,Emergency,Excessive Panting Restlessness Pacing Whining Tremors
+Cat,Senior,Hypothyroidism,Moderate,Chronic,Weight Gain Thickened Skin Lethargy Slow Healing Recurrent Infections
+Dog,Puppy,Intestinal Parasites,Moderate,Medical,Abdominal Swelling Diarrhea Dehydration Poor Growth Dull Coat
+Cat,Adult,Psychogenic Alopecia,Mild,Behavioral,Excessive Grooming Hair Loss Skin Lesions Irritability Scratching
+Dog,Adult,Internal Bleeding,Severe,Emergency,Swollen Abdomen Difficulty Breathing Pale Gums Weakness Collapse
+Cat,Senior,Bladder Stones,Moderate,Surgical,Difficulty Urinating Blood in Urine Crying in Litter Box Frequent Licking Lethargy
+Dog,Puppy,Conjunctivitis,Mild,Medical,Eye Discharge Squinting Redness Pawing at Eye Swelling
+Cat,Kitten,Broken Bone,Moderate,Surgical,Limping Swollen Leg Pain Fever Lethargy
+Dog,Senior,Thyroid Disease,Moderate,Chronic,Increased Appetite Weight Loss Panting Restlessness Hair Loss
+Cat,Adult,Pleural Effusion,Severe,Emergency,Difficulty Breathing Open-Mouth Breathing Lethargy Blue Gums Collapse
+Dog,Adult,Acral Lick Dermatitis,Mild,Behavioral,Excessive Licking Hair Loss Skin Redness Anxiety Restlessness
+Cat,Senior,Abdominal Cancer,Severe,Terminal,Swollen Abdomen Difficulty Breathing Weight Loss Poor Appetite Lethargy
+Dog,Puppy,Hypoglycemia,Severe,Emergency,Difficulty Walking Weakness Tremors Collapse Seizures
+Cat,Kitten,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Senior,Tracheal Collapse,Moderate,Chronic,Coughing Gagging Difficulty Breathing Exercise Intolerance Collapse
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Pale Gums
+Dog,Adult,Noise Phobia,Mild,Behavioral,Excessive Panting Anxiety Pacing Trembling Hiding
+Cat,Senior,Chronic Kidney Disease,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Vomiting Lethargy
+Dog,Puppy,Panosteitis,Moderate,Medical,Swollen Joints Fever Lameness Pain Lethargy
+Cat,Kitten,Coronavirus,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Congestive Heart Failure,Severe,Chronic,Difficulty Breathing Coughing Exercise Intolerance Fainting Collapse
+Cat,Adult,Rhinitis,Mild,Medical,Sneezing Nasal Discharge Congestion Loss of Appetite Lethargy
+Dog,Adult,Splenic Tumor,Severe,Surgical,Swollen Abdomen Lethargy Pale Gums Weakness Collapse
+Cat,Senior,Stomatitis,Moderate,Dental,Difficulty Eating Weight Loss Drooling Bad Breath Pawing at Mouth
+Dog,Puppy,Coronavirus,Moderate,Medical,Diarrhea Vomiting Lethargy Dehydration Fever
+Cat,Kitten,Bronchitis,Moderate,Medical,Difficulty Breathing Wheezing Coughing Lethargy Blue Gums
+Dog,Senior,Pleural Effusion,Severe,Emergency,Swollen Abdomen Difficulty Breathing Lethargy Coughing Exercise Intolerance
+Cat,Adult,Arthritis,Moderate,Chronic,Limping Joint Pain Swelling Fever Lethargy
+Dog,Adult,Separation Anxiety,Mild,Behavioral,Excessive Barking Pacing Destructive Behavior Escape Attempts House Soiling
+Cat,Senior,Lung Cancer,Severe,Terminal,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Osteomyelitis,Moderate,Medical,Limping Pain Swelling Fever Lethargy
+Cat,Kitten,Hydrocephalus,Severe,Chronic,Seizures Disorientation Circling Head Tilt Blindness
+Dog,Senior,Intervertebral Disc Disease,Severe,Surgical,Difficulty Walking Weakness Muscle Wasting Lethargy Incontinence
+Cat,Adult,Pancreatitis,Severe,Emergency,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Adult,Food Allergy,Moderate,Medical,Excessive Licking Scratching Hair Loss Skin Redness Hot Spots
+Cat,Senior,Diabetes Mellitus,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Poor Coat Lethargy
+Dog,Puppy,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Lethargy Fever Abdominal Pain
+Cat,Kitten,Intestinal Blockage,Severe,Surgical,Swollen Abdomen Lethargy Poor Growth Diarrhea Vomiting
+Dog,Senior,Pulmonary Fibrosis,Severe,Terminal,Difficulty Breathing Coughing Exercise Intolerance Lethargy Collapse
+Dog,Puppy,Vestibular Disease,Moderate,Medical,Head Tilt Disorientation Circling Loss of Balance Seizures
+Cat,Adult,Flea Allergy Dermatitis,Mild,Medical,Excessive Scratching Hair Loss Skin Lesions Irritability Restlessness
+Dog,Adult,Lymphoma,Severe,Terminal,Swollen Lymph Nodes Fever Lethargy Loss of Appetite Weight Loss
+Cat,Senior,Arthritis,Moderate,Chronic,Difficulty Jumping Stiffness Pain Reduced Activity Weight Gain
+Dog,Puppy,Parasitic Infection,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Cat,Kitten,Conjunctivitis,Mild,Medical,Swollen Eyes Discharge Squinting Redness Pawing at Face
+Dog,Senior,Hyperthyroidism,Moderate,Chronic,Excessive Panting Restlessness Increased Thirst Frequent Urination Weight Loss
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Diarrhea
+Dog,Adult,Oral Tumor,Severe,Surgical,Excessive Drooling Difficulty Eating Bad Breath Weight Loss Pawing at Mouth
+Cat,Senior,Heart Disease,Severe,Chronic,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Septic Arthritis,Moderate,Medical,Swollen Joints Lameness Pain Fever Lethargy
+Cat,Kitten,Parvovirus,Severe,Emergency,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Cognitive Dysfunction,Moderate,Chronic,Confusion Disorientation Changes in Sleep Anxiety Inappropriate Elimination
+Cat,Kitten,Feline Calicivirus,Moderate,Medical,Swollen Paw Pads Lethargy Fever Nasal Discharge Loss of Appetite
+Dog,Adult,Heat Stroke,Severe,Emergency,Excessive Panting Restlessness Pacing Whining Tremors
+Cat,Senior,Hypothyroidism,Moderate,Chronic,Weight Gain Thickened Skin Lethargy Slow Healing Recurrent Infections
+Dog,Puppy,Intestinal Parasites,Moderate,Medical,Abdominal Swelling Diarrhea Dehydration Poor Growth Dull Coat
+Cat,Adult,Psychogenic Alopecia,Mild,Behavioral,Excessive Grooming Hair Loss Skin Lesions Irritability Scratching
+Dog,Adult,Internal Bleeding,Severe,Emergency,Swollen Abdomen Difficulty Breathing Pale Gums Weakness Collapse
+Cat,Senior,Bladder Stones,Moderate,Surgical,Difficulty Urinating Blood in Urine Crying in Litter Box Frequent Licking Lethargy
+Dog,Puppy,Conjunctivitis,Mild,Medical,Eye Discharge Squinting Redness Pawing at Eye Swelling
+Cat,Kitten,Broken Bone,Moderate,Surgical,Limping Swollen Leg Pain Fever Lethargy
+Dog,Senior,Thyroid Disease,Moderate,Chronic,Increased Appetite Weight Loss Panting Restlessness Hair Loss
+Cat,Adult,Pleural Effusion,Severe,Emergency,Difficulty Breathing Open-Mouth Breathing Lethargy Blue Gums Collapse
+Dog,Adult,Acral Lick Dermatitis,Mild,Behavioral,Excessive Licking Hair Loss Skin Redness Anxiety Restlessness
+Cat,Senior,Abdominal Cancer,Severe,Terminal,Swollen Abdomen Difficulty Breathing Weight Loss Poor Appetite Lethargy
+Dog,Puppy,Hypoglycemia,Severe,Emergency,Difficulty Walking Weakness Tremors Collapse Seizures
+Cat,Kitten,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Senior,Tracheal Collapse,Moderate,Chronic,Coughing Gagging Difficulty Breathing Exercise Intolerance Collapse
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Pale Gums
+Dog,Adult,Noise Phobia,Mild,Behavioral,Excessive Panting Anxiety Pacing Trembling Hiding
+Cat,Senior,Chronic Kidney Disease,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Vomiting Lethargy
+Dog,Puppy,Panosteitis,Moderate,Medical,Swollen Joints Fever Lameness Pain Lethargy
+Cat,Kitten,Coronavirus,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Congestive Heart Failure,Severe,Chronic,Difficulty Breathing Coughing Exercise Intolerance Fainting Collapse
+Cat,Adult,Rhinitis,Mild,Medical,Sneezing Nasal Discharge Congestion Loss of Appetite Lethargy
+Dog,Adult,Splenic Tumor,Severe,Surgical,Swollen Abdomen Lethargy Pale Gums Weakness Collapse
+Cat,Senior,Stomatitis,Moderate,Dental,Difficulty Eating Weight Loss Drooling Bad Breath Pawing at Mouth
+Dog,Puppy,Coronavirus,Moderate,Medical,Diarrhea Vomiting Lethargy Dehydration Fever
+Cat,Kitten,Bronchitis,Moderate,Medical,Difficulty Breathing Wheezing Coughing Lethargy Blue Gums
+Dog,Senior,Pleural Effusion,Severe,Emergency,Swollen Abdomen Difficulty Breathing Lethargy Coughing Exercise Intolerance
+Cat,Adult,Arthritis,Moderate,Chronic,Limping Joint Pain Swelling Fever Lethargy
+Dog,Adult,Separation Anxiety,Mild,Behavioral,Excessive Barking Pacing Destructive Behavior Escape Attempts House Soiling
+Cat,Senior,Lung Cancer,Severe,Terminal,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Osteomyelitis,Moderate,Medical,Limping Pain Swelling Fever Lethargy
+Cat,Kitten,Hydrocephalus,Severe,Chronic,Seizures Disorientation Circling Head Tilt Blindness
+Dog,Senior,Intervertebral Disc Disease,Severe,Surgical,Difficulty Walking Weakness Muscle Wasting Lethargy Incontinence
+Cat,Adult,Pancreatitis,Severe,Emergency,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Adult,Food Allergy,Moderate,Medical,Excessive Licking Scratching Hair Loss Skin Redness Hot Spots
+Cat,Senior,Diabetes Mellitus,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Poor Coat Lethargy
+Dog,Puppy,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Lethargy Fever Abdominal Pain
+Cat,Kitten,Intestinal Blockage,Severe,Surgical,Swollen Abdomen Lethargy Poor Growth Diarrhea Vomiting
+Dog,Senior,Pulmonary Fibrosis,Severe,Terminal,Difficulty Breathing Coughing Exercise Intolerance Lethargy Collapse
+Dog,Puppy,Vestibular Disease,Moderate,Medical,Head Tilt Disorientation Circling Loss of Balance Seizures
+Cat,Adult,Flea Allergy Dermatitis,Mild,Medical,Excessive Scratching Hair Loss Skin Lesions Irritability Restlessness
+Dog,Adult,Lymphoma,Severe,Terminal,Swollen Lymph Nodes Fever Lethargy Loss of Appetite Weight Loss
+Cat,Senior,Arthritis,Moderate,Chronic,Difficulty Jumping Stiffness Pain Reduced Activity Weight Gain
+Dog,Puppy,Parasitic Infection,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Cat,Kitten,Conjunctivitis,Mild,Medical,Swollen Eyes Discharge Squinting Redness Pawing at Face
+Dog,Senior,Hyperthyroidism,Moderate,Chronic,Excessive Panting Restlessness Increased Thirst Frequent Urination Weight Loss
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Diarrhea
+Dog,Adult,Oral Tumor,Severe,Surgical,Excessive Drooling Difficulty Eating Bad Breath Weight Loss Pawing at Mouth
+Cat,Senior,Heart Disease,Severe,Chronic,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Septic Arthritis,Moderate,Medical,Swollen Joints Lameness Pain Fever Lethargy
+Cat,Kitten,Parvovirus,Severe,Emergency,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Cognitive Dysfunction,Moderate,Chronic,Confusion Disorientation Changes in Sleep Anxiety Inappropriate Elimination
+Cat,Kitten,Feline Calicivirus,Moderate,Medical,Swollen Paw Pads Lethargy Fever Nasal Discharge Loss of Appetite
+Dog,Adult,Heat Stroke,Severe,Emergency,Excessive Panting Restlessness Pacing Whining Tremors
+Cat,Senior,Hypothyroidism,Moderate,Chronic,Weight Gain Thickened Skin Lethargy Slow Healing Recurrent Infections
+Dog,Puppy,Intestinal Parasites,Moderate,Medical,Abdominal Swelling Diarrhea Dehydration Poor Growth Dull Coat
+Cat,Adult,Psychogenic Alopecia,Mild,Behavioral,Excessive Grooming Hair Loss Skin Lesions Irritability Scratching
+Dog,Adult,Internal Bleeding,Severe,Emergency,Swollen Abdomen Difficulty Breathing Pale Gums Weakness Collapse
+Cat,Senior,Bladder Stones,Moderate,Surgical,Difficulty Urinating Blood in Urine Crying in Litter Box Frequent Licking Lethargy
+Dog,Puppy,Conjunctivitis,Mild,Medical,Eye Discharge Squinting Redness Pawing at Eye Swelling
+Cat,Kitten,Broken Bone,Moderate,Surgical,Limping Swollen Leg Pain Fever Lethargy
+Dog,Senior,Thyroid Disease,Moderate,Chronic,Increased Appetite Weight Loss Panting Restlessness Hair Loss
+Cat,Adult,Pleural Effusion,Severe,Emergency,Difficulty Breathing Open-Mouth Breathing Lethargy Blue Gums Collapse
+Dog,Adult,Acral Lick Dermatitis,Mild,Behavioral,Excessive Licking Hair Loss Skin Redness Anxiety Restlessness
+Cat,Senior,Abdominal Cancer,Severe,Terminal,Swollen Abdomen Difficulty Breathing Weight Loss Poor Appetite Lethargy
+Dog,Puppy,Hypoglycemia,Severe,Emergency,Difficulty Walking Weakness Tremors Collapse Seizures
+Cat,Kitten,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Senior,Tracheal Collapse,Moderate,Chronic,Coughing Gagging Difficulty Breathing Exercise Intolerance Collapse
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Pale Gums
+Dog,Adult,Noise Phobia,Mild,Behavioral,Excessive Panting Anxiety Pacing Trembling Hiding
+Cat,Senior,Chronic Kidney Disease,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Vomiting Lethargy
+Dog,Puppy,Panosteitis,Moderate,Medical,Swollen Joints Fever Lameness Pain Lethargy
+Cat,Kitten,Coronavirus,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Congestive Heart Failure,Severe,Chronic,Difficulty Breathing Coughing Exercise Intolerance Fainting Collapse
+Cat,Adult,Rhinitis,Mild,Medical,Sneezing Nasal Discharge Congestion Loss of Appetite Lethargy
+Dog,Adult,Splenic Tumor,Severe,Surgical,Swollen Abdomen Lethargy Pale Gums Weakness Collapse
+Cat,Senior,Stomatitis,Moderate,Dental,Difficulty Eating Weight Loss Drooling Bad Breath Pawing at Mouth
+Dog,Puppy,Coronavirus,Moderate,Medical,Diarrhea Vomiting Lethargy Dehydration Fever
+Cat,Kitten,Bronchitis,Moderate,Medical,Difficulty Breathing Wheezing Coughing Lethargy Blue Gums
+Dog,Senior,Pleural Effusion,Severe,Emergency,Swollen Abdomen Difficulty Breathing Lethargy Coughing Exercise Intolerance
+Cat,Adult,Arthritis,Moderate,Chronic,Limping Joint Pain Swelling Fever Lethargy
+Dog,Adult,Separation Anxiety,Mild,Behavioral,Excessive Barking Pacing Destructive Behavior Escape Attempts House Soiling
+Cat,Senior,Lung Cancer,Severe,Terminal,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Osteomyelitis,Moderate,Medical,Limping Pain Swelling Fever Lethargy
+Cat,Kitten,Hydrocephalus,Severe,Chronic,Seizures Disorientation Circling Head Tilt Blindness
+Dog,Senior,Intervertebral Disc Disease,Severe,Surgical,Difficulty Walking Weakness Muscle Wasting Lethargy Incontinence
+Cat,Adult,Pancreatitis,Severe,Emergency,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Adult,Food Allergy,Moderate,Medical,Excessive Licking Scratching Hair Loss Skin Redness Hot Spots
+Cat,Senior,Diabetes Mellitus,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Poor Coat Lethargy
+Dog,Puppy,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Lethargy Fever Abdominal Pain
+Cat,Kitten,Intestinal Blockage,Severe,Surgical,Swollen Abdomen Lethargy Poor Growth Diarrhea Vomiting
+Dog,Senior,Pulmonary Fibrosis,Severe,Terminal,Difficulty Breathing Coughing Exercise Intolerance Lethargy Collapse
+Dog,Puppy,Vestibular Disease,Moderate,Medical,Head Tilt Disorientation Circling Loss of Balance Seizures
+Cat,Adult,Flea Allergy Dermatitis,Mild,Medical,Excessive Scratching Hair Loss Skin Lesions Irritability Restlessness
+Dog,Adult,Lymphoma,Severe,Terminal,Swollen Lymph Nodes Fever Lethargy Loss of Appetite Weight Loss
+Cat,Senior,Arthritis,Moderate,Chronic,Difficulty Jumping Stiffness Pain Reduced Activity Weight Gain
+Dog,Puppy,Parasitic Infection,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Cat,Kitten,Conjunctivitis,Mild,Medical,Swollen Eyes Discharge Squinting Redness Pawing at Face
+Dog,Senior,Hyperthyroidism,Moderate,Chronic,Excessive Panting Restlessness Increased Thirst Frequent Urination Weight Loss
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Diarrhea
+Dog,Adult,Oral Tumor,Severe,Surgical,Excessive Drooling Difficulty Eating Bad Breath Weight Loss Pawing at Mouth
+Cat,Senior,Heart Disease,Severe,Chronic,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Septic Arthritis,Moderate,Medical,Swollen Joints Lameness Pain Fever Lethargy
+Cat,Kitten,Parvovirus,Severe,Emergency,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Cognitive Dysfunction,Moderate,Chronic,Confusion Disorientation Changes in Sleep Anxiety Inappropriate Elimination
+Cat,Kitten,Feline Calicivirus,Moderate,Medical,Swollen Paw Pads Lethargy Fever Nasal Discharge Loss of Appetite
+Dog,Adult,Heat Stroke,Severe,Emergency,Excessive Panting Restlessness Pacing Whining Tremors
+Cat,Senior,Hypothyroidism,Moderate,Chronic,Weight Gain Thickened Skin Lethargy Slow Healing Recurrent Infections
+Dog,Puppy,Intestinal Parasites,Moderate,Medical,Abdominal Swelling Diarrhea Dehydration Poor Growth Dull Coat
+Cat,Adult,Psychogenic Alopecia,Mild,Behavioral,Excessive Grooming Hair Loss Skin Lesions Irritability Scratching
+Dog,Adult,Internal Bleeding,Severe,Emergency,Swollen Abdomen Difficulty Breathing Pale Gums Weakness Collapse
+Cat,Senior,Bladder Stones,Moderate,Surgical,Difficulty Urinating Blood in Urine Crying in Litter Box Frequent Licking Lethargy
+Dog,Puppy,Conjunctivitis,Mild,Medical,Eye Discharge Squinting Redness Pawing at Eye Swelling
+Cat,Kitten,Broken Bone,Moderate,Surgical,Limping Swollen Leg Pain Fever Lethargy
+Dog,Senior,Thyroid Disease,Moderate,Chronic,Increased Appetite Weight Loss Panting Restlessness Hair Loss
+Cat,Adult,Pleural Effusion,Severe,Emergency,Difficulty Breathing Open-Mouth Breathing Lethargy Blue Gums Collapse
+Dog,Adult,Acral Lick Dermatitis,Mild,Behavioral,Excessive Licking Hair Loss Skin Redness Anxiety Restlessness
+Cat,Senior,Abdominal Cancer,Severe,Terminal,Swollen Abdomen Difficulty Breathing Weight Loss Poor Appetite Lethargy
+Dog,Puppy,Hypoglycemia,Severe,Emergency,Difficulty Walking Weakness Tremors Collapse Seizures
+Cat,Kitten,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Senior,Tracheal Collapse,Moderate,Chronic,Coughing Gagging Difficulty Breathing Exercise Intolerance Collapse
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Pale Gums
+Dog,Adult,Noise Phobia,Mild,Behavioral,Excessive Panting Anxiety Pacing Trembling Hiding
+Cat,Senior,Chronic Kidney Disease,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Vomiting Lethargy
+Dog,Puppy,Panosteitis,Moderate,Medical,Swollen Joints Fever Lameness Pain Lethargy
+Cat,Kitten,Coronavirus,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Congestive Heart Failure,Severe,Chronic,Difficulty Breathing Coughing Exercise Intolerance Fainting Collapse
+Cat,Adult,Rhinitis,Mild,Medical,Sneezing Nasal Discharge Congestion Loss of Appetite Lethargy
+Dog,Adult,Splenic Tumor,Severe,Surgical,Swollen Abdomen Lethargy Pale Gums Weakness Collapse
+Cat,Senior,Stomatitis,Moderate,Dental,Difficulty Eating Weight Loss Drooling Bad Breath Pawing at Mouth
+Dog,Puppy,Coronavirus,Moderate,Medical,Diarrhea Vomiting Lethargy Dehydration Fever
+Cat,Kitten,Bronchitis,Moderate,Medical,Difficulty Breathing Wheezing Coughing Lethargy Blue Gums
+Dog,Senior,Pleural Effusion,Severe,Emergency,Swollen Abdomen Difficulty Breathing Lethargy Coughing Exercise Intolerance
+Cat,Adult,Arthritis,Moderate,Chronic,Limping Joint Pain Swelling Fever Lethargy
+Dog,Adult,Separation Anxiety,Mild,Behavioral,Excessive Barking Pacing Destructive Behavior Escape Attempts House Soiling
+Cat,Senior,Lung Cancer,Severe,Terminal,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Osteomyelitis,Moderate,Medical,Limping Pain Swelling Fever Lethargy
+Cat,Kitten,Hydrocephalus,Severe,Chronic,Seizures Disorientation Circling Head Tilt Blindness
+Dog,Senior,Intervertebral Disc Disease,Severe,Surgical,Difficulty Walking Weakness Muscle Wasting Lethargy Incontinence
+Cat,Adult,Pancreatitis,Severe,Emergency,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Adult,Food Allergy,Moderate,Medical,Excessive Licking Scratching Hair Loss Skin Redness Hot Spots
+Cat,Senior,Diabetes Mellitus,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Poor Coat Lethargy
+Dog,Puppy,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Lethargy Fever Abdominal Pain
+Cat,Kitten,Intestinal Blockage,Severe,Surgical,Swollen Abdomen Lethargy Poor Growth Diarrhea Vomiting
+Dog,Senior,Pulmonary Fibrosis,Severe,Terminal,Difficulty Breathing Coughing Exercise Intolerance Lethargy Collapse
+Dog,Puppy,Vestibular Disease,Moderate,Medical,Head Tilt Disorientation Circling Loss of Balance Seizures
+Cat,Adult,Flea Allergy Dermatitis,Mild,Medical,Excessive Scratching Hair Loss Skin Lesions Irritability Restlessness
+Dog,Adult,Lymphoma,Severe,Terminal,Swollen Lymph Nodes Fever Lethargy Loss of Appetite Weight Loss
+Cat,Senior,Arthritis,Moderate,Chronic,Difficulty Jumping Stiffness Pain Reduced Activity Weight Gain
+Dog,Puppy,Parasitic Infection,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Cat,Kitten,Conjunctivitis,Mild,Medical,Swollen Eyes Discharge Squinting Redness Pawing at Face
+Dog,Senior,Hyperthyroidism,Moderate,Chronic,Excessive Panting Restlessness Increased Thirst Frequent Urination Weight Loss
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Diarrhea
+Dog,Adult,Oral Tumor,Severe,Surgical,Excessive Drooling Difficulty Eating Bad Breath Weight Loss Pawing at Mouth
+Cat,Senior,Heart Disease,Severe,Chronic,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Septic Arthritis,Moderate,Medical,Swollen Joints Lameness Pain Fever Lethargy
+Cat,Kitten,Parvovirus,Severe,Emergency,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Cognitive Dysfunction,Moderate,Chronic,Confusion Disorientation Changes in Sleep Anxiety Inappropriate Elimination
+Cat,Kitten,Feline Calicivirus,Moderate,Medical,Swollen Paw Pads Lethargy Fever Nasal Discharge Loss of Appetite
+Dog,Adult,Heat Stroke,Severe,Emergency,Excessive Panting Restlessness Pacing Whining Tremors
+Cat,Senior,Hypothyroidism,Moderate,Chronic,Weight Gain Thickened Skin Lethargy Slow Healing Recurrent Infections
+Dog,Puppy,Intestinal Parasites,Moderate,Medical,Abdominal Swelling Diarrhea Dehydration Poor Growth Dull Coat
+Cat,Adult,Psychogenic Alopecia,Mild,Behavioral,Excessive Grooming Hair Loss Skin Lesions Irritability Scratching
+Dog,Adult,Internal Bleeding,Severe,Emergency,Swollen Abdomen Difficulty Breathing Pale Gums Weakness Collapse
+Cat,Senior,Bladder Stones,Moderate,Surgical,Difficulty Urinating Blood in Urine Crying in Litter Box Frequent Licking Lethargy
+Dog,Puppy,Conjunctivitis,Mild,Medical,Eye Discharge Squinting Redness Pawing at Eye Swelling
+Cat,Kitten,Broken Bone,Moderate,Surgical,Limping Swollen Leg Pain Fever Lethargy
+Dog,Senior,Thyroid Disease,Moderate,Chronic,Increased Appetite Weight Loss Panting Restlessness Hair Loss
+Cat,Adult,Pleural Effusion,Severe,Emergency,Difficulty Breathing Open-Mouth Breathing Lethargy Blue Gums Collapse
+Dog,Adult,Acral Lick Dermatitis,Mild,Behavioral,Excessive Licking Hair Loss Skin Redness Anxiety Restlessness
+Cat,Senior,Abdominal Cancer,Severe,Terminal,Swollen Abdomen Difficulty Breathing Weight Loss Poor Appetite Lethargy
+Dog,Puppy,Hypoglycemia,Severe,Emergency,Difficulty Walking Weakness Tremors Collapse Seizures
+Cat,Kitten,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Senior,Tracheal Collapse,Moderate,Chronic,Coughing Gagging Difficulty Breathing Exercise Intolerance Collapse
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Pale Gums
+Dog,Adult,Noise Phobia,Mild,Behavioral,Excessive Panting Anxiety Pacing Trembling Hiding
+Cat,Senior,Chronic Kidney Disease,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Vomiting Lethargy
+Dog,Puppy,Panosteitis,Moderate,Medical,Swollen Joints Fever Lameness Pain Lethargy
+Cat,Kitten,Coronavirus,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Congestive Heart Failure,Severe,Chronic,Difficulty Breathing Coughing Exercise Intolerance Fainting Collapse
+Cat,Adult,Rhinitis,Mild,Medical,Sneezing Nasal Discharge Congestion Loss of Appetite Lethargy
+Dog,Adult,Splenic Tumor,Severe,Surgical,Swollen Abdomen Lethargy Pale Gums Weakness Collapse
+Cat,Senior,Stomatitis,Moderate,Dental,Difficulty Eating Weight Loss Drooling Bad Breath Pawing at Mouth
+Dog,Puppy,Coronavirus,Moderate,Medical,Diarrhea Vomiting Lethargy Dehydration Fever
+Cat,Kitten,Bronchitis,Moderate,Medical,Difficulty Breathing Wheezing Coughing Lethargy Blue Gums
+Dog,Senior,Pleural Effusion,Severe,Emergency,Swollen Abdomen Difficulty Breathing Lethargy Coughing Exercise Intolerance
+Cat,Adult,Arthritis,Moderate,Chronic,Limping Joint Pain Swelling Fever Lethargy
+Dog,Adult,Separation Anxiety,Mild,Behavioral,Excessive Barking Pacing Destructive Behavior Escape Attempts House Soiling
+Cat,Senior,Lung Cancer,Severe,Terminal,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Osteomyelitis,Moderate,Medical,Limping Pain Swelling Fever Lethargy
+Cat,Kitten,Hydrocephalus,Severe,Chronic,Seizures Disorientation Circling Head Tilt Blindness
+Dog,Senior,Intervertebral Disc Disease,Severe,Surgical,Difficulty Walking Weakness Muscle Wasting Lethargy Incontinence
+Cat,Adult,Pancreatitis,Severe,Emergency,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Adult,Food Allergy,Moderate,Medical,Excessive Licking Scratching Hair Loss Skin Redness Hot Spots
+Cat,Senior,Diabetes Mellitus,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Poor Coat Lethargy
+Dog,Puppy,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Lethargy Fever Abdominal Pain
+Cat,Kitten,Intestinal Blockage,Severe,Surgical,Swollen Abdomen Lethargy Poor Growth Diarrhea Vomiting
+Dog,Senior,Pulmonary Fibrosis,Severe,Terminal,Difficulty Breathing Coughing Exercise Intolerance Lethargy Collapse
+Dog,Puppy,Vestibular Disease,Moderate,Medical,Head Tilt Disorientation Circling Loss of Balance Seizures
+Cat,Adult,Flea Allergy Dermatitis,Mild,Medical,Excessive Scratching Hair Loss Skin Lesions Irritability Restlessness
+Dog,Adult,Lymphoma,Severe,Terminal,Swollen Lymph Nodes Fever Lethargy Loss of Appetite Weight Loss
+Cat,Senior,Arthritis,Moderate,Chronic,Difficulty Jumping Stiffness Pain Reduced Activity Weight Gain
+Dog,Puppy,Parasitic Infection,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Cat,Kitten,Conjunctivitis,Mild,Medical,Swollen Eyes Discharge Squinting Redness Pawing at Face
+Dog,Senior,Hyperthyroidism,Moderate,Chronic,Excessive Panting Restlessness Increased Thirst Frequent Urination Weight Loss
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Diarrhea
+Dog,Adult,Oral Tumor,Severe,Surgical,Excessive Drooling Difficulty Eating Bad Breath Weight Loss Pawing at Mouth
+Cat,Senior,Heart Disease,Severe,Chronic,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Septic Arthritis,Moderate,Medical,Swollen Joints Lameness Pain Fever Lethargy
+Cat,Kitten,Parvovirus,Severe,Emergency,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Cognitive Dysfunction,Moderate,Chronic,Confusion Disorientation Changes in Sleep Anxiety Inappropriate Elimination
+Cat,Kitten,Feline Calicivirus,Moderate,Medical,Swollen Paw Pads Lethargy Fever Nasal Discharge Loss of Appetite
+Dog,Adult,Heat Stroke,Severe,Emergency,Excessive Panting Restlessness Pacing Whining Tremors
+Cat,Senior,Hypothyroidism,Moderate,Chronic,Weight Gain Thickened Skin Lethargy Slow Healing Recurrent Infections
+Dog,Puppy,Intestinal Parasites,Moderate,Medical,Abdominal Swelling Diarrhea Dehydration Poor Growth Dull Coat
+Cat,Adult,Psychogenic Alopecia,Mild,Behavioral,Excessive Grooming Hair Loss Skin Lesions Irritability Scratching
+Dog,Adult,Internal Bleeding,Severe,Emergency,Swollen Abdomen Difficulty Breathing Pale Gums Weakness Collapse
+Cat,Senior,Bladder Stones,Moderate,Surgical,Difficulty Urinating Blood in Urine Crying in Litter Box Frequent Licking Lethargy
+Dog,Puppy,Conjunctivitis,Mild,Medical,Eye Discharge Squinting Redness Pawing at Eye Swelling
+Cat,Kitten,Broken Bone,Moderate,Surgical,Limping Swollen Leg Pain Fever Lethargy
+Dog,Senior,Thyroid Disease,Moderate,Chronic,Increased Appetite Weight Loss Panting Restlessness Hair Loss
+Cat,Adult,Pleural Effusion,Severe,Emergency,Difficulty Breathing Open-Mouth Breathing Lethargy Blue Gums Collapse
+Dog,Adult,Acral Lick Dermatitis,Mild,Behavioral,Excessive Licking Hair Loss Skin Redness Anxiety Restlessness
+Cat,Senior,Abdominal Cancer,Severe,Terminal,Swollen Abdomen Difficulty Breathing Weight Loss Poor Appetite Lethargy
+Dog,Puppy,Hypoglycemia,Severe,Emergency,Difficulty Walking Weakness Tremors Collapse Seizures
+Cat,Kitten,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Senior,Tracheal Collapse,Moderate,Chronic,Coughing Gagging Difficulty Breathing Exercise Intolerance Collapse
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Pale Gums
+Dog,Adult,Noise Phobia,Mild,Behavioral,Excessive Panting Anxiety Pacing Trembling Hiding
+Cat,Senior,Chronic Kidney Disease,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Vomiting Lethargy
+Dog,Puppy,Panosteitis,Moderate,Medical,Swollen Joints Fever Lameness Pain Lethargy
+Cat,Kitten,Coronavirus,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Congestive Heart Failure,Severe,Chronic,Difficulty Breathing Coughing Exercise Intolerance Fainting Collapse
+Cat,Adult,Rhinitis,Mild,Medical,Sneezing Nasal Discharge Congestion Loss of Appetite Lethargy
+Dog,Adult,Splenic Tumor,Severe,Surgical,Swollen Abdomen Lethargy Pale Gums Weakness Collapse
+Cat,Senior,Stomatitis,Moderate,Dental,Difficulty Eating Weight Loss Drooling Bad Breath Pawing at Mouth
+Dog,Puppy,Coronavirus,Moderate,Medical,Diarrhea Vomiting Lethargy Dehydration Fever
+Cat,Kitten,Bronchitis,Moderate,Medical,Difficulty Breathing Wheezing Coughing Lethargy Blue Gums
+Dog,Senior,Pleural Effusion,Severe,Emergency,Swollen Abdomen Difficulty Breathing Lethargy Coughing Exercise Intolerance
+Cat,Adult,Arthritis,Moderate,Chronic,Limping Joint Pain Swelling Fever Lethargy
+Dog,Adult,Separation Anxiety,Mild,Behavioral,Excessive Barking Pacing Destructive Behavior Escape Attempts House Soiling
+Cat,Senior,Lung Cancer,Severe,Terminal,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Osteomyelitis,Moderate,Medical,Limping Pain Swelling Fever Lethargy
+Cat,Kitten,Hydrocephalus,Severe,Chronic,Seizures Disorientation Circling Head Tilt Blindness
+Dog,Senior,Intervertebral Disc Disease,Severe,Surgical,Difficulty Walking Weakness Muscle Wasting Lethargy Incontinence
+Cat,Adult,Pancreatitis,Severe,Emergency,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Adult,Food Allergy,Moderate,Medical,Excessive Licking Scratching Hair Loss Skin Redness Hot Spots
+Cat,Senior,Diabetes Mellitus,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Poor Coat Lethargy
+Dog,Puppy,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Lethargy Fever Abdominal Pain
+Cat,Kitten,Intestinal Blockage,Severe,Surgical,Swollen Abdomen Lethargy Poor Growth Diarrhea Vomiting
+Dog,Senior,Pulmonary Fibrosis,Severe,Terminal,Difficulty Breathing Coughing Exercise Intolerance Lethargy Collapse
+Dog,Puppy,Vestibular Disease,Moderate,Medical,Head Tilt Disorientation Circling Loss of Balance Seizures
+Cat,Adult,Flea Allergy Dermatitis,Mild,Medical,Excessive Scratching Hair Loss Skin Lesions Irritability Restlessness
+Dog,Adult,Lymphoma,Severe,Terminal,Swollen Lymph Nodes Fever Lethargy Loss of Appetite Weight Loss
+Cat,Senior,Arthritis,Moderate,Chronic,Difficulty Jumping Stiffness Pain Reduced Activity Weight Gain
+Dog,Puppy,Parasitic Infection,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Cat,Kitten,Conjunctivitis,Mild,Medical,Swollen Eyes Discharge Squinting Redness Pawing at Face
+Dog,Senior,Hyperthyroidism,Moderate,Chronic,Excessive Panting Restlessness Increased Thirst Frequent Urination Weight Loss
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Diarrhea
+Dog,Adult,Oral Tumor,Severe,Surgical,Excessive Drooling Difficulty Eating Bad Breath Weight Loss Pawing at Mouth
+Cat,Senior,Heart Disease,Severe,Chronic,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Septic Arthritis,Moderate,Medical,Swollen Joints Lameness Pain Fever Lethargy
+Cat,Kitten,Parvovirus,Severe,Emergency,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Cognitive Dysfunction,Moderate,Chronic,Confusion Disorientation Changes in Sleep Anxiety Inappropriate Elimination
+Cat,Kitten,Feline Calicivirus,Moderate,Medical,Swollen Paw Pads Lethargy Fever Nasal Discharge Loss of Appetite
+Dog,Adult,Heat Stroke,Severe,Emergency,Excessive Panting Restlessness Pacing Whining Tremors
+Cat,Senior,Hypothyroidism,Moderate,Chronic,Weight Gain Thickened Skin Lethargy Slow Healing Recurrent Infections
+Dog,Puppy,Intestinal Parasites,Moderate,Medical,Abdominal Swelling Diarrhea Dehydration Poor Growth Dull Coat
+Cat,Adult,Psychogenic Alopecia,Mild,Behavioral,Excessive Grooming Hair Loss Skin Lesions Irritability Scratching
+Dog,Adult,Internal Bleeding,Severe,Emergency,Swollen Abdomen Difficulty Breathing Pale Gums Weakness Collapse
+Cat,Senior,Bladder Stones,Moderate,Surgical,Difficulty Urinating Blood in Urine Crying in Litter Box Frequent Licking Lethargy
+Dog,Puppy,Conjunctivitis,Mild,Medical,Eye Discharge Squinting Redness Pawing at Eye Swelling
+Cat,Kitten,Broken Bone,Moderate,Surgical,Limping Swollen Leg Pain Fever Lethargy
+Dog,Senior,Thyroid Disease,Moderate,Chronic,Increased Appetite Weight Loss Panting Restlessness Hair Loss
+Cat,Adult,Pleural Effusion,Severe,Emergency,Difficulty Breathing Open-Mouth Breathing Lethargy Blue Gums Collapse
+Dog,Adult,Acral Lick Dermatitis,Mild,Behavioral,Excessive Licking Hair Loss Skin Redness Anxiety Restlessness
+Cat,Senior,Abdominal Cancer,Severe,Terminal,Swollen Abdomen Difficulty Breathing Weight Loss Poor Appetite Lethargy
+Dog,Puppy,Hypoglycemia,Severe,Emergency,Difficulty Walking Weakness Tremors Collapse Seizures
+Cat,Kitten,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Senior,Tracheal Collapse,Moderate,Chronic,Coughing Gagging Difficulty Breathing Exercise Intolerance Collapse
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Pale Gums
+Dog,Adult,Noise Phobia,Mild,Behavioral,Excessive Panting Anxiety Pacing Trembling Hiding
+Cat,Senior,Chronic Kidney Disease,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Vomiting Lethargy
+Dog,Puppy,Panosteitis,Moderate,Medical,Swollen Joints Fever Lameness Pain Lethargy
+Cat,Kitten,Coronavirus,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Congestive Heart Failure,Severe,Chronic,Difficulty Breathing Coughing Exercise Intolerance Fainting Collapse
+Cat,Adult,Rhinitis,Mild,Medical,Sneezing Nasal Discharge Congestion Loss of Appetite Lethargy
+Dog,Adult,Splenic Tumor,Severe,Surgical,Swollen Abdomen Lethargy Pale Gums Weakness Collapse
+Cat,Senior,Stomatitis,Moderate,Dental,Difficulty Eating Weight Loss Drooling Bad Breath Pawing at Mouth
+Dog,Puppy,Coronavirus,Moderate,Medical,Diarrhea Vomiting Lethargy Dehydration Fever
+Cat,Kitten,Bronchitis,Moderate,Medical,Difficulty Breathing Wheezing Coughing Lethargy Blue Gums
+Dog,Senior,Pleural Effusion,Severe,Emergency,Swollen Abdomen Difficulty Breathing Lethargy Coughing Exercise Intolerance
+Cat,Adult,Arthritis,Moderate,Chronic,Limping Joint Pain Swelling Fever Lethargy
+Dog,Adult,Separation Anxiety,Mild,Behavioral,Excessive Barking Pacing Destructive Behavior Escape Attempts House Soiling
+Cat,Senior,Lung Cancer,Severe,Terminal,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Osteomyelitis,Moderate,Medical,Limping Pain Swelling Fever Lethargy
+Cat,Kitten,Hydrocephalus,Severe,Chronic,Seizures Disorientation Circling Head Tilt Blindness
+Dog,Senior,Intervertebral Disc Disease,Severe,Surgical,Difficulty Walking Weakness Muscle Wasting Lethargy Incontinence
+Cat,Adult,Pancreatitis,Severe,Emergency,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Adult,Food Allergy,Moderate,Medical,Excessive Licking Scratching Hair Loss Skin Redness Hot Spots
+Cat,Senior,Diabetes Mellitus,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Poor Coat Lethargy
+Dog,Puppy,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Lethargy Fever Abdominal Pain
+Cat,Kitten,Intestinal Blockage,Severe,Surgical,Swollen Abdomen Lethargy Poor Growth Diarrhea Vomiting
+Dog,Senior,Pulmonary Fibrosis,Severe,Terminal,Difficulty Breathing Coughing Exercise Intolerance Lethargy Collapse
+Dog,Puppy,Vestibular Disease,Moderate,Medical,Head Tilt Disorientation Circling Loss of Balance Seizures
+Cat,Adult,Flea Allergy Dermatitis,Mild,Medical,Excessive Scratching Hair Loss Skin Lesions Irritability Restlessness
+Dog,Adult,Lymphoma,Severe,Terminal,Swollen Lymph Nodes Fever Lethargy Loss of Appetite Weight Loss
+Cat,Senior,Arthritis,Moderate,Chronic,Difficulty Jumping Stiffness Pain Reduced Activity Weight Gain
+Dog,Puppy,Parasitic Infection,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Cat,Kitten,Conjunctivitis,Mild,Medical,Swollen Eyes Discharge Squinting Redness Pawing at Face
+Dog,Senior,Hyperthyroidism,Moderate,Chronic,Excessive Panting Restlessness Increased Thirst Frequent Urination Weight Loss
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Diarrhea
+Dog,Adult,Oral Tumor,Severe,Surgical,Excessive Drooling Difficulty Eating Bad Breath Weight Loss Pawing at Mouth
+Cat,Senior,Heart Disease,Severe,Chronic,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Septic Arthritis,Moderate,Medical,Swollen Joints Lameness Pain Fever Lethargy
+Cat,Kitten,Parvovirus,Severe,Emergency,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Cognitive Dysfunction,Moderate,Chronic,Confusion Disorientation Changes in Sleep Anxiety Inappropriate Elimination
+Cat,Kitten,Feline Calicivirus,Moderate,Medical,Swollen Paw Pads Lethargy Fever Nasal Discharge Loss of Appetite
+Dog,Adult,Heat Stroke,Severe,Emergency,Excessive Panting Restlessness Pacing Whining Tremors
+Cat,Senior,Hypothyroidism,Moderate,Chronic,Weight Gain Thickened Skin Lethargy Slow Healing Recurrent Infections
+Dog,Puppy,Intestinal Parasites,Moderate,Medical,Abdominal Swelling Diarrhea Dehydration Poor Growth Dull Coat
+Cat,Adult,Psychogenic Alopecia,Mild,Behavioral,Excessive Grooming Hair Loss Skin Lesions Irritability Scratching
+Dog,Adult,Internal Bleeding,Severe,Emergency,Swollen Abdomen Difficulty Breathing Pale Gums Weakness Collapse
+Cat,Senior,Bladder Stones,Moderate,Surgical,Difficulty Urinating Blood in Urine Crying in Litter Box Frequent Licking Lethargy
+Dog,Puppy,Conjunctivitis,Mild,Medical,Eye Discharge Squinting Redness Pawing at Eye Swelling
+Cat,Kitten,Broken Bone,Moderate,Surgical,Limping Swollen Leg Pain Fever Lethargy
+Dog,Senior,Thyroid Disease,Moderate,Chronic,Increased Appetite Weight Loss Panting Restlessness Hair Loss
+Cat,Adult,Pleural Effusion,Severe,Emergency,Difficulty Breathing Open-Mouth Breathing Lethargy Blue Gums Collapse
+Dog,Adult,Acral Lick Dermatitis,Mild,Behavioral,Excessive Licking Hair Loss Skin Redness Anxiety Restlessness
+Cat,Senior,Abdominal Cancer,Severe,Terminal,Swollen Abdomen Difficulty Breathing Weight Loss Poor Appetite Lethargy
+Dog,Puppy,Hypoglycemia,Severe,Emergency,Difficulty Walking Weakness Tremors Collapse Seizures
+Cat,Kitten,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Senior,Tracheal Collapse,Moderate,Chronic,Coughing Gagging Difficulty Breathing Exercise Intolerance Collapse
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Pale Gums
+Dog,Adult,Noise Phobia,Mild,Behavioral,Excessive Panting Anxiety Pacing Trembling Hiding
+Cat,Senior,Chronic Kidney Disease,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Vomiting Lethargy
+Dog,Puppy,Panosteitis,Moderate,Medical,Swollen Joints Fever Lameness Pain Lethargy
+Cat,Kitten,Coronavirus,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Congestive Heart Failure,Severe,Chronic,Difficulty Breathing Coughing Exercise Intolerance Fainting Collapse
+Cat,Adult,Rhinitis,Mild,Medical,Sneezing Nasal Discharge Congestion Loss of Appetite Lethargy
+Dog,Adult,Splenic Tumor,Severe,Surgical,Swollen Abdomen Lethargy Pale Gums Weakness Collapse
+Cat,Senior,Stomatitis,Moderate,Dental,Difficulty Eating Weight Loss Drooling Bad Breath Pawing at Mouth
+Dog,Puppy,Coronavirus,Moderate,Medical,Diarrhea Vomiting Lethargy Dehydration Fever
+Cat,Kitten,Bronchitis,Moderate,Medical,Difficulty Breathing Wheezing Coughing Lethargy Blue Gums
+Dog,Senior,Pleural Effusion,Severe,Emergency,Swollen Abdomen Difficulty Breathing Lethargy Coughing Exercise Intolerance
+Cat,Adult,Arthritis,Moderate,Chronic,Limping Joint Pain Swelling Fever Lethargy
+Dog,Adult,Separation Anxiety,Mild,Behavioral,Excessive Barking Pacing Destructive Behavior Escape Attempts House Soiling
+Cat,Senior,Lung Cancer,Severe,Terminal,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Osteomyelitis,Moderate,Medical,Limping Pain Swelling Fever Lethargy
+Cat,Kitten,Hydrocephalus,Severe,Chronic,Seizures Disorientation Circling Head Tilt Blindness
+Dog,Senior,Intervertebral Disc Disease,Severe,Surgical,Difficulty Walking Weakness Muscle Wasting Lethargy Incontinence
+Cat,Adult,Pancreatitis,Severe,Emergency,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Adult,Food Allergy,Moderate,Medical,Excessive Licking Scratching Hair Loss Skin Redness Hot Spots
+Cat,Senior,Diabetes Mellitus,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Poor Coat Lethargy
+Dog,Puppy,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Lethargy Fever Abdominal Pain
+Cat,Kitten,Intestinal Blockage,Severe,Surgical,Swollen Abdomen Lethargy Poor Growth Diarrhea Vomiting
+Dog,Senior,Pulmonary Fibrosis,Severe,Terminal,Difficulty Breathing Coughing Exercise Intolerance Lethargy Collapse
+Dog,Puppy,Vestibular Disease,Moderate,Medical,Head Tilt Disorientation Circling Loss of Balance Seizures
+Cat,Adult,Flea Allergy Dermatitis,Mild,Medical,Excessive Scratching Hair Loss Skin Lesions Irritability Restlessness
+Dog,Adult,Lymphoma,Severe,Terminal,Swollen Lymph Nodes Fever Lethargy Loss of Appetite Weight Loss
+Cat,Senior,Arthritis,Moderate,Chronic,Difficulty Jumping Stiffness Pain Reduced Activity Weight Gain
+Dog,Puppy,Parasitic Infection,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Cat,Kitten,Conjunctivitis,Mild,Medical,Swollen Eyes Discharge Squinting Redness Pawing at Face
+Dog,Senior,Hyperthyroidism,Moderate,Chronic,Excessive Panting Restlessness Increased Thirst Frequent Urination Weight Loss
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Diarrhea
+Dog,Adult,Oral Tumor,Severe,Surgical,Excessive Drooling Difficulty Eating Bad Breath Weight Loss Pawing at Mouth
+Cat,Senior,Heart Disease,Severe,Chronic,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Septic Arthritis,Moderate,Medical,Swollen Joints Lameness Pain Fever Lethargy
+Cat,Kitten,Parvovirus,Severe,Emergency,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Cognitive Dysfunction,Moderate,Chronic,Confusion Disorientation Changes in Sleep Anxiety Inappropriate Elimination
+Cat,Kitten,Feline Calicivirus,Moderate,Medical,Swollen Paw Pads Lethargy Fever Nasal Discharge Loss of Appetite
+Dog,Adult,Heat Stroke,Severe,Emergency,Excessive Panting Restlessness Pacing Whining Tremors
+Cat,Senior,Hypothyroidism,Moderate,Chronic,Weight Gain Thickened Skin Lethargy Slow Healing Recurrent Infections
+Dog,Puppy,Intestinal Parasites,Moderate,Medical,Abdominal Swelling Diarrhea Dehydration Poor Growth Dull Coat
+Cat,Adult,Psychogenic Alopecia,Mild,Behavioral,Excessive Grooming Hair Loss Skin Lesions Irritability Scratching
+Dog,Adult,Internal Bleeding,Severe,Emergency,Swollen Abdomen Difficulty Breathing Pale Gums Weakness Collapse
+Cat,Senior,Bladder Stones,Moderate,Surgical,Difficulty Urinating Blood in Urine Crying in Litter Box Frequent Licking Lethargy
+Dog,Puppy,Conjunctivitis,Mild,Medical,Eye Discharge Squinting Redness Pawing at Eye Swelling
+Cat,Kitten,Broken Bone,Moderate,Surgical,Limping Swollen Leg Pain Fever Lethargy
+Dog,Senior,Thyroid Disease,Moderate,Chronic,Increased Appetite Weight Loss Panting Restlessness Hair Loss
+Cat,Adult,Pleural Effusion,Severe,Emergency,Difficulty Breathing Open-Mouth Breathing Lethargy Blue Gums Collapse
+Dog,Adult,Acral Lick Dermatitis,Mild,Behavioral,Excessive Licking Hair Loss Skin Redness Anxiety Restlessness
+Cat,Senior,Abdominal Cancer,Severe,Terminal,Swollen Abdomen Difficulty Breathing Weight Loss Poor Appetite Lethargy
+Dog,Puppy,Hypoglycemia,Severe,Emergency,Difficulty Walking Weakness Tremors Collapse Seizures
+Cat,Kitten,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Senior,Tracheal Collapse,Moderate,Chronic,Coughing Gagging Difficulty Breathing Exercise Intolerance Collapse
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Pale Gums
+Dog,Adult,Noise Phobia,Mild,Behavioral,Excessive Panting Anxiety Pacing Trembling Hiding
+Cat,Senior,Chronic Kidney Disease,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Vomiting Lethargy
+Dog,Puppy,Panosteitis,Moderate,Medical,Swollen Joints Fever Lameness Pain Lethargy
+Cat,Kitten,Coronavirus,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Congestive Heart Failure,Severe,Chronic,Difficulty Breathing Coughing Exercise Intolerance Fainting Collapse
+Cat,Adult,Rhinitis,Mild,Medical,Sneezing Nasal Discharge Congestion Loss of Appetite Lethargy
+Dog,Adult,Splenic Tumor,Severe,Surgical,Swollen Abdomen Lethargy Pale Gums Weakness Collapse
+Cat,Senior,Stomatitis,Moderate,Dental,Difficulty Eating Weight Loss Drooling Bad Breath Pawing at Mouth
+Dog,Puppy,Coronavirus,Moderate,Medical,Diarrhea Vomiting Lethargy Dehydration Fever
+Cat,Kitten,Bronchitis,Moderate,Medical,Difficulty Breathing Wheezing Coughing Lethargy Blue Gums
+Dog,Senior,Pleural Effusion,Severe,Emergency,Swollen Abdomen Difficulty Breathing Lethargy Coughing Exercise Intolerance
+Cat,Adult,Arthritis,Moderate,Chronic,Limping Joint Pain Swelling Fever Lethargy
+Dog,Adult,Separation Anxiety,Mild,Behavioral,Excessive Barking Pacing Destructive Behavior Escape Attempts House Soiling
+Cat,Senior,Lung Cancer,Severe,Terminal,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Osteomyelitis,Moderate,Medical,Limping Pain Swelling Fever Lethargy
+Cat,Kitten,Hydrocephalus,Severe,Chronic,Seizures Disorientation Circling Head Tilt Blindness
+Dog,Senior,Intervertebral Disc Disease,Severe,Surgical,Difficulty Walking Weakness Muscle Wasting Lethargy Incontinence
+Cat,Adult,Pancreatitis,Severe,Emergency,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Adult,Food Allergy,Moderate,Medical,Excessive Licking Scratching Hair Loss Skin Redness Hot Spots
+Cat,Senior,Diabetes Mellitus,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Poor Coat Lethargy
+Dog,Puppy,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Lethargy Fever Abdominal Pain
+Cat,Kitten,Intestinal Blockage,Severe,Surgical,Swollen Abdomen Lethargy Poor Growth Diarrhea Vomiting
+Dog,Senior,Pulmonary Fibrosis,Severe,Terminal,Difficulty Breathing Coughing Exercise Intolerance Lethargy Collapse
+Dog,Puppy,Vestibular Disease,Moderate,Medical,Head Tilt Disorientation Circling Loss of Balance Seizures
+Cat,Adult,Flea Allergy Dermatitis,Mild,Medical,Excessive Scratching Hair Loss Skin Lesions Irritability Restlessness
+Dog,Adult,Lymphoma,Severe,Terminal,Swollen Lymph Nodes Fever Lethargy Loss of Appetite Weight Loss
+Cat,Senior,Arthritis,Moderate,Chronic,Difficulty Jumping Stiffness Pain Reduced Activity Weight Gain
+Dog,Puppy,Parasitic Infection,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Cat,Kitten,Conjunctivitis,Mild,Medical,Swollen Eyes Discharge Squinting Redness Pawing at Face
+Dog,Senior,Hyperthyroidism,Moderate,Chronic,Excessive Panting Restlessness Increased Thirst Frequent Urination Weight Loss
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Diarrhea
+Dog,Adult,Oral Tumor,Severe,Surgical,Excessive Drooling Difficulty Eating Bad Breath Weight Loss Pawing at Mouth
+Cat,Senior,Heart Disease,Severe,Chronic,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Septic Arthritis,Moderate,Medical,Swollen Joints Lameness Pain Fever Lethargy
+Cat,Kitten,Parvovirus,Severe,Emergency,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Cognitive Dysfunction,Moderate,Chronic,Confusion Disorientation Changes in Sleep Anxiety Inappropriate Elimination
+Cat,Kitten,Feline Calicivirus,Moderate,Medical,Swollen Paw Pads Lethargy Fever Nasal Discharge Loss of Appetite
+Dog,Adult,Heat Stroke,Severe,Emergency,Excessive Panting Restlessness Pacing Whining Tremors
+Cat,Senior,Hypothyroidism,Moderate,Chronic,Weight Gain Thickened Skin Lethargy Slow Healing Recurrent Infections
+Dog,Puppy,Intestinal Parasites,Moderate,Medical,Abdominal Swelling Diarrhea Dehydration Poor Growth Dull Coat
+Cat,Adult,Psychogenic Alopecia,Mild,Behavioral,Excessive Grooming Hair Loss Skin Lesions Irritability Scratching
+Dog,Adult,Internal Bleeding,Severe,Emergency,Swollen Abdomen Difficulty Breathing Pale Gums Weakness Collapse
+Cat,Senior,Bladder Stones,Moderate,Surgical,Difficulty Urinating Blood in Urine Crying in Litter Box Frequent Licking Lethargy
+Dog,Puppy,Conjunctivitis,Mild,Medical,Eye Discharge Squinting Redness Pawing at Eye Swelling
+Cat,Kitten,Broken Bone,Moderate,Surgical,Limping Swollen Leg Pain Fever Lethargy
+Dog,Senior,Thyroid Disease,Moderate,Chronic,Increased Appetite Weight Loss Panting Restlessness Hair Loss
+Cat,Adult,Pleural Effusion,Severe,Emergency,Difficulty Breathing Open-Mouth Breathing Lethargy Blue Gums Collapse
+Dog,Adult,Acral Lick Dermatitis,Mild,Behavioral,Excessive Licking Hair Loss Skin Redness Anxiety Restlessness
+Cat,Senior,Abdominal Cancer,Severe,Terminal,Swollen Abdomen Difficulty Breathing Weight Loss Poor Appetite Lethargy
+Dog,Puppy,Hypoglycemia,Severe,Emergency,Difficulty Walking Weakness Tremors Collapse Seizures
+Cat,Kitten,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Senior,Tracheal Collapse,Moderate,Chronic,Coughing Gagging Difficulty Breathing Exercise Intolerance Collapse
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Pale Gums
+Dog,Adult,Noise Phobia,Mild,Behavioral,Excessive Panting Anxiety Pacing Trembling Hiding
+Cat,Senior,Chronic Kidney Disease,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Vomiting Lethargy
+Dog,Puppy,Panosteitis,Moderate,Medical,Swollen Joints Fever Lameness Pain Lethargy
+Cat,Kitten,Coronavirus,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Congestive Heart Failure,Severe,Chronic,Difficulty Breathing Coughing Exercise Intolerance Fainting Collapse
+Cat,Adult,Rhinitis,Mild,Medical,Sneezing Nasal Discharge Congestion Loss of Appetite Lethargy
+Dog,Adult,Splenic Tumor,Severe,Surgical,Swollen Abdomen Lethargy Pale Gums Weakness Collapse
+Cat,Senior,Stomatitis,Moderate,Dental,Difficulty Eating Weight Loss Drooling Bad Breath Pawing at Mouth
+Dog,Puppy,Coronavirus,Moderate,Medical,Diarrhea Vomiting Lethargy Dehydration Fever
+Cat,Kitten,Bronchitis,Moderate,Medical,Difficulty Breathing Wheezing Coughing Lethargy Blue Gums
+Dog,Senior,Pleural Effusion,Severe,Emergency,Swollen Abdomen Difficulty Breathing Lethargy Coughing Exercise Intolerance
+Cat,Adult,Arthritis,Moderate,Chronic,Limping Joint Pain Swelling Fever Lethargy
+Dog,Adult,Separation Anxiety,Mild,Behavioral,Excessive Barking Pacing Destructive Behavior Escape Attempts House Soiling
+Cat,Senior,Lung Cancer,Severe,Terminal,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Osteomyelitis,Moderate,Medical,Limping Pain Swelling Fever Lethargy
+Cat,Kitten,Hydrocephalus,Severe,Chronic,Seizures Disorientation Circling Head Tilt Blindness
+Dog,Senior,Intervertebral Disc Disease,Severe,Surgical,Difficulty Walking Weakness Muscle Wasting Lethargy Incontinence
+Cat,Adult,Pancreatitis,Severe,Emergency,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Adult,Food Allergy,Moderate,Medical,Excessive Licking Scratching Hair Loss Skin Redness Hot Spots
+Cat,Senior,Diabetes Mellitus,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Poor Coat Lethargy
+Dog,Puppy,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Lethargy Fever Abdominal Pain
+Cat,Kitten,Intestinal Blockage,Severe,Surgical,Swollen Abdomen Lethargy Poor Growth Diarrhea Vomiting
+Dog,Senior,Pulmonary Fibrosis,Severe,Terminal,Difficulty Breathing Coughing Exercise Intolerance Lethargy Collapse
+Dog,Puppy,Vestibular Disease,Moderate,Medical,Head Tilt Disorientation Circling Loss of Balance Seizures
+Cat,Adult,Flea Allergy Dermatitis,Mild,Medical,Excessive Scratching Hair Loss Skin Lesions Irritability Restlessness
+Dog,Adult,Lymphoma,Severe,Terminal,Swollen Lymph Nodes Fever Lethargy Loss of Appetite Weight Loss
+Cat,Senior,Arthritis,Moderate,Chronic,Difficulty Jumping Stiffness Pain Reduced Activity Weight Gain
+Dog,Puppy,Parasitic Infection,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Cat,Kitten,Conjunctivitis,Mild,Medical,Swollen Eyes Discharge Squinting Redness Pawing at Face
+Dog,Senior,Hyperthyroidism,Moderate,Chronic,Excessive Panting Restlessness Increased Thirst Frequent Urination Weight Loss
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Diarrhea
+Dog,Adult,Oral Tumor,Severe,Surgical,Excessive Drooling Difficulty Eating Bad Breath Weight Loss Pawing at Mouth
+Cat,Senior,Heart Disease,Severe,Chronic,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Septic Arthritis,Moderate,Medical,Swollen Joints Lameness Pain Fever Lethargy
+Cat,Kitten,Parvovirus,Severe,Emergency,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Cognitive Dysfunction,Moderate,Chronic,Confusion Disorientation Changes in Sleep Anxiety Inappropriate Elimination
+Cat,Kitten,Feline Calicivirus,Moderate,Medical,Swollen Paw Pads Lethargy Fever Nasal Discharge Loss of Appetite
+Dog,Adult,Heat Stroke,Severe,Emergency,Excessive Panting Restlessness Pacing Whining Tremors
+Cat,Senior,Hypothyroidism,Moderate,Chronic,Weight Gain Thickened Skin Lethargy Slow Healing Recurrent Infections
+Dog,Puppy,Intestinal Parasites,Moderate,Medical,Abdominal Swelling Diarrhea Dehydration Poor Growth Dull Coat
+Cat,Adult,Psychogenic Alopecia,Mild,Behavioral,Excessive Grooming Hair Loss Skin Lesions Irritability Scratching
+Dog,Adult,Internal Bleeding,Severe,Emergency,Swollen Abdomen Difficulty Breathing Pale Gums Weakness Collapse
+Cat,Senior,Bladder Stones,Moderate,Surgical,Difficulty Urinating Blood in Urine Crying in Litter Box Frequent Licking Lethargy
+Dog,Puppy,Conjunctivitis,Mild,Medical,Eye Discharge Squinting Redness Pawing at Eye Swelling
+Cat,Kitten,Broken Bone,Moderate,Surgical,Limping Swollen Leg Pain Fever Lethargy
+Dog,Senior,Thyroid Disease,Moderate,Chronic,Increased Appetite Weight Loss Panting Restlessness Hair Loss
+Cat,Adult,Pleural Effusion,Severe,Emergency,Difficulty Breathing Open-Mouth Breathing Lethargy Blue Gums Collapse
+Dog,Adult,Acral Lick Dermatitis,Mild,Behavioral,Excessive Licking Hair Loss Skin Redness Anxiety Restlessness
+Cat,Senior,Abdominal Cancer,Severe,Terminal,Swollen Abdomen Difficulty Breathing Weight Loss Poor Appetite Lethargy
+Dog,Puppy,Hypoglycemia,Severe,Emergency,Difficulty Walking Weakness Tremors Collapse Seizures
+Cat,Kitten,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Senior,Tracheal Collapse,Moderate,Chronic,Coughing Gagging Difficulty Breathing Exercise Intolerance Collapse
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Pale Gums
+Dog,Adult,Noise Phobia,Mild,Behavioral,Excessive Panting Anxiety Pacing Trembling Hiding
+Cat,Senior,Chronic Kidney Disease,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Vomiting Lethargy
+Dog,Puppy,Panosteitis,Moderate,Medical,Swollen Joints Fever Lameness Pain Lethargy
+Cat,Kitten,Coronavirus,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Congestive Heart Failure,Severe,Chronic,Difficulty Breathing Coughing Exercise Intolerance Fainting Collapse
+Cat,Adult,Rhinitis,Mild,Medical,Sneezing Nasal Discharge Congestion Loss of Appetite Lethargy
+Dog,Adult,Splenic Tumor,Severe,Surgical,Swollen Abdomen Lethargy Pale Gums Weakness Collapse
+Cat,Senior,Stomatitis,Moderate,Dental,Difficulty Eating Weight Loss Drooling Bad Breath Pawing at Mouth
+Dog,Puppy,Coronavirus,Moderate,Medical,Diarrhea Vomiting Lethargy Dehydration Fever
+Cat,Kitten,Bronchitis,Moderate,Medical,Difficulty Breathing Wheezing Coughing Lethargy Blue Gums
+Dog,Senior,Pleural Effusion,Severe,Emergency,Swollen Abdomen Difficulty Breathing Lethargy Coughing Exercise Intolerance
+Cat,Adult,Arthritis,Moderate,Chronic,Limping Joint Pain Swelling Fever Lethargy
+Dog,Adult,Separation Anxiety,Mild,Behavioral,Excessive Barking Pacing Destructive Behavior Escape Attempts House Soiling
+Cat,Senior,Lung Cancer,Severe,Terminal,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Osteomyelitis,Moderate,Medical,Limping Pain Swelling Fever Lethargy
+Cat,Kitten,Hydrocephalus,Severe,Chronic,Seizures Disorientation Circling Head Tilt Blindness
+Dog,Senior,Intervertebral Disc Disease,Severe,Surgical,Difficulty Walking Weakness Muscle Wasting Lethargy Incontinence
+Cat,Adult,Pancreatitis,Severe,Emergency,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Adult,Food Allergy,Moderate,Medical,Excessive Licking Scratching Hair Loss Skin Redness Hot Spots
+Cat,Senior,Diabetes Mellitus,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Poor Coat Lethargy
+Dog,Puppy,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Lethargy Fever Abdominal Pain
+Cat,Kitten,Intestinal Blockage,Severe,Surgical,Swollen Abdomen Lethargy Poor Growth Diarrhea Vomiting
+Dog,Senior,Pulmonary Fibrosis,Severe,Terminal,Difficulty Breathing Coughing Exercise Intolerance Lethargy Collapse
+Dog,Puppy,Vestibular Disease,Moderate,Medical,Head Tilt Disorientation Circling Loss of Balance Seizures
+Cat,Adult,Flea Allergy Dermatitis,Mild,Medical,Excessive Scratching Hair Loss Skin Lesions Irritability Restlessness
+Dog,Adult,Lymphoma,Severe,Terminal,Swollen Lymph Nodes Fever Lethargy Loss of Appetite Weight Loss
+Cat,Senior,Arthritis,Moderate,Chronic,Difficulty Jumping Stiffness Pain Reduced Activity Weight Gain
+Dog,Puppy,Parasitic Infection,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Cat,Kitten,Conjunctivitis,Mild,Medical,Swollen Eyes Discharge Squinting Redness Pawing at Face
+Dog,Senior,Hyperthyroidism,Moderate,Chronic,Excessive Panting Restlessness Increased Thirst Frequent Urination Weight Loss
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Diarrhea
+Dog,Adult,Oral Tumor,Severe,Surgical,Excessive Drooling Difficulty Eating Bad Breath Weight Loss Pawing at Mouth
+Cat,Senior,Heart Disease,Severe,Chronic,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Septic Arthritis,Moderate,Medical,Swollen Joints Lameness Pain Fever Lethargy
+Cat,Kitten,Parvovirus,Severe,Emergency,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Cognitive Dysfunction,Moderate,Chronic,Confusion Disorientation Changes in Sleep Anxiety Inappropriate Elimination
+Cat,Kitten,Feline Calicivirus,Moderate,Medical,Swollen Paw Pads Lethargy Fever Nasal Discharge Loss of Appetite
+Dog,Adult,Heat Stroke,Severe,Emergency,Excessive Panting Restlessness Pacing Whining Tremors
+Cat,Senior,Hypothyroidism,Moderate,Chronic,Weight Gain Thickened Skin Lethargy Slow Healing Recurrent Infections
+Dog,Puppy,Intestinal Parasites,Moderate,Medical,Abdominal Swelling Diarrhea Dehydration Poor Growth Dull Coat
+Cat,Adult,Psychogenic Alopecia,Mild,Behavioral,Excessive Grooming Hair Loss Skin Lesions Irritability Scratching
+Dog,Adult,Internal Bleeding,Severe,Emergency,Swollen Abdomen Difficulty Breathing Pale Gums Weakness Collapse
+Cat,Senior,Bladder Stones,Moderate,Surgical,Difficulty Urinating Blood in Urine Crying in Litter Box Frequent Licking Lethargy
+Dog,Puppy,Conjunctivitis,Mild,Medical,Eye Discharge Squinting Redness Pawing at Eye Swelling
+Cat,Kitten,Broken Bone,Moderate,Surgical,Limping Swollen Leg Pain Fever Lethargy
+Dog,Senior,Thyroid Disease,Moderate,Chronic,Increased Appetite Weight Loss Panting Restlessness Hair Loss
+Cat,Adult,Pleural Effusion,Severe,Emergency,Difficulty Breathing Open-Mouth Breathing Lethargy Blue Gums Collapse
+Dog,Adult,Acral Lick Dermatitis,Mild,Behavioral,Excessive Licking Hair Loss Skin Redness Anxiety Restlessness
+Cat,Senior,Abdominal Cancer,Severe,Terminal,Swollen Abdomen Difficulty Breathing Weight Loss Poor Appetite Lethargy
+Dog,Puppy,Hypoglycemia,Severe,Emergency,Difficulty Walking Weakness Tremors Collapse Seizures
+Cat,Kitten,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Senior,Tracheal Collapse,Moderate,Chronic,Coughing Gagging Difficulty Breathing Exercise Intolerance Collapse
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Pale Gums
+Dog,Adult,Noise Phobia,Mild,Behavioral,Excessive Panting Anxiety Pacing Trembling Hiding
+Cat,Senior,Chronic Kidney Disease,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Vomiting Lethargy
+Dog,Puppy,Panosteitis,Moderate,Medical,Swollen Joints Fever Lameness Pain Lethargy
+Cat,Kitten,Coronavirus,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Congestive Heart Failure,Severe,Chronic,Difficulty Breathing Coughing Exercise Intolerance Fainting Collapse
+Cat,Adult,Rhinitis,Mild,Medical,Sneezing Nasal Discharge Congestion Loss of Appetite Lethargy
+Dog,Adult,Splenic Tumor,Severe,Surgical,Swollen Abdomen Lethargy Pale Gums Weakness Collapse
+Cat,Senior,Stomatitis,Moderate,Dental,Difficulty Eating Weight Loss Drooling Bad Breath Pawing at Mouth
+Dog,Puppy,Coronavirus,Moderate,Medical,Diarrhea Vomiting Lethargy Dehydration Fever
+Cat,Kitten,Bronchitis,Moderate,Medical,Difficulty Breathing Wheezing Coughing Lethargy Blue Gums
+Dog,Senior,Pleural Effusion,Severe,Emergency,Swollen Abdomen Difficulty Breathing Lethargy Coughing Exercise Intolerance
+Cat,Adult,Arthritis,Moderate,Chronic,Limping Joint Pain Swelling Fever Lethargy
+Dog,Adult,Separation Anxiety,Mild,Behavioral,Excessive Barking Pacing Destructive Behavior Escape Attempts House Soiling
+Cat,Senior,Lung Cancer,Severe,Terminal,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Osteomyelitis,Moderate,Medical,Limping Pain Swelling Fever Lethargy
+Cat,Kitten,Hydrocephalus,Severe,Chronic,Seizures Disorientation Circling Head Tilt Blindness
+Dog,Senior,Intervertebral Disc Disease,Severe,Surgical,Difficulty Walking Weakness Muscle Wasting Lethargy Incontinence
+Cat,Adult,Pancreatitis,Severe,Emergency,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Adult,Food Allergy,Moderate,Medical,Excessive Licking Scratching Hair Loss Skin Redness Hot Spots
+Cat,Senior,Diabetes Mellitus,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Poor Coat Lethargy
+Dog,Puppy,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Lethargy Fever Abdominal Pain
+Cat,Kitten,Intestinal Blockage,Severe,Surgical,Swollen Abdomen Lethargy Poor Growth Diarrhea Vomiting
+Dog,Senior,Pulmonary Fibrosis,Severe,Terminal,Difficulty Breathing Coughing Exercise Intolerance Lethargy Collapse
+Dog,Puppy,Vestibular Disease,Moderate,Medical,Head Tilt Disorientation Circling Loss of Balance Seizures
+Cat,Adult,Flea Allergy Dermatitis,Mild,Medical,Excessive Scratching Hair Loss Skin Lesions Irritability Restlessness
+Dog,Adult,Lymphoma,Severe,Terminal,Swollen Lymph Nodes Fever Lethargy Loss of Appetite Weight Loss
+Cat,Senior,Arthritis,Moderate,Chronic,Difficulty Jumping Stiffness Pain Reduced Activity Weight Gain
+Dog,Puppy,Parasitic Infection,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Cat,Kitten,Conjunctivitis,Mild,Medical,Swollen Eyes Discharge Squinting Redness Pawing at Face
+Dog,Senior,Hyperthyroidism,Moderate,Chronic,Excessive Panting Restlessness Increased Thirst Frequent Urination Weight Loss
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Diarrhea
+Dog,Adult,Oral Tumor,Severe,Surgical,Excessive Drooling Difficulty Eating Bad Breath Weight Loss Pawing at Mouth
+Cat,Senior,Heart Disease,Severe,Chronic,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Septic Arthritis,Moderate,Medical,Swollen Joints Lameness Pain Fever Lethargy
+Cat,Kitten,Parvovirus,Severe,Emergency,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Cognitive Dysfunction,Moderate,Chronic,Confusion Disorientation Changes in Sleep Anxiety Inappropriate Elimination
+Cat,Kitten,Feline Calicivirus,Moderate,Medical,Swollen Paw Pads Lethargy Fever Nasal Discharge Loss of Appetite
+Dog,Adult,Heat Stroke,Severe,Emergency,Excessive Panting Restlessness Pacing Whining Tremors
+Cat,Senior,Hypothyroidism,Moderate,Chronic,Weight Gain Thickened Skin Lethargy Slow Healing Recurrent Infections
+Dog,Puppy,Intestinal Parasites,Moderate,Medical,Abdominal Swelling Diarrhea Dehydration Poor Growth Dull Coat
+Cat,Adult,Psychogenic Alopecia,Mild,Behavioral,Excessive Grooming Hair Loss Skin Lesions Irritability Scratching
+Dog,Adult,Internal Bleeding,Severe,Emergency,Swollen Abdomen Difficulty Breathing Pale Gums Weakness Collapse
+Cat,Senior,Bladder Stones,Moderate,Surgical,Difficulty Urinating Blood in Urine Crying in Litter Box Frequent Licking Lethargy
+Dog,Puppy,Conjunctivitis,Mild,Medical,Eye Discharge Squinting Redness Pawing at Eye Swelling
+Cat,Kitten,Broken Bone,Moderate,Surgical,Limping Swollen Leg Pain Fever Lethargy
+Dog,Senior,Thyroid Disease,Moderate,Chronic,Increased Appetite Weight Loss Panting Restlessness Hair Loss
+Cat,Adult,Pleural Effusion,Severe,Emergency,Difficulty Breathing Open-Mouth Breathing Lethargy Blue Gums Collapse
+Dog,Adult,Acral Lick Dermatitis,Mild,Behavioral,Excessive Licking Hair Loss Skin Redness Anxiety Restlessness
+Cat,Senior,Abdominal Cancer,Severe,Terminal,Swollen Abdomen Difficulty Breathing Weight Loss Poor Appetite Lethargy
+Dog,Puppy,Hypoglycemia,Severe,Emergency,Difficulty Walking Weakness Tremors Collapse Seizures
+Cat,Kitten,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Senior,Tracheal Collapse,Moderate,Chronic,Coughing Gagging Difficulty Breathing Exercise Intolerance Collapse
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Pale Gums
+Dog,Adult,Noise Phobia,Mild,Behavioral,Excessive Panting Anxiety Pacing Trembling Hiding
+Cat,Senior,Chronic Kidney Disease,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Vomiting Lethargy
+Dog,Puppy,Panosteitis,Moderate,Medical,Swollen Joints Fever Lameness Pain Lethargy
+Cat,Kitten,Coronavirus,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Congestive Heart Failure,Severe,Chronic,Difficulty Breathing Coughing Exercise Intolerance Fainting Collapse
+Cat,Adult,Rhinitis,Mild,Medical,Sneezing Nasal Discharge Congestion Loss of Appetite Lethargy
+Dog,Adult,Splenic Tumor,Severe,Surgical,Swollen Abdomen Lethargy Pale Gums Weakness Collapse
+Cat,Senior,Stomatitis,Moderate,Dental,Difficulty Eating Weight Loss Drooling Bad Breath Pawing at Mouth
+Dog,Puppy,Coronavirus,Moderate,Medical,Diarrhea Vomiting Lethargy Dehydration Fever
+Cat,Kitten,Bronchitis,Moderate,Medical,Difficulty Breathing Wheezing Coughing Lethargy Blue Gums
+Dog,Senior,Pleural Effusion,Severe,Emergency,Swollen Abdomen Difficulty Breathing Lethargy Coughing Exercise Intolerance
+Cat,Adult,Arthritis,Moderate,Chronic,Limping Joint Pain Swelling Fever Lethargy
+Dog,Adult,Separation Anxiety,Mild,Behavioral,Excessive Barking Pacing Destructive Behavior Escape Attempts House Soiling
+Cat,Senior,Lung Cancer,Severe,Terminal,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Osteomyelitis,Moderate,Medical,Limping Pain Swelling Fever Lethargy
+Cat,Kitten,Hydrocephalus,Severe,Chronic,Seizures Disorientation Circling Head Tilt Blindness
+Dog,Senior,Intervertebral Disc Disease,Severe,Surgical,Difficulty Walking Weakness Muscle Wasting Lethargy Incontinence
+Cat,Adult,Pancreatitis,Severe,Emergency,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Adult,Food Allergy,Moderate,Medical,Excessive Licking Scratching Hair Loss Skin Redness Hot Spots
+Cat,Senior,Diabetes Mellitus,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Poor Coat Lethargy
+Dog,Puppy,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Lethargy Fever Abdominal Pain
+Cat,Kitten,Intestinal Blockage,Severe,Surgical,Swollen Abdomen Lethargy Poor Growth Diarrhea Vomiting
+Dog,Senior,Pulmonary Fibrosis,Severe,Terminal,Difficulty Breathing Coughing Exercise Intolerance Lethargy Collapse
+Dog,Puppy,Vestibular Disease,Moderate,Medical,Head Tilt Disorientation Circling Loss of Balance Seizures
+Cat,Adult,Flea Allergy Dermatitis,Mild,Medical,Excessive Scratching Hair Loss Skin Lesions Irritability Restlessness
+Dog,Adult,Lymphoma,Severe,Terminal,Swollen Lymph Nodes Fever Lethargy Loss of Appetite Weight Loss
+Cat,Senior,Arthritis,Moderate,Chronic,Difficulty Jumping Stiffness Pain Reduced Activity Weight Gain
+Dog,Puppy,Parasitic Infection,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Cat,Kitten,Conjunctivitis,Mild,Medical,Swollen Eyes Discharge Squinting Redness Pawing at Face
+Dog,Senior,Hyperthyroidism,Moderate,Chronic,Excessive Panting Restlessness Increased Thirst Frequent Urination Weight Loss
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Diarrhea
+Dog,Adult,Oral Tumor,Severe,Surgical,Excessive Drooling Difficulty Eating Bad Breath Weight Loss Pawing at Mouth
+Cat,Senior,Heart Disease,Severe,Chronic,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Septic Arthritis,Moderate,Medical,Swollen Joints Lameness Pain Fever Lethargy
+Cat,Kitten,Parvovirus,Severe,Emergency,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Cognitive Dysfunction,Moderate,Chronic,Confusion Disorientation Changes in Sleep Anxiety Inappropriate Elimination
+Cat,Kitten,Feline Calicivirus,Moderate,Medical,Swollen Paw Pads Lethargy Fever Nasal Discharge Loss of Appetite
+Dog,Adult,Heat Stroke,Severe,Emergency,Excessive Panting Restlessness Pacing Whining Tremors
+Cat,Senior,Hypothyroidism,Moderate,Chronic,Weight Gain Thickened Skin Lethargy Slow Healing Recurrent Infections
+Dog,Puppy,Intestinal Parasites,Moderate,Medical,Abdominal Swelling Diarrhea Dehydration Poor Growth Dull Coat
+Cat,Adult,Psychogenic Alopecia,Mild,Behavioral,Excessive Grooming Hair Loss Skin Lesions Irritability Scratching
+Dog,Adult,Internal Bleeding,Severe,Emergency,Swollen Abdomen Difficulty Breathing Pale Gums Weakness Collapse
+Cat,Senior,Bladder Stones,Moderate,Surgical,Difficulty Urinating Blood in Urine Crying in Litter Box Frequent Licking Lethargy
+Dog,Puppy,Conjunctivitis,Mild,Medical,Eye Discharge Squinting Redness Pawing at Eye Swelling
+Cat,Kitten,Broken Bone,Moderate,Surgical,Limping Swollen Leg Pain Fever Lethargy
+Dog,Senior,Thyroid Disease,Moderate,Chronic,Increased Appetite Weight Loss Panting Restlessness Hair Loss
+Cat,Adult,Pleural Effusion,Severe,Emergency,Difficulty Breathing Open-Mouth Breathing Lethargy Blue Gums Collapse
+Dog,Adult,Acral Lick Dermatitis,Mild,Behavioral,Excessive Licking Hair Loss Skin Redness Anxiety Restlessness
+Cat,Senior,Abdominal Cancer,Severe,Terminal,Swollen Abdomen Difficulty Breathing Weight Loss Poor Appetite Lethargy
+Dog,Puppy,Hypoglycemia,Severe,Emergency,Difficulty Walking Weakness Tremors Collapse Seizures
+Cat,Kitten,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Senior,Tracheal Collapse,Moderate,Chronic,Coughing Gagging Difficulty Breathing Exercise Intolerance Collapse
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Pale Gums
+Dog,Adult,Noise Phobia,Mild,Behavioral,Excessive Panting Anxiety Pacing Trembling Hiding
+Cat,Senior,Chronic Kidney Disease,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Vomiting Lethargy
+Dog,Puppy,Panosteitis,Moderate,Medical,Swollen Joints Fever Lameness Pain Lethargy
+Cat,Kitten,Coronavirus,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Congestive Heart Failure,Severe,Chronic,Difficulty Breathing Coughing Exercise Intolerance Fainting Collapse
+Cat,Adult,Rhinitis,Mild,Medical,Sneezing Nasal Discharge Congestion Loss of Appetite Lethargy
+Dog,Adult,Splenic Tumor,Severe,Surgical,Swollen Abdomen Lethargy Pale Gums Weakness Collapse
+Cat,Senior,Stomatitis,Moderate,Dental,Difficulty Eating Weight Loss Drooling Bad Breath Pawing at Mouth
+Dog,Puppy,Coronavirus,Moderate,Medical,Diarrhea Vomiting Lethargy Dehydration Fever
+Cat,Kitten,Bronchitis,Moderate,Medical,Difficulty Breathing Wheezing Coughing Lethargy Blue Gums
+Dog,Senior,Pleural Effusion,Severe,Emergency,Swollen Abdomen Difficulty Breathing Lethargy Coughing Exercise Intolerance
+Cat,Adult,Arthritis,Moderate,Chronic,Limping Joint Pain Swelling Fever Lethargy
+Dog,Adult,Separation Anxiety,Mild,Behavioral,Excessive Barking Pacing Destructive Behavior Escape Attempts House Soiling
+Cat,Senior,Lung Cancer,Severe,Terminal,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Osteomyelitis,Moderate,Medical,Limping Pain Swelling Fever Lethargy
+Cat,Kitten,Hydrocephalus,Severe,Chronic,Seizures Disorientation Circling Head Tilt Blindness
+Dog,Senior,Intervertebral Disc Disease,Severe,Surgical,Difficulty Walking Weakness Muscle Wasting Lethargy Incontinence
+Cat,Adult,Pancreatitis,Severe,Emergency,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Adult,Food Allergy,Moderate,Medical,Excessive Licking Scratching Hair Loss Skin Redness Hot Spots
+Cat,Senior,Diabetes Mellitus,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Poor Coat Lethargy
+Dog,Puppy,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Lethargy Fever Abdominal Pain
+Cat,Kitten,Intestinal Blockage,Severe,Surgical,Swollen Abdomen Lethargy Poor Growth Diarrhea Vomiting
+Dog,Senior,Pulmonary Fibrosis,Severe,Terminal,Difficulty Breathing Coughing Exercise Intolerance Lethargy Collapse
+Dog,Puppy,Vestibular Disease,Moderate,Medical,Head Tilt Disorientation Circling Loss of Balance Seizures
+Cat,Adult,Flea Allergy Dermatitis,Mild,Medical,Excessive Scratching Hair Loss Skin Lesions Irritability Restlessness
+Dog,Adult,Lymphoma,Severe,Terminal,Swollen Lymph Nodes Fever Lethargy Loss of Appetite Weight Loss
+Cat,Senior,Arthritis,Moderate,Chronic,Difficulty Jumping Stiffness Pain Reduced Activity Weight Gain
+Dog,Puppy,Parasitic Infection,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Cat,Kitten,Conjunctivitis,Mild,Medical,Swollen Eyes Discharge Squinting Redness Pawing at Face
+Dog,Senior,Hyperthyroidism,Moderate,Chronic,Excessive Panting Restlessness Increased Thirst Frequent Urination Weight Loss
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Diarrhea
+Dog,Adult,Oral Tumor,Severe,Surgical,Excessive Drooling Difficulty Eating Bad Breath Weight Loss Pawing at Mouth
+Cat,Senior,Heart Disease,Severe,Chronic,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Septic Arthritis,Moderate,Medical,Swollen Joints Lameness Pain Fever Lethargy
+Cat,Kitten,Parvovirus,Severe,Emergency,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Cognitive Dysfunction,Moderate,Chronic,Confusion Disorientation Changes in Sleep Anxiety Inappropriate Elimination
+Cat,Kitten,Feline Calicivirus,Moderate,Medical,Swollen Paw Pads Lethargy Fever Nasal Discharge Loss of Appetite
+Dog,Adult,Heat Stroke,Severe,Emergency,Excessive Panting Restlessness Pacing Whining Tremors
+Cat,Senior,Hypothyroidism,Moderate,Chronic,Weight Gain Thickened Skin Lethargy Slow Healing Recurrent Infections
+Dog,Puppy,Intestinal Parasites,Moderate,Medical,Abdominal Swelling Diarrhea Dehydration Poor Growth Dull Coat
+Cat,Adult,Psychogenic Alopecia,Mild,Behavioral,Excessive Grooming Hair Loss Skin Lesions Irritability Scratching
+Dog,Adult,Internal Bleeding,Severe,Emergency,Swollen Abdomen Difficulty Breathing Pale Gums Weakness Collapse
+Cat,Senior,Bladder Stones,Moderate,Surgical,Difficulty Urinating Blood in Urine Crying in Litter Box Frequent Licking Lethargy
+Dog,Puppy,Conjunctivitis,Mild,Medical,Eye Discharge Squinting Redness Pawing at Eye Swelling
+Cat,Kitten,Broken Bone,Moderate,Surgical,Limping Swollen Leg Pain Fever Lethargy
+Dog,Senior,Thyroid Disease,Moderate,Chronic,Increased Appetite Weight Loss Panting Restlessness Hair Loss
+Cat,Adult,Pleural Effusion,Severe,Emergency,Difficulty Breathing Open-Mouth Breathing Lethargy Blue Gums Collapse
+Dog,Adult,Acral Lick Dermatitis,Mild,Behavioral,Excessive Licking Hair Loss Skin Redness Anxiety Restlessness
+Cat,Senior,Abdominal Cancer,Severe,Terminal,Swollen Abdomen Difficulty Breathing Weight Loss Poor Appetite Lethargy
+Dog,Puppy,Hypoglycemia,Severe,Emergency,Difficulty Walking Weakness Tremors Collapse Seizures
+Cat,Kitten,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Senior,Tracheal Collapse,Moderate,Chronic,Coughing Gagging Difficulty Breathing Exercise Intolerance Collapse
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Pale Gums
+Dog,Adult,Noise Phobia,Mild,Behavioral,Excessive Panting Anxiety Pacing Trembling Hiding
+Cat,Senior,Chronic Kidney Disease,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Vomiting Lethargy
+Dog,Puppy,Panosteitis,Moderate,Medical,Swollen Joints Fever Lameness Pain Lethargy
+Cat,Kitten,Coronavirus,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Congestive Heart Failure,Severe,Chronic,Difficulty Breathing Coughing Exercise Intolerance Fainting Collapse
+Cat,Adult,Rhinitis,Mild,Medical,Sneezing Nasal Discharge Congestion Loss of Appetite Lethargy
+Dog,Adult,Splenic Tumor,Severe,Surgical,Swollen Abdomen Lethargy Pale Gums Weakness Collapse
+Cat,Senior,Stomatitis,Moderate,Dental,Difficulty Eating Weight Loss Drooling Bad Breath Pawing at Mouth
+Dog,Puppy,Coronavirus,Moderate,Medical,Diarrhea Vomiting Lethargy Dehydration Fever
+Cat,Kitten,Bronchitis,Moderate,Medical,Difficulty Breathing Wheezing Coughing Lethargy Blue Gums
+Dog,Senior,Pleural Effusion,Severe,Emergency,Swollen Abdomen Difficulty Breathing Lethargy Coughing Exercise Intolerance
+Cat,Adult,Arthritis,Moderate,Chronic,Limping Joint Pain Swelling Fever Lethargy
+Dog,Adult,Separation Anxiety,Mild,Behavioral,Excessive Barking Pacing Destructive Behavior Escape Attempts House Soiling
+Cat,Senior,Lung Cancer,Severe,Terminal,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Osteomyelitis,Moderate,Medical,Limping Pain Swelling Fever Lethargy
+Cat,Kitten,Hydrocephalus,Severe,Chronic,Seizures Disorientation Circling Head Tilt Blindness
+Dog,Senior,Intervertebral Disc Disease,Severe,Surgical,Difficulty Walking Weakness Muscle Wasting Lethargy Incontinence
+Cat,Adult,Pancreatitis,Severe,Emergency,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Adult,Food Allergy,Moderate,Medical,Excessive Licking Scratching Hair Loss Skin Redness Hot Spots
+Cat,Senior,Diabetes Mellitus,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Poor Coat Lethargy
+Dog,Puppy,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Lethargy Fever Abdominal Pain
+Cat,Kitten,Intestinal Blockage,Severe,Surgical,Swollen Abdomen Lethargy Poor Growth Diarrhea Vomiting
+Dog,Senior,Pulmonary Fibrosis,Severe,Terminal,Difficulty Breathing Coughing Exercise Intolerance Lethargy Collapse
+Dog,Puppy,Vestibular Disease,Moderate,Medical,Head Tilt Disorientation Circling Loss of Balance Seizures
+Cat,Adult,Flea Allergy Dermatitis,Mild,Medical,Excessive Scratching Hair Loss Skin Lesions Irritability Restlessness
+Dog,Adult,Lymphoma,Severe,Terminal,Swollen Lymph Nodes Fever Lethargy Loss of Appetite Weight Loss
+Cat,Senior,Arthritis,Moderate,Chronic,Difficulty Jumping Stiffness Pain Reduced Activity Weight Gain
+Dog,Puppy,Parasitic Infection,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Cat,Kitten,Conjunctivitis,Mild,Medical,Swollen Eyes Discharge Squinting Redness Pawing at Face
+Dog,Senior,Hyperthyroidism,Moderate,Chronic,Excessive Panting Restlessness Increased Thirst Frequent Urination Weight Loss
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Diarrhea
+Dog,Adult,Oral Tumor,Severe,Surgical,Excessive Drooling Difficulty Eating Bad Breath Weight Loss Pawing at Mouth
+Cat,Senior,Heart Disease,Severe,Chronic,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Septic Arthritis,Moderate,Medical,Swollen Joints Lameness Pain Fever Lethargy
+Cat,Kitten,Parvovirus,Severe,Emergency,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Cognitive Dysfunction,Moderate,Chronic,Confusion Disorientation Changes in Sleep Anxiety Inappropriate Elimination
+Cat,Kitten,Feline Calicivirus,Moderate,Medical,Swollen Paw Pads Lethargy Fever Nasal Discharge Loss of Appetite
+Dog,Adult,Heat Stroke,Severe,Emergency,Excessive Panting Restlessness Pacing Whining Tremors
+Cat,Senior,Hypothyroidism,Moderate,Chronic,Weight Gain Thickened Skin Lethargy Slow Healing Recurrent Infections
+Dog,Puppy,Intestinal Parasites,Moderate,Medical,Abdominal Swelling Diarrhea Dehydration Poor Growth Dull Coat
+Cat,Adult,Psychogenic Alopecia,Mild,Behavioral,Excessive Grooming Hair Loss Skin Lesions Irritability Scratching
+Dog,Adult,Internal Bleeding,Severe,Emergency,Swollen Abdomen Difficulty Breathing Pale Gums Weakness Collapse
+Cat,Senior,Bladder Stones,Moderate,Surgical,Difficulty Urinating Blood in Urine Crying in Litter Box Frequent Licking Lethargy
+Dog,Puppy,Conjunctivitis,Mild,Medical,Eye Discharge Squinting Redness Pawing at Eye Swelling
+Cat,Kitten,Broken Bone,Moderate,Surgical,Limping Swollen Leg Pain Fever Lethargy
+Dog,Senior,Thyroid Disease,Moderate,Chronic,Increased Appetite Weight Loss Panting Restlessness Hair Loss
+Cat,Adult,Pleural Effusion,Severe,Emergency,Difficulty Breathing Open-Mouth Breathing Lethargy Blue Gums Collapse
+Dog,Adult,Acral Lick Dermatitis,Mild,Behavioral,Excessive Licking Hair Loss Skin Redness Anxiety Restlessness
+Cat,Senior,Abdominal Cancer,Severe,Terminal,Swollen Abdomen Difficulty Breathing Weight Loss Poor Appetite Lethargy
+Dog,Puppy,Hypoglycemia,Severe,Emergency,Difficulty Walking Weakness Tremors Collapse Seizures
+Cat,Kitten,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Senior,Tracheal Collapse,Moderate,Chronic,Coughing Gagging Difficulty Breathing Exercise Intolerance Collapse
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Pale Gums
+Dog,Adult,Noise Phobia,Mild,Behavioral,Excessive Panting Anxiety Pacing Trembling Hiding
+Cat,Senior,Chronic Kidney Disease,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Vomiting Lethargy
+Dog,Puppy,Panosteitis,Moderate,Medical,Swollen Joints Fever Lameness Pain Lethargy
+Cat,Kitten,Coronavirus,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Congestive Heart Failure,Severe,Chronic,Difficulty Breathing Coughing Exercise Intolerance Fainting Collapse
+Cat,Adult,Rhinitis,Mild,Medical,Sneezing Nasal Discharge Congestion Loss of Appetite Lethargy
+Dog,Adult,Splenic Tumor,Severe,Surgical,Swollen Abdomen Lethargy Pale Gums Weakness Collapse
+Cat,Senior,Stomatitis,Moderate,Dental,Difficulty Eating Weight Loss Drooling Bad Breath Pawing at Mouth
+Dog,Puppy,Coronavirus,Moderate,Medical,Diarrhea Vomiting Lethargy Dehydration Fever
+Cat,Kitten,Bronchitis,Moderate,Medical,Difficulty Breathing Wheezing Coughing Lethargy Blue Gums
+Dog,Senior,Pleural Effusion,Severe,Emergency,Swollen Abdomen Difficulty Breathing Lethargy Coughing Exercise Intolerance
+Cat,Adult,Arthritis,Moderate,Chronic,Limping Joint Pain Swelling Fever Lethargy
+Dog,Adult,Separation Anxiety,Mild,Behavioral,Excessive Barking Pacing Destructive Behavior Escape Attempts House Soiling
+Cat,Senior,Lung Cancer,Severe,Terminal,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Osteomyelitis,Moderate,Medical,Limping Pain Swelling Fever Lethargy
+Cat,Kitten,Hydrocephalus,Severe,Chronic,Seizures Disorientation Circling Head Tilt Blindness
+Dog,Senior,Intervertebral Disc Disease,Severe,Surgical,Difficulty Walking Weakness Muscle Wasting Lethargy Incontinence
+Cat,Adult,Pancreatitis,Severe,Emergency,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Adult,Food Allergy,Moderate,Medical,Excessive Licking Scratching Hair Loss Skin Redness Hot Spots
+Cat,Senior,Diabetes Mellitus,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Poor Coat Lethargy
+Dog,Puppy,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Lethargy Fever Abdominal Pain
+Cat,Kitten,Intestinal Blockage,Severe,Surgical,Swollen Abdomen Lethargy Poor Growth Diarrhea Vomiting
+Dog,Senior,Pulmonary Fibrosis,Severe,Terminal,Difficulty Breathing Coughing Exercise Intolerance Lethargy Collapse
+Dog,Puppy,Vestibular Disease,Moderate,Medical,Head Tilt Disorientation Circling Loss of Balance Seizures
+Cat,Adult,Flea Allergy Dermatitis,Mild,Medical,Excessive Scratching Hair Loss Skin Lesions Irritability Restlessness
+Dog,Adult,Lymphoma,Severe,Terminal,Swollen Lymph Nodes Fever Lethargy Loss of Appetite Weight Loss
+Cat,Senior,Arthritis,Moderate,Chronic,Difficulty Jumping Stiffness Pain Reduced Activity Weight Gain
+Dog,Puppy,Parasitic Infection,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Cat,Kitten,Conjunctivitis,Mild,Medical,Swollen Eyes Discharge Squinting Redness Pawing at Face
+Dog,Senior,Hyperthyroidism,Moderate,Chronic,Excessive Panting Restlessness Increased Thirst Frequent Urination Weight Loss
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Diarrhea
+Dog,Adult,Oral Tumor,Severe,Surgical,Excessive Drooling Difficulty Eating Bad Breath Weight Loss Pawing at Mouth
+Cat,Senior,Heart Disease,Severe,Chronic,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Septic Arthritis,Moderate,Medical,Swollen Joints Lameness Pain Fever Lethargy
+Cat,Kitten,Parvovirus,Severe,Emergency,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Cognitive Dysfunction,Moderate,Chronic,Confusion Disorientation Changes in Sleep Anxiety Inappropriate Elimination
+Cat,Kitten,Feline Calicivirus,Moderate,Medical,Swollen Paw Pads Lethargy Fever Nasal Discharge Loss of Appetite
+Dog,Adult,Heat Stroke,Severe,Emergency,Excessive Panting Restlessness Pacing Whining Tremors
+Cat,Senior,Hypothyroidism,Moderate,Chronic,Weight Gain Thickened Skin Lethargy Slow Healing Recurrent Infections
+Dog,Puppy,Intestinal Parasites,Moderate,Medical,Abdominal Swelling Diarrhea Dehydration Poor Growth Dull Coat
+Cat,Adult,Psychogenic Alopecia,Mild,Behavioral,Excessive Grooming Hair Loss Skin Lesions Irritability Scratching
+Dog,Adult,Internal Bleeding,Severe,Emergency,Swollen Abdomen Difficulty Breathing Pale Gums Weakness Collapse
+Cat,Senior,Bladder Stones,Moderate,Surgical,Difficulty Urinating Blood in Urine Crying in Litter Box Frequent Licking Lethargy
+Dog,Puppy,Conjunctivitis,Mild,Medical,Eye Discharge Squinting Redness Pawing at Eye Swelling
+Cat,Kitten,Broken Bone,Moderate,Surgical,Limping Swollen Leg Pain Fever Lethargy
+Dog,Senior,Thyroid Disease,Moderate,Chronic,Increased Appetite Weight Loss Panting Restlessness Hair Loss
+Cat,Adult,Pleural Effusion,Severe,Emergency,Difficulty Breathing Open-Mouth Breathing Lethargy Blue Gums Collapse
+Dog,Adult,Acral Lick Dermatitis,Mild,Behavioral,Excessive Licking Hair Loss Skin Redness Anxiety Restlessness
+Cat,Senior,Abdominal Cancer,Severe,Terminal,Swollen Abdomen Difficulty Breathing Weight Loss Poor Appetite Lethargy
+Dog,Puppy,Hypoglycemia,Severe,Emergency,Difficulty Walking Weakness Tremors Collapse Seizures
+Cat,Kitten,Gastroenteritis,Moderate,Medical,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Senior,Tracheal Collapse,Moderate,Chronic,Coughing Gagging Difficulty Breathing Exercise Intolerance Collapse
+Cat,Adult,Feline Infectious Peritonitis,Severe,Terminal,Swollen Abdomen Lethargy Poor Appetite Vomiting Pale Gums
+Dog,Adult,Noise Phobia,Mild,Behavioral,Excessive Panting Anxiety Pacing Trembling Hiding
+Cat,Senior,Chronic Kidney Disease,Severe,Chronic,Increased Thirst Increased Urination Weight Loss Vomiting Lethargy
+Dog,Puppy,Panosteitis,Moderate,Medical,Swollen Joints Fever Lameness Pain Lethargy
+Cat,Kitten,Coronavirus,Moderate,Medical,Diarrhea Vomiting Dehydration Lethargy Fever
+Dog,Senior,Congestive Heart Failure,Severe,Chronic,Difficulty Breathing Coughing Exercise Intolerance Fainting Collapse
+Cat,Adult,Rhinitis,Mild,Medical,Sneezing Nasal Discharge Congestion Loss of Appetite Lethargy
+Dog,Adult,Splenic Tumor,Severe,Surgical,Swollen Abdomen Lethargy Pale Gums Weakness Collapse
+Cat,Senior,Stomatitis,Moderate,Dental,Difficulty Eating Weight Loss Drooling Bad Breath Pawing at Mouth
+Dog,Puppy,Coronavirus,Moderate,Medical,Diarrhea Vomiting Lethargy Dehydration Fever
+Cat,Kitten,Bronchitis,Moderate,Medical,Difficulty Breathing Wheezing Coughing Lethargy Blue Gums
+Dog,Senior,Pleural Effusion,Severe,Emergency,Swollen Abdomen Difficulty Breathing Lethargy Coughing Exercise Intolerance
+Cat,Adult,Arthritis,Moderate,Chronic,Limping Joint Pain Swelling Fever Lethargy
+Dog,Adult,Separation Anxiety,Mild,Behavioral,Excessive Barking Pacing Destructive Behavior Escape Attempts House Soiling
+Cat,Senior,Lung Cancer,Severe,Terminal,Difficulty Breathing Coughing Lethargy Poor Appetite Weight Loss
+Dog,Puppy,Osteomyelitis,Moderate,Medical,Limping Pain Swelling Fever Lethargy
+Cat,Kitten,Hydrocephalus,Severe,Chronic,Seizures Disorientation Circling Head Tilt Blindness
+Dog,Senior,Intervertebral Disc Disease,Severe,Surgical,Difficulty Walking Weakness Muscle Wasting Lethargy Incontinence
+Cat,Adult,Pancreatitis,Severe,Emergency,Vomiting Diarrhea Abdominal Pain Fever Dehydration
+Dog,Adult,Parvovirus,Unknown,Unknown,"Lethargy, Appetite Loss, vomiting, appetite loss, Fever, Vomiting"
+Cat,Adult,Upper Respiratory Infection,Unknown,Unknown,"nasal discharge, Eye Discharge, Sneezing, coughing, Coughing, Nasal Discharge, eye discharge"
+Dog,Adult,Gastroenteritis,Unknown,Unknown,"diarrhea, Lethargy, Appetite Loss, vomiting, appetite loss, Diarrhea, Vomiting"
+Cat,Adult,Fungal Infection,Unknown,Unknown,"No, Lethargy, Skin Lesions, Appetite Loss, appetite loss, skin lesions"
+Dog,Adult,Lyme Disease,Unknown,Unknown,"Lethargy, Skin Lesions, lameness, Lameness, skin lesions, appetite loss, Fever"
+Cat,Adult,Intestinal Parasites,Unknown,Unknown,"diarrhea, Lethargy, Appetite Loss, vomiting, appetite loss, Diarrhea, Vomiting"
+Dog,Adult,Canine Distemper,Unknown,Unknown,"nasal discharge, Appetite Loss, coughing, Labored Breathing, labored breathing, appetite loss, Coughing, Nasal Discharge"
+Cat,Adult,Panleukopenia,Unknown,Unknown,"Lethargy, Eye Discharge, skin lesions, vomiting, appetite loss, Fever, Vomiting"
+Dog,Adult,Kennel Cough,Unknown,Unknown,"Lethargy, Appetite Loss, vomiting, coughing, appetite loss, Coughing, Vomiting"
+Cat,Adult,Panleukopenia,Unknown,Unknown,"diarrhea, Lethargy, Appetite Loss, vomiting, appetite loss, Diarrhea, Vomiting"
+Dog,Adult,Canine Parvovirus,Unknown,Unknown,"diarrhea, Lethargy, vomiting, coughing, appetite loss, Coughing, Diarrhea, Vomiting"
+Cat,Adult,Ringworm,Unknown,Unknown,"Lethargy, Skin Lesions, Appetite Loss, vomiting, appetite loss, skin lesions, Vomiting"
+Cat,Adult,Upper Respiratory Infection,Unknown,Unknown,"nasal discharge, Lethargy, Eye Discharge, Appetite Loss, coughing, labored breathing, Nasal Discharge, eye discharge"
+Dog,Adult,Kennel Cough,Unknown,Unknown,"nasal discharge, Lethargy, Appetite Loss, coughing, appetite loss, Coughing, Nasal Discharge"
+Cat,Adult,Panleukopenia,Unknown,Unknown,"diarrhea, Lethargy, vomiting, appetite loss, Diarrhea, Dehydration, Vomiting"
+Dog,Adult,Arthritis,Unknown,Unknown,"Swelling, lameness, Lameness, Appetite Loss, appetite loss, Fever"
+Cat,Adult,Feline Herpesvirus,Unknown,Unknown,"nasal discharge, Eye Discharge, Sneezing, coughing, Coughing, Nasal Discharge, eye discharge"
+Dog,Adult,Parvovirus,Unknown,Unknown,"diarrhea, Lethargy, vomiting, appetite loss, Diarrhea, Fever, Vomiting"
+Cat,Adult,Feline Leukemia,Unknown,Unknown,"Lethargy, Appetite Loss, vomiting, appetite loss, Weight Loss, skin lesions, Vomiting"
+Cat,Adult,Feline Infectious Peritonitis,Unknown,Unknown,"diarrhea, Skin Lesions, lameness, Appetite Loss, vomiting, appetite loss, Diarrhea, Vomiting"
+Dog,Adult,Canine Distemper,Unknown,Unknown,"Lethargy, Skin Lesions, lameness, skin lesions, vomiting, appetite loss, Fever, Vomiting"
+Cat,Senior,Conjunctivitis,Unknown,Unknown,"Lethargy, Eye Discharge, Appetite Loss, vomiting, skin lesions, eye discharge, Vomiting"
+Cat,Adult,Feline Upper Respiratory Infection,Unknown,Unknown,"nasal discharge, Lethargy, Eye Discharge, Appetite Loss, coughing, labored breathing, Nasal Discharge, eye discharge"
+Dog,Adult,Parvovirus,Unknown,Unknown,"diarrhea, Lethargy, lameness, Loss of Appetite, coughing, appetite loss, Diarrhea, Vomiting"
+Cat,Adult,Feline Upper Respiratory Infection,Unknown,Unknown,"Eye Discharge, Appetite Loss, coughing, labored breathing, appetite loss, Coughing, Nasal Discharge, eye discharge"
+Dog,Adult,Gastroenteritis,Unknown,Unknown,"lameness, Appetite Loss, vomiting, labored breathing, appetite loss, Diarrhea, Fever, Vomiting"
+Cat,Adult,Feline Herpesvirus,Unknown,Unknown,"diarrhea, Lethargy, Eye Discharge, Sneezing, Appetite Loss, labored breathing, appetite loss, eye discharge"
+Dog,Senior,Kennel Cough,Unknown,Unknown,"diarrhea, Lethargy, Appetite Loss, labored breathing, Labored Breathing, appetite loss, Coughing, eye discharge"
+Cat,Adult,Pancreatitis,Unknown,Unknown,"nasal discharge, lameness, Loss of Appetite, vomiting, coughing, Diarrhea, Dehydration, Vomiting"
+Dog,Senior,Canine Parvovirus,Unknown,Unknown,"Lethargy, Loss of Appetite, vomiting, coughing, labored breathing, appetite loss, Diarrhea, Vomiting"
+Cat,Adult,Feline Calicivirus,Unknown,Unknown,"Lethargy, Eye Discharge, lameness, coughing, appetite loss, Coughing, Nasal Discharge, skin lesions"
+Cat,Adult,Inflammatory Bowel Disease,Unknown,Unknown,"diarrhea, Lethargy, Appetite Loss, labored breathing, appetite loss, Weight Loss, skin lesions, Vomiting"
+Cat,Adult,Gastroenteritis,Unknown,Unknown,"Appetite Loss, vomiting, labored breathing, appetite loss, Weight Loss, Diarrhea, skin lesions, Vomiting"
+Dog,Adult,Gastroenteritis,Unknown,Unknown,"nasal discharge, Appetite Loss, vomiting, coughing, labored breathing, appetite loss, Weight Loss, Diarrhea, eye discharge, Vomiting"
+Dog,Senior,Canine Distemper,Unknown,Unknown,"nasal discharge, Lethargy, lameness, Loss of Appetite, coughing, appetite loss, Fever, Vomiting"
+Cat,Senior,Feline Viral Rhinotracheitis,Unknown,Unknown,"diarrhea, Eye Discharge, Loss of Appetite, labored breathing, appetite loss, Coughing, Nasal Discharge, skin lesions"
+Dog,Adult,Kennel Cough,Unknown,Unknown,"diarrhea, Lethargy, Loss of Appetite, labored breathing, Labored Breathing, appetite loss, Coughing, eye discharge"
+Cat,Adult,Feline Herpesvirus,Unknown,Unknown,"Lethargy, Eye Discharge, Sneezing, Appetite Loss, coughing, labored breathing, appetite loss, skin lesions, eye discharge"
+Dog,Adult,Gastroenteritis,Unknown,Unknown,"nasal discharge, lameness, Loss of Appetite, vomiting, appetite loss, Diarrhea, Fever, Vomiting"
+Cat,Adult,Feline Panleukopenia,Unknown,Unknown,"diarrhea, Lethargy, lameness, coughing, appetite loss, Diarrhea, Dehydration, Vomiting"
+Dog,Adult,Parvovirus,Unknown,Unknown,"diarrhea, Loss of Appetite, labored breathing, appetite loss, Diarrhea, Dehydration, eye discharge, Vomiting"
+Cat,Adult,Feline Calicivirus,Unknown,Unknown,"diarrhea, nasal discharge, Eye Discharge, Sneezing, lameness, appetite loss, Coughing, Nasal Discharge"
+Cat,Adult,Pancreatitis,Unknown,Unknown,"lameness, vomiting, labored breathing, appetite loss, Weight Loss, Diarrhea, Dehydration, Vomiting"
+Dog,Senior,Gastroenteritis,Unknown,Unknown,"Lethargy, lameness, Loss of Appetite, vomiting, appetite loss, Diarrhea, eye discharge, Vomiting"
+Cat,Adult,Feline Herpesvirus,Unknown,Unknown,"Eye Discharge, Sneezing, lameness, coughing, appetite loss, Coughing, Nasal Discharge, skin lesions"
+Dog,Senior,Pancreatitis,Unknown,Unknown,"diarrhea, nasal discharge, labored breathing, appetite loss, Weight Loss, Diarrhea, Dehydration, Vomiting"
+Cat,Adult,Hyperthyroidism,Unknown,Unknown,"Lethargy, Loss of Appetite, coughing, labored breathing, appetite loss, Weight Loss, skin lesions, Vomiting"
+Dog,Adult,Canine Hepatitis,Unknown,Unknown,"diarrhea, Lethargy, lameness, Loss of Appetite, labored breathing, appetite loss, Fever, eye discharge, Vomiting"
+Cat,Adult,Upper Respiratory Infection,Unknown,Unknown,"Lethargy, Eye Discharge, Sneezing, lameness, coughing, appetite loss, Nasal Discharge, skin lesions"
+Dog,Senior,Gastroenteritis,Unknown,Unknown,"nasal discharge, Lethargy, Loss of Appetite, vomiting, labored breathing, appetite loss, Diarrhea, Vomiting"
+Cat,Adult,Feline Calicivirus,Unknown,Unknown,"nasal discharge, Lethargy, Eye Discharge, Sneezing, coughing, labored breathing, appetite loss, Nasal Discharge"
+Dog,Adult,Gastroenteritis,Unknown,Unknown,"diarrhea, Lethargy, Loss of Appetite, labored breathing, appetite loss, Diarrhea, eye discharge, Vomiting"
+Cat,Adult,Feline Upper Respiratory Infection,Unknown,Unknown,"Lethargy, Eye Discharge, Sneezing, coughing, labored breathing, appetite loss, Nasal Discharge, skin lesions, eye discharge"
+Dog,Adult,Parvovirus,Unknown,Unknown,"diarrhea, Lethargy, lameness, Loss of Appetite, labored breathing, appetite loss, Dehydration, Vomiting"
+Cat,Adult,Feline Calicivirus,Unknown,Unknown,"Lethargy, Eye Discharge, Sneezing, lameness, coughing, appetite loss, Coughing, skin lesions, eye discharge"
+Dog,Adult,Pancreatitis,Unknown,Unknown,"diarrhea, Lethargy, nasal discharge, lameness, appetite loss, Weight Loss, Diarrhea, Vomiting"
+Cat,Senior,Feline Viral Rhinotracheitis,Unknown,Unknown,"diarrhea, Lethargy, Eye Discharge, Sneezing, lameness, coughing, appetite loss, Nasal Discharge, eye discharge"
+Dog,Adult,Canine Parvovirus,Unknown,Unknown,"diarrhea, Lethargy, nasal discharge, lameness, Loss of Appetite, appetite loss, Diarrhea, Vomiting"
+Cat,Adult,Feline Respiratory Disease Complex,Unknown,Unknown,"nasal discharge, Lethargy, Eye Discharge, Sneezing, vomiting, coughing, appetite loss, Nasal Discharge"
+Dog,Senior,Canine Hepatitis,Unknown,Unknown,"diarrhea, Lethargy, Loss of Appetite, coughing, appetite loss, Diarrhea, eye discharge, Vomiting"
+Cat,Adult,Feline Rhinotracheitis,Unknown,Unknown,"diarrhea, Lethargy, nasal discharge, Eye Discharge, Sneezing, lameness, appetite loss, Nasal Discharge, eye discharge"
+Dog,Adult,Kennel Cough,Unknown,Unknown,"nasal discharge, lameness, coughing, Labored Breathing, labored breathing, appetite loss, Coughing, Nasal Discharge, Fever"
+Dog,Adult,Canine Parvovirus,Unknown,Unknown,"diarrhea, Lethargy, Loss of Appetite, coughing, appetite loss, Diarrhea, skin lesions, Vomiting"
+Cat,Adult,Feline Infectious Peritonitis,Unknown,Unknown,"diarrhea, Lethargy, lameness, Loss of Appetite, vomiting, labored breathing, appetite loss, Diarrhea, Vomiting"
+Dog,Adult,Canine Parvovirus,Unknown,Unknown,"Lethargy, lameness, Loss of Appetite, vomiting, coughing, appetite loss, Coughing, skin lesions, Vomiting"
+Cat,Adult,Feline Calicivirus,Unknown,Unknown,"Lethargy, lameness, Sneezing, vomiting, coughing, appetite loss, Coughing, Nasal Discharge, eye discharge"
+Dog,Adult,Canine Distemper,Unknown,Unknown,"nasal discharge, Lethargy, Loss of Appetite, vomiting, coughing, appetite loss, Coughing, skin lesions, Vomiting"
+Cat,Adult,Feline Leukemia Virus,Unknown,Unknown,"diarrhea, Lethargy, nasal discharge, lameness, Loss of Appetite, coughing, appetite loss, Nasal Discharge, Fever, eye discharge"
+Dog,Adult,Leptospirosis,Unknown,Unknown,"Lethargy, lameness, Loss of Appetite, vomiting, coughing, appetite loss, Coughing, Vomiting"
+Cat,Adult,Feline Herpesvirus,Unknown,Unknown,"Lethargy, Eye Discharge, Sneezing, lameness, vomiting, coughing, appetite loss, Nasal Discharge, skin lesions, eye discharge"
+Dog,Adult,Canine Leptospirosis,Unknown,Unknown,"nasal discharge, Lethargy, Loss of Appetite, vomiting, labored breathing, appetite loss, Fever, Vomiting"
+Dog,Adult,Canine Parvovirus,Unknown,Unknown,"diarrhea, Lethargy, lameness, Loss of Appetite, skin lesions, coughing, appetite loss, Coughing, Fever"
+Cat,Adult,Feline Infectious Peritonitis,Unknown,Unknown,"nasal discharge, Lethargy, lameness, Loss of Appetite, vomiting, coughing, labored breathing, appetite loss, Diarrhea, Vomiting"
+Dog,Adult,Canine Distemper,Unknown,Unknown,"nasal discharge, Lethargy, Loss of Appetite, skin lesions, vomiting, coughing, appetite loss, Coughing, Fever"
+Cat,Adult,Feline Leukemia Virus,Unknown,Unknown,"diarrhea, Lethargy, nasal discharge, Loss of Appetite, labored breathing, appetite loss, Coughing, Nasal Discharge, skin lesions"
+Dog,Adult,Canine Leptospirosis,Unknown,Unknown,"diarrhea, Lethargy, lameness, Loss of Appetite, vomiting, labored breathing, appetite loss, Fever, eye discharge, Vomiting"
+Cat,Adult,Feline Calicivirus,Unknown,Unknown,"Lethargy, lameness, Loss of Appetite, coughing, appetite loss, Coughing, Nasal Discharge, skin lesions, eye discharge"
+Dog,Adult,Kennel Cough,Unknown,Unknown,"nasal discharge, Lethargy, lameness, Loss of Appetite, coughing, labored breathing, appetite loss, Coughing, Fever"
+Cat,Adult,Feline Infectious Peritonitis,Unknown,Unknown,"nasal discharge, Lethargy, Loss of Appetite, skin lesions, coughing, appetite loss, Coughing, Fever"
+Cat,Adult,Feline Calicivirus,Unknown,Unknown,"Loss of Appetite, skin lesions, vomiting, coughing, labored breathing, appetite loss, Coughing, Nasal Discharge, Fever, eye discharge"
+Dog,Adult,Canine Parvovirus,Unknown,Unknown,"nasal discharge, Lethargy, Loss of Appetite, skin lesions, vomiting, coughing, labored breathing, appetite loss, Fever, Vomiting"
+Cat,Adult,Feline Infectious Peritonitis,Unknown,Unknown,"diarrhea, nasal discharge, lameness, Loss of Appetite, vomiting, coughing, appetite loss, Coughing, Nasal Discharge, Fever, eye discharge"
+Dog,Adult,Canine Distemper,Unknown,Unknown,"diarrhea, Lethargy, nasal discharge, lameness, Loss of Appetite, coughing, labored breathing, appetite loss, Fever, Vomiting"
+Cat,Adult,Feline Leukemia Virus,Unknown,Unknown,"diarrhea, lameness, Loss of Appetite, skin lesions, labored breathing, appetite loss, Coughing, Nasal Discharge, Fever"
+Dog,Adult,Canine Distemper,Unknown,Unknown,"diarrhea, Lethargy, Loss of Appetite, skin lesions, vomiting, coughing, labored breathing, appetite loss, Coughing, Fever"
+Dog,Adult,Parvovirus,Unknown,Unknown,"diarrhea, Lethargy, lameness, skin lesions, labored breathing, appetite loss, Diarrhea, Fever, eye discharge, Vomiting"
+Cat,Adult,Feline Upper Respiratory Infection,Unknown,Unknown,"Lethargy, Loss of Appetite, skin lesions, vomiting, coughing, labored breathing, appetite loss, Coughing, Fever, eye discharge"
+Dog,Adult,Canine Hepatitis,Unknown,Unknown,"Lethargy, lameness, Loss of Appetite, skin lesions, vomiting, coughing, labored breathing, appetite loss, Fever, Vomiting"
+Cat,Adult,Feline Rhinotracheitis,Unknown,Unknown,"diarrhea, nasal discharge, lameness, Loss of Appetite, labored breathing, appetite loss, Coughing, Nasal Discharge, Fever, eye discharge"
+Dog,Adult,Canine Leptospirosis,Unknown,Unknown,"diarrhea, Lethargy, lameness, Loss of Appetite, skin lesions, coughing, labored breathing, appetite loss, Fever, eye discharge, Vomiting"
+Cat,Adult,Feline Asthma,Unknown,Unknown,"diarrhea, lameness, Loss of Appetite, skin lesions, vomiting, coughing, appetite loss, Coughing, Nasal Discharge, Fever, eye discharge"
+Dog,Adult,Kennel Cough,Unknown,Unknown,"Lethargy, lameness, Loss of Appetite, skin lesions, vomiting, labored breathing, appetite loss, Coughing, Fever, eye discharge"
+Cat,Adult,Feline Herpesvirus,Unknown,Unknown,"diarrhea, lameness, Loss of Appetite, skin lesions, vomiting, coughing, appetite loss, Coughing, Nasal Discharge, Fever, eye discharge"
+Dog,Adult,Canine Parvovirus,Unknown,Unknown,"Lethargy, lameness, Loss of Appetite, skin lesions, vomiting, coughing, labored breathing, appetite loss, Fever, Vomiting"
+Cat,Adult,Feline Asthma,Unknown,Unknown,"diarrhea, nasal discharge, Loss of Appetite, skin lesions, vomiting, coughing, appetite loss, Coughing, Nasal Discharge, Fever"
+Dog,Adult,Canine Leptospirosis,Unknown,Unknown,"Lethargy, lameness, Loss of Appetite, skin lesions, vomiting, coughing, labored breathing, appetite loss, Fever, eye discharge, Vomiting"
+Cat,Adult,Feline Respiratory Disease Complex,Unknown,Unknown,"diarrhea, lameness, Loss of Appetite, skin lesions, labored breathing, appetite loss, Coughing, Nasal Discharge, Fever, eye discharge"
+Cat,Adult,Feline Leukemia,Unknown,Unknown,"diarrhea, nasal discharge, lameness, Loss of Appetite, skin lesions, vomiting, labored breathing, appetite loss, Coughing, Nasal Discharge, Fever, eye discharge"
+Dog,Adult,Kennel Cough,Unknown,Unknown,"nasal discharge, Lethargy, lameness, Loss of Appetite, skin lesions, coughing, labored breathing, appetite loss, Coughing, Fever, eye discharge"
+Cat,Adult,Feline Infectious Peritonitis,Unknown,Unknown,"Lethargy, lameness, Loss of Appetite, skin lesions, vomiting, coughing, labored breathing, appetite loss, Fever, eye discharge, Vomiting"
+Dog,Adult,Canine Parvovirus,Unknown,Unknown,"Lethargy, lameness, Loss of Appetite, skin lesions, vomiting, coughing, appetite loss, Fever, Vomiting"
+Cat,Adult,Feline Panleukopenia,Unknown,Unknown,"lameness, Loss of Appetite, skin lesions, vomiting, coughing, appetite loss, Coughing, Nasal Discharge, Fever, eye discharge"
+Dog,Adult,Distemper,Unknown,Unknown,"nasal discharge, Lethargy, lameness, Loss of Appetite, vomiting, coughing, labored breathing, appetite loss, Fever, eye discharge, Vomiting"
+Cat,Adult,Feline Leukemia Virus,Unknown,Unknown,"lameness, Loss of Appetite, skin lesions, vomiting, coughing, labored breathing, appetite loss, Coughing, Nasal Discharge, Fever, eye discharge"
+Dog,Adult,Parvovirus,Unknown,Unknown,"nasal discharge, Lethargy, lameness, Loss of Appetite, skin lesions, coughing, labored breathing, appetite loss, Fever, Vomiting"
+Dog,Adult,Kennel Cough,Unknown,Unknown,"Lethargy, lameness, Loss of Appetite, skin lesions, vomiting, coughing, labored breathing, appetite loss, Coughing, Fever, eye discharge"
+Cat,Adult,Feline Leukemia Virus,Unknown,Unknown,"diarrhea, Lethargy, nasal discharge, lameness, Loss of Appetite, skin lesions, vomiting, coughing, appetite loss, Fever, Vomiting"
+Dog,Adult,Canine Distemper,Unknown,Unknown,"diarrhea, Lethargy, nasal discharge, lameness, Loss of Appetite, skin lesions, coughing, appetite loss, Fever, eye discharge, Vomiting"
+Cat,Adult,Feline Infectious Peritonitis,Unknown,Unknown,"nasal discharge, lameness, Loss of Appetite, skin lesions, vomiting, coughing, labored breathing, appetite loss, Coughing, Nasal Discharge, Fever, eye discharge"
+Dog,Adult,Canine Parvovirus,Unknown,Unknown,"nasal discharge, Lethargy, lameness, Loss of Appetite, skin lesions, vomiting, coughing, appetite loss, Fever, Vomiting"
+Cat,Adult,Feline Panleukopenia,Unknown,Unknown,"Lethargy, lameness, Loss of Appetite, skin lesions, vomiting, coughing, appetite loss, Fever, eye discharge, Vomiting"
+Dog,Adult,Parvovirus,Unknown,Unknown,"diarrhea, Lethargy, Loss of Appetite, skin lesions, vomiting, coughing, appetite loss, Fever, eye discharge, Vomiting"
+Cat,Adult,Feline Infectious Peritonitis,Unknown,Unknown,"nasal discharge, lameness, Loss of Appetite, vomiting, coughing, appetite loss, Coughing, Nasal Discharge, Fever, eye discharge"
+Dog,Adult,Distemper,Unknown,Unknown,"diarrhea, Lethargy, nasal discharge, Loss of Appetite, skin lesions, coughing, labored breathing, appetite loss, Fever, eye discharge, Vomiting"
+Cat,Adult,Feline Leukemia Virus,Unknown,Unknown,"nasal discharge, lameness, Loss of Appetite, skin lesions, vomiting, coughing, labored breathing, appetite loss, Coughing, Nasal Discharge, Fever, eye discharge"
+Dog,Adult,Leptospirosis,Unknown,Unknown,"diarrhea, Lethargy, nasal discharge, lameness, Loss of Appetite, skin lesions, vomiting, coughing, labored breathing, appetite loss, Fever, eye discharge, Vomiting"
+Dog,Adult,Canine Distemper,Unknown,Unknown,"diarrhea, Lethargy, lameness, Loss of Appetite, skin lesions, vomiting, appetite loss, Fever, eye discharge, Vomiting"
+Cat,Adult,Feline Herpesvirus,Unknown,Unknown,"nasal discharge, lameness, Loss of Appetite, vomiting, coughing, labored breathing, appetite loss, Coughing, Nasal Discharge, Fever, eye discharge"
+Dog,Adult,Canine Leptospirosis,Unknown,Unknown,"diarrhea, Lethargy, lameness, Loss of Appetite, skin lesions, vomiting, coughing, appetite loss, Fever, eye discharge, Vomiting"
+Cat,Adult,Feline Asthma,Unknown,Unknown,"diarrhea, Loss of Appetite, skin lesions, vomiting, labored breathing, appetite loss, Coughing, Nasal Discharge, Fever, eye discharge"
+Dog,Adult,Canine Parvovirus,Unknown,Unknown,"nasal discharge, Lethargy, Loss of Appetite, vomiting, coughing, appetite loss, Coughing, Fever"
+Dog,Adult,Canine Parvovirus,Unknown,Unknown,"nasal discharge, Lethargy, Loss of Appetite, vomiting, coughing, appetite loss, Fever, Vomiting"
+Cat,Adult,Feline Calicivirus,Unknown,Unknown,"nasal discharge, Sneezing, vomiting, coughing, appetite loss, Coughing, Nasal Discharge, Fever"
+Dog,Adult,Parvovirus,Unknown,Unknown,"Lethargy, Appetite Loss, vomiting, appetite loss, Fever, Vomiting"
+Cat,Adult,Upper Respiratory Infection,Unknown,Unknown,"nasal discharge, Eye Discharge, Sneezing, coughing, Coughing, Nasal Discharge, eye discharge"
+Dog,Adult,Gastroenteritis,Unknown,Unknown,"diarrhea, Lethargy, Appetite Loss, vomiting, appetite loss, Diarrhea, Vomiting"
+Cat,Adult,Fungal Infection,Unknown,Unknown,"No, Lethargy, Skin Lesions, Appetite Loss, appetite loss, skin lesions"
+Dog,Adult,Lyme Disease,Unknown,Unknown,"Lethargy, Skin Lesions, lameness, Lameness, skin lesions, appetite loss, Fever"
+Cat,Adult,Intestinal Parasites,Unknown,Unknown,"diarrhea, Lethargy, Appetite Loss, vomiting, appetite loss, Diarrhea, Vomiting"
+Dog,Adult,Canine Distemper,Unknown,Unknown,"nasal discharge, Appetite Loss, coughing, Labored Breathing, labored breathing, appetite loss, Coughing, Nasal Discharge"

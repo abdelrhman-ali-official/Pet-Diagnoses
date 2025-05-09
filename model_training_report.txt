@@ -1,0 +1,109 @@
+
+Model Training and Optimization Report:
+
+Dataset used: /home/ubuntu/pet_diagnosis_augmented_prepared.csv
+Dataset shape after loading and cleaning NaNs in target: (1087, 6)
+Training data shape: (869, 5)
+Test data shape: (218, 5)
+
+Model: RandomForestClassifier (within a scikit-learn Pipeline)
+Preprocessing:
+  - Text Features ('All_Symptoms'): TfidfVectorizer (max_features=5000, stop_words='english', ngram_range=(1,2))
+  - Categorical Features (Animal_Type, Age_Category, Severity, Treatment_Category): OneHotEncoder (handle_unknown='ignore')
+
+Hyperparameter Tuning: GridSearchCV
+  - Cross-validation folds (cv): 3
+  - Scoring metric: accuracy
+  - Parameter Grid Searched:
+    'classifier__n_estimators': [100, 200]
+    'classifier__max_depth': [None, 10, 20]
+    'classifier__min_samples_split': [2, 5]
+    'classifier__min_samples_leaf': [1, 2]
+
+Best Parameters Found:
+{'classifier__max_depth': None, 'classifier__min_samples_leaf': 2, 'classifier__min_samples_split': 5, 'classifier__n_estimators': 100}
+
+Performance:
+  - Training Accuracy: 0.9609
+  - Test Accuracy: 0.8853
+
+Classification Report (Test Set):
+                                    precision    recall  f1-score   support
+
+                  Abdominal Cancer       1.00      1.00      1.00         4
+             Acral Lick Dermatitis       1.00      1.00      1.00         4
+                         Arthritis       1.00      1.00      1.00         8
+                    Bladder Stones       1.00      1.00      1.00         4
+                       Broken Bone       1.00      1.00      1.00         4
+                        Bronchitis       1.00      1.00      1.00         4
+                  Canine Distemper       0.00      0.00      0.00         2
+                  Canine Hepatitis       0.00      0.00      0.00         1
+              Canine Leptospirosis       0.00      0.00      0.00         1
+                 Canine Parvovirus       0.20      0.50      0.29         2
+            Chronic Kidney Disease       1.00      1.00      1.00         4
+             Cognitive Dysfunction       1.00      1.00      1.00         4
+          Congestive Heart Failure       1.00      1.00      1.00         4
+                    Conjunctivitis       1.00      1.00      1.00         7
+                       Coronavirus       0.88      1.00      0.93         7
+                 Diabetes Mellitus       1.00      1.00      1.00         3
+                         Distemper       0.00      0.00      0.00         1
+                     Feline Asthma       0.00      0.00      0.00         1
+                Feline Calicivirus       1.00      0.40      0.57         5
+                Feline Herpesvirus       0.00      0.00      0.00         1
+     Feline Infectious Peritonitis       1.00      0.89      0.94         9
+             Feline Leukemia Virus       0.00      0.00      0.00         1
+              Feline Panleukopenia       0.00      0.00      0.00         1
+Feline Respiratory Disease Complex       0.00      0.00      0.00         0
+Feline Upper Respiratory Infection       0.50      1.00      0.67         1
+           Flea Allergy Dermatitis       1.00      1.00      1.00         3
+                      Food Allergy       1.00      1.00      1.00         3
+                   Gastroenteritis       1.00      0.78      0.88         9
+                     Heart Disease       1.00      1.00      1.00         4
+                       Heat Stroke       1.00      1.00      1.00         3
+                     Hydrocephalus       1.00      1.00      1.00         4
+                   Hyperthyroidism       1.00      0.75      0.86         4
+                      Hypoglycemia       1.00      1.00      1.00         4
+                    Hypothyroidism       1.00      1.00      1.00         3
+        Inflammatory Bowel Disease       0.00      0.00      0.00         0
+                 Internal Bleeding       1.00      1.00      1.00         4
+       Intervertebral Disc Disease       1.00      1.00      1.00         4
+               Intestinal Blockage       1.00      1.00      1.00         3
+              Intestinal Parasites       1.00      1.00      1.00         4
+                      Kennel Cough       0.50      0.50      0.50         2
+                     Leptospirosis       0.00      0.00      0.00         0
+                       Lung Cancer       1.00      1.00      1.00         4
+                      Lyme Disease       0.00      0.00      0.00         1
+                          Lymphoma       0.75      1.00      0.86         3
+                      Noise Phobia       1.00      1.00      1.00         4
+                        Oral Tumor       1.00      1.00      1.00         3
+                     Osteomyelitis       0.80      1.00      0.89         4
+                      Pancreatitis       1.00      0.75      0.86         4
+                     Panleukopenia       0.00      0.00      0.00         1
+                       Panosteitis       1.00      1.00      1.00         4
+               Parasitic Infection       1.00      1.00      1.00         3
+                        Parvovirus       1.00      0.40      0.57         5
+                  Pleural Effusion       1.00      1.00      1.00         7
+              Psychogenic Alopecia       1.00      1.00      1.00         4
+                Pulmonary Fibrosis       1.00      1.00      1.00         3
+                          Rhinitis       0.80      1.00      0.89         4
+                          Ringworm       0.00      0.00      0.00         0
+                Separation Anxiety       1.00      1.00      1.00         4
+                  Septic Arthritis       1.00      1.00      1.00         3
+                     Splenic Tumor       1.00      1.00      1.00         4
+                        Stomatitis       1.00      1.00      1.00         4
+                   Thyroid Disease       0.80      1.00      0.89         4
+                 Tracheal Collapse       1.00      1.00      1.00         4
+       Upper Respiratory Infection       0.00      0.00      0.00         1
+                Vestibular Disease       1.00      1.00      1.00         3
+
+                          accuracy                           0.89       218
+                         macro avg       0.73      0.72      0.72       218
+                      weighted avg       0.91      0.89      0.89       218
+
+
+Saved Artifacts:
+  - Trained Model: /home/ubuntu/pet_diagnosis_model.joblib
+  - Preprocessor: /home/ubuntu/pet_diagnosis_preprocessor.joblib (Note: This is the preprocessor from the best_model pipeline)
+  - Class Labels: /home/ubuntu/pet_diagnosis_labels.joblib
+
+Total training and optimization duration: 13.63 seconds.

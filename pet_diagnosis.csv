@@ -1,0 +1,984 @@
+Animal_Type,Age_Category,Symptom_1,Symptom_2,Symptom_3,Symptom_4,Symptom_5,Primary_Condition,Severity,Treatment_Category,Accuracy_Score
+Dog,Puppy,Vomiting,Diarrhea,Lethargy,Dehydration,Loss of Appetite,Parvovirus,Severe,Emergency,0.95
+Dog,Adult,Coughing,Sneezing,Runny Nose,Fever,Lethargy,Kennel Cough,Moderate,Medical,0.92
+Dog,Senior,Difficulty Walking,Joint Pain,Stiffness,Reduced Activity,Weight Gain,Arthritis,Moderate,Chronic,0.94
+Cat,Kitten,Loss of Appetite,Lethargy,Dehydration,Vomiting,Diarrhea,Feline Panleukopenia,Severe,Emergency,0.96
+Cat,Adult,Increased Urination,Increased Thirst,Weight Loss,Lethargy,Poor Coat,Diabetes,Severe,Chronic,0.93
+Cat,Senior,Difficulty Breathing,Coughing,Loss of Appetite,Lethargy,Weight Loss,Feline Asthma,Moderate,Chronic,0.91
+Dog,Adult,Scratching,Hair Loss,Red Skin,Inflammation,Hot Spots,Allergic Dermatitis,Mild,Medical,0.89
+Cat,Adult,Excessive Grooming,Hair Loss,Skin Lesions,Irritability,Scratching,Feline Anxiety,Mild,Behavioral,0.88
+Dog,Senior,Excessive Thirst,Frequent Urination,Weight Loss,Lethargy,Increased Appetite,Cushing's Disease,Severe,Chronic,0.94
+Cat,Kitten,Eye Discharge,Sneezing,Congestion,Loss of Appetite,Lethargy,Upper Respiratory Infection,Moderate,Medical,0.92
+Dog,Adult,Limping,Swollen Joint,Pain,Reduced Activity,Irritability,Hip Dysplasia,Moderate,Chronic,0.93
+Cat,Senior,Weight Loss,Vomiting,Diarrhea,Poor Appetite,Lethargy,Hyperthyroidism,Severe,Chronic,0.95
+Dog,Puppy,Bloody Stool,Vomiting,Fever,Lethargy,Dehydration,Intestinal Parasites,Moderate,Medical,0.91
+Cat,Adult,Urinating Outside Box,Blood in Urine,Frequent Urination,Straining,Pain,Urinary Tract Infection,Moderate,Medical,0.94
+Dog,Senior,Confusion,Anxiety,Changes in Sleep,Vocalization,Disorientation,Cognitive Dysfunction,Moderate,Chronic,0.90
+Cat,Kitten,Diarrhea,Vomiting,Pot-Bellied Appearance,Poor Growth,Lethargy,Intestinal Worms,Moderate,Medical,0.93
+Dog,Adult,Seizures,Disorientation,Loss of Balance,Confusion,Collapse,Epilepsy,Severe,Chronic,0.96
+Cat,Senior,Difficulty Jumping,Reduced Activity,Pain,Irritability,Weight Loss,Osteoarthritis,Moderate,Chronic,0.92
+Dog,Puppy,Fever,Swollen Lymph Nodes,Lethargy,Loss of Appetite,Coughing,Distemper,Severe,Emergency,0.95
+Cat,Adult,Weight Loss,Increased Appetite,Aggression,Hyperactivity,Restlessness,Hyperthyroidism,Severe,Chronic,0.94
+Dog,Adult,Bad Breath,Bleeding Gums,Tooth Loss,Difficulty Eating,Drooling,Periodontal Disease,Moderate,Dental,0.91
+Cat,Senior,Vision Problems,Dilated Pupils,Bumping Into Objects,Behavioral Changes,Disorientation,Retinal Disease,Moderate,Chronic,0.93
+Dog,Senior,Coughing,Difficulty Breathing,Exercise Intolerance,Fatigue,Collapse,Heart Disease,Severe,Chronic,0.95
+Cat,Kitten,Fever,Swollen Lymph Nodes,Eye Discharge,Sneezing,Lethargy,Feline Calicivirus,Moderate,Medical,0.92
+Dog,Adult,Excessive Drinking,Frequent Urination,Weight Loss,Increased Appetite,Lethargy,Diabetes,Severe,Chronic,0.94
+Cat,Adult,Vomiting,Weight Loss,Poor Appetite,Lethargy,Diarrhea,Inflammatory Bowel Disease,Moderate,Chronic,0.91
+Dog,Puppy,Itching,Hair Loss,Skin Redness,Scabs,Hot Spots,Mange,Moderate,Medical,0.90
+Cat,Senior,Poor Appetite,Weight Loss,Vomiting,Yellowing of Eyes,Lethargy,Liver Disease,Severe,Chronic,0.95
+Dog,Adult,Lameness,Joint Swelling,Pain,Fever,Lethargy,Lyme Disease,Moderate,Medical,0.93
+Cat,Adult,Hair Loss,Excessive Grooming,Skin Lesions,Anxiety,Aggression,Psychogenic Alopecia,Mild,Behavioral,0.89
+Dog,Puppy,Swollen Abdomen,Pain,Fever,Lethargy,Vomiting,Intussusception,Severe,Emergency,0.94
+Cat,Kitten,Coughing,Wheezing,Rapid Breathing,Lethargy,Blue Gums,Pneumonia,Severe,Emergency,0.95
+Dog,Senior,Increased Urination,Increased Thirst,Urinary Accidents,Lethargy,Weight Loss,Kidney Disease,Severe,Chronic,0.93
+Cat,Adult,Limping,Swelling,Pain,Fever,Lethargy,Abscess,Moderate,Medical,0.91
+Dog,Adult,Ear Scratching,Head Shaking,Ear Odor,Ear Discharge,Redness,Ear Infection,Mild,Medical,0.90
+Cat,Senior,Constipation,Straining,Crying in Litter Box,Reduced Appetite,Lethargy,Megacolon,Moderate,Chronic,0.92
+Dog,Puppy,Coughing,Gagging,Difficulty Swallowing,Lethargy,Fever,Kennel Cough,Moderate,Medical,0.91
+Cat,Kitten,Swollen Abdomen,Poor Growth,Dull Coat,Lethargy,Diarrhea,Feline Infectious Peritonitis,Severe,Terminal,0.97
+Dog,Senior,Lumps,Weight Loss,Lethargy,Loss of Appetite,Difficulty Breathing,Cancer,Severe,Terminal,0.96
+Cat,Adult,Excessive Thirst,Frequent Urination,Weight Loss,Vomiting,Lethargy,Kidney Disease,Severe,Chronic,0.94
+Dog,Adult,Scooting,Licking Rear,Swollen Anal Area,Discomfort,Anal Discharge,Anal Gland Impaction,Mild,Medical,0.89
+Cat,Senior,Drooling,Pawing at Mouth,Bad Breath,Difficulty Eating,Weight Loss,Oral Cancer,Severe,Terminal,0.95
+Dog,Puppy,Pot-Bellied Appearance,Diarrhea,Weight Loss,Vomiting,Lethargy,Roundworms,Moderate,Medical,0.92
+Cat,Kitten,Hair Loss,Scratching,Skin Lesions,Restlessness,Irritability,Ringworm,Mild,Medical,0.91
+Dog,Senior,Cloudy Eyes,Bumping Into Objects,Disorientation,Anxiety,Behavioral Changes,Cataracts,Moderate,Surgical,0.93
+Cat,Adult,Sneezing,Nasal Discharge,Facial Swelling,Pawing at Face,Lethargy,Nasal Polyps,Moderate,Surgical,0.92
+Dog,Adult,Vomiting Blood,Black Stool,Lethargy,Pale Gums,Collapse,Gastric Ulcers,Severe,Emergency,0.95
+Cat,Senior,Increased Vocalization,Disorientation,Changes in Sleep,Anxiety,Inappropriate Elimination,Cognitive Dysfunction,Moderate,Chronic,0.90
+Dog,Puppy,Swollen Face,Hives,Itching,Difficulty Breathing,Vomiting,Allergic Reaction,Severe,Emergency,0.94
+Cat,Kitten,Swollen Abdomen,Difficulty Breathing,Lethargy,Poor Appetite,Blue Gums,Congenital Heart Defect,Severe,Surgical,0.93
+Dog,Senior,Difficulty Rising,Muscle Wasting,Weakness,Trembling,Collapse,Degenerative Myelopathy,Severe,Terminal,0.95
+Cat,Adult,Excessive Drinking,Frequent Urination,Weight Gain,Lethargy,Poor Coat,Cushing's Disease,Moderate,Chronic,0.92
+Dog,Adult,Swollen Abdomen,Difficulty Breathing,Pale Gums,Weakness,Collapse,Internal Bleeding,Severe,Emergency,0.96
+Cat,Senior,Difficulty Urinating,Blood in Urine,Crying in Litter Box,Frequent Licking,Lethargy,Bladder Stones,Moderate,Surgical,0.93
+Dog,Puppy,Eye Discharge,Squinting,Redness,Pawing at Eye,Swelling,Conjunctivitis,Mild,Medical,0.90
+Cat,Kitten,Limping,Swollen Leg,Pain,Fever,Lethargy,Broken Bone,Moderate,Surgical,0.94
+Dog,Senior,Increased Appetite,Weight Loss,Panting,Restlessness,Hair Loss,Thyroid Disease,Moderate,Chronic,0.92
+Cat,Adult,Difficulty Breathing,Open-Mouth Breathing,Lethargy,Blue Gums,Collapse,Pleural Effusion,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Hair Loss,Skin Redness,Anxiety,Restlessness,Acral Lick Dermatitis,Mild,Behavioral,0.88
+Cat,Senior,Swollen Abdomen,Difficulty Breathing,Weight Loss,Poor Appetite,Lethargy,Abdominal Cancer,Severe,Terminal,0.96
+Dog,Puppy,Difficulty Walking,Weakness,Tremors,Collapse,Seizures,Hypoglycemia,Severe,Emergency,0.94
+Cat,Kitten,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Gastroenteritis,Moderate,Medical,0.91
+Dog,Senior,Coughing,Gagging,Difficulty Breathing,Exercise Intolerance,Collapse,Tracheal Collapse,Moderate,Chronic,0.93
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Pale Gums,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Panting,Anxiety,Pacing,Trembling,Hiding,Noise Phobia,Mild,Behavioral,0.87
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Vomiting,Lethargy,Chronic Kidney Disease,Severe,Chronic,0.94
+Dog,Puppy,Swollen Joints,Fever,Lameness,Pain,Lethargy,Panosteitis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Coronavirus,Moderate,Medical,0.92
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Fainting,Collapse,Congestive Heart Failure,Severe,Chronic,0.95
+Cat,Adult,Sneezing,Nasal Discharge,Congestion,Loss of Appetite,Lethargy,Rhinitis,Mild,Medical,0.90
+Dog,Adult,Swollen Abdomen,Lethargy,Pale Gums,Weakness,Collapse,Splenic Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Eating,Weight Loss,Drooling,Bad Breath,Pawing at Mouth,Stomatitis,Moderate,Dental,0.92
+Dog,Puppy,Diarrhea,Vomiting,Lethargy,Dehydration,Fever,Coronavirus,Moderate,Medical,0.91
+Cat,Kitten,Difficulty Breathing,Wheezing,Coughing,Lethargy,Blue Gums,Bronchitis,Moderate,Medical,0.92
+Dog,Senior,Swollen Abdomen,Difficulty Breathing,Lethargy,Coughing,Exercise Intolerance,Pleural Effusion,Severe,Emergency,0.95
+Cat,Adult,Limping,Joint Pain,Swelling,Fever,Lethargy,Arthritis,Moderate,Chronic,0.93
+Dog,Adult,Excessive Barking,Pacing,Destructive Behavior,Escape Attempts,House Soiling,Separation Anxiety,Mild,Behavioral,0.88
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Lung Cancer,Severe,Terminal,0.96
+Dog,Puppy,Limping,Pain,Swelling,Fever,Lethargy,Osteomyelitis,Moderate,Medical,0.92
+Cat,Kitten,Seizures,Disorientation,Circling,Head Tilt,Blindness,Hydrocephalus,Severe,Chronic,0.94
+Dog,Senior,Difficulty Walking,Weakness,Muscle Wasting,Lethargy,Incontinence,Intervertebral Disc Disease,Severe,Surgical,0.93
+Cat,Adult,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Pancreatitis,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Scratching,Hair Loss,Skin Redness,Hot Spots,Food Allergy,Moderate,Medical,0.91
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Poor Coat,Lethargy,Diabetes Mellitus,Severe,Chronic,0.94
+Dog,Puppy,Vomiting,Diarrhea,Lethargy,Fever,Abdominal Pain,Gastroenteritis,Moderate,Medical,0.91
+Cat,Kitten,Swollen Abdomen,Lethargy,Poor Growth,Diarrhea,Vomiting,Intestinal Blockage,Severe,Surgical,0.93
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Lethargy,Collapse,Pulmonary Fibrosis,Severe,Terminal,0.95
+Dog,Puppy,Head Tilt,Disorientation,Circling,Loss of Balance,Seizures,Vestibular Disease,Moderate,Medical,0.92
+Cat,Adult,Excessive Scratching,Hair Loss,Skin Lesions,Irritability,Restlessness,Flea Allergy Dermatitis,Mild,Medical,0.89
+Dog,Adult,Swollen Lymph Nodes,Fever,Lethargy,Loss of Appetite,Weight Loss,Lymphoma,Severe,Terminal,0.96
+Cat,Senior,Difficulty Jumping,Stiffness,Pain,Reduced Activity,Weight Gain,Arthritis,Moderate,Chronic,0.93
+Dog,Puppy,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parasitic Infection,Moderate,Medical,0.91
+Cat,Kitten,Swollen Eyes,Discharge,Squinting,Redness,Pawing at Face,Conjunctivitis,Mild,Medical,0.90
+Dog,Senior,Excessive Panting,Restlessness,Increased Thirst,Frequent Urination,Weight Loss,Hyperthyroidism,Moderate,Chronic,0.92
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Diarrhea,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Drooling,Difficulty Eating,Bad Breath,Weight Loss,Pawing at Mouth,Oral Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Heart Disease,Severe,Chronic,0.93
+Dog,Puppy,Swollen Joints,Lameness,Pain,Fever,Lethargy,Septic Arthritis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parvovirus,Severe,Emergency,0.95
+Dog,Senior,Confusion,Disorientation,Changes in Sleep,Anxiety,Inappropriate Elimination,Cognitive Dysfunction,Moderate,Chronic,0.90
+Cat,Kitten,Swollen Paw Pads,Lethargy,Fever,Nasal Discharge,Loss of Appetite,Feline Calicivirus,Moderate,Medical,0.91
+Dog,Adult,Excessive Panting,Restlessness,Pacing,Whining,Tremors,Heat Stroke,Severe,Emergency,0.96
+Cat,Senior,Weight Gain,Thickened Skin,Lethargy,Slow Healing,Recurrent Infections,Hypothyroidism,Moderate,Chronic,0.93
+Dog,Puppy,Abdominal Swelling,Diarrhea,Dehydration,Poor Growth,Dull Coat,Intestinal Parasites,Moderate,Medical,0.92
+Cat,Adult,Excessive Grooming,Hair Loss,Skin Lesions,Irritability,Scratching,Psychogenic Alopecia,Mild,Behavioral,0.88
+Dog,Adult,Swollen Abdomen,Difficulty Breathing,Pale Gums,Weakness,Collapse,Internal Bleeding,Severe,Emergency,0.96
+Cat,Senior,Difficulty Urinating,Blood in Urine,Crying in Litter Box,Frequent Licking,Lethargy,Bladder Stones,Moderate,Surgical,0.93
+Dog,Puppy,Eye Discharge,Squinting,Redness,Pawing at Eye,Swelling,Conjunctivitis,Mild,Medical,0.90
+Cat,Kitten,Limping,Swollen Leg,Pain,Fever,Lethargy,Broken Bone,Moderate,Surgical,0.94
+Dog,Senior,Increased Appetite,Weight Loss,Panting,Restlessness,Hair Loss,Thyroid Disease,Moderate,Chronic,0.92
+Cat,Adult,Difficulty Breathing,Open-Mouth Breathing,Lethargy,Blue Gums,Collapse,Pleural Effusion,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Hair Loss,Skin Redness,Anxiety,Restlessness,Acral Lick Dermatitis,Mild,Behavioral,0.88
+Cat,Senior,Swollen Abdomen,Difficulty Breathing,Weight Loss,Poor Appetite,Lethargy,Abdominal Cancer,Severe,Terminal,0.96
+Dog,Puppy,Difficulty Walking,Weakness,Tremors,Collapse,Seizures,Hypoglycemia,Severe,Emergency,0.94
+Cat,Kitten,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Gastroenteritis,Moderate,Medical,0.91
+Dog,Senior,Coughing,Gagging,Difficulty Breathing,Exercise Intolerance,Collapse,Tracheal Collapse,Moderate,Chronic,0.93
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Pale Gums,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Panting,Anxiety,Pacing,Trembling,Hiding,Noise Phobia,Mild,Behavioral,0.87
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Vomiting,Lethargy,Chronic Kidney Disease,Severe,Chronic,0.94
+Dog,Puppy,Swollen Joints,Fever,Lameness,Pain,Lethargy,Panosteitis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Coronavirus,Moderate,Medical,0.92
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Fainting,Collapse,Congestive Heart Failure,Severe,Chronic,0.95
+Cat,Adult,Sneezing,Nasal Discharge,Congestion,Loss of Appetite,Lethargy,Rhinitis,Mild,Medical,0.90
+Dog,Adult,Swollen Abdomen,Lethargy,Pale Gums,Weakness,Collapse,Splenic Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Eating,Weight Loss,Drooling,Bad Breath,Pawing at Mouth,Stomatitis,Moderate,Dental,0.92
+Dog,Puppy,Diarrhea,Vomiting,Lethargy,Dehydration,Fever,Coronavirus,Moderate,Medical,0.91
+Cat,Kitten,Difficulty Breathing,Wheezing,Coughing,Lethargy,Blue Gums,Bronchitis,Moderate,Medical,0.92
+Dog,Senior,Swollen Abdomen,Difficulty Breathing,Lethargy,Coughing,Exercise Intolerance,Pleural Effusion,Severe,Emergency,0.95
+Cat,Adult,Limping,Joint Pain,Swelling,Fever,Lethargy,Arthritis,Moderate,Chronic,0.93
+Dog,Adult,Excessive Barking,Pacing,Destructive Behavior,Escape Attempts,House Soiling,Separation Anxiety,Mild,Behavioral,0.88
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Lung Cancer,Severe,Terminal,0.96
+Dog,Puppy,Limping,Pain,Swelling,Fever,Lethargy,Osteomyelitis,Moderate,Medical,0.92
+Cat,Kitten,Seizures,Disorientation,Circling,Head Tilt,Blindness,Hydrocephalus,Severe,Chronic,0.94
+Dog,Senior,Difficulty Walking,Weakness,Muscle Wasting,Lethargy,Incontinence,Intervertebral Disc Disease,Severe,Surgical,0.93
+Cat,Adult,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Pancreatitis,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Scratching,Hair Loss,Skin Redness,Hot Spots,Food Allergy,Moderate,Medical,0.91
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Poor Coat,Lethargy,Diabetes Mellitus,Severe,Chronic,0.94
+Dog,Puppy,Vomiting,Diarrhea,Lethargy,Fever,Abdominal Pain,Gastroenteritis,Moderate,Medical,0.91
+Cat,Kitten,Swollen Abdomen,Lethargy,Poor Growth,Diarrhea,Vomiting,Intestinal Blockage,Severe,Surgical,0.93
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Lethargy,Collapse,Pulmonary Fibrosis,Severe,Terminal,0.95
+Dog,Puppy,Head Tilt,Disorientation,Circling,Loss of Balance,Seizures,Vestibular Disease,Moderate,Medical,0.92
+Cat,Adult,Excessive Scratching,Hair Loss,Skin Lesions,Irritability,Restlessness,Flea Allergy Dermatitis,Mild,Medical,0.89
+Dog,Adult,Swollen Lymph Nodes,Fever,Lethargy,Loss of Appetite,Weight Loss,Lymphoma,Severe,Terminal,0.96
+Cat,Senior,Difficulty Jumping,Stiffness,Pain,Reduced Activity,Weight Gain,Arthritis,Moderate,Chronic,0.93
+Dog,Puppy,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parasitic Infection,Moderate,Medical,0.91
+Cat,Kitten,Swollen Eyes,Discharge,Squinting,Redness,Pawing at Face,Conjunctivitis,Mild,Medical,0.90
+Dog,Senior,Excessive Panting,Restlessness,Increased Thirst,Frequent Urination,Weight Loss,Hyperthyroidism,Moderate,Chronic,0.92
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Diarrhea,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Drooling,Difficulty Eating,Bad Breath,Weight Loss,Pawing at Mouth,Oral Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Heart Disease,Severe,Chronic,0.93
+Dog,Puppy,Swollen Joints,Lameness,Pain,Fever,Lethargy,Septic Arthritis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parvovirus,Severe,Emergency,0.95
+Dog,Senior,Confusion,Disorientation,Changes in Sleep,Anxiety,Inappropriate Elimination,Cognitive Dysfunction,Moderate,Chronic,0.90
+Cat,Kitten,Swollen Paw Pads,Lethargy,Fever,Nasal Discharge,Loss of Appetite,Feline Calicivirus,Moderate,Medical,0.91
+Dog,Adult,Excessive Panting,Restlessness,Pacing,Whining,Tremors,Heat Stroke,Severe,Emergency,0.96
+Cat,Senior,Weight Gain,Thickened Skin,Lethargy,Slow Healing,Recurrent Infections,Hypothyroidism,Moderate,Chronic,0.93
+Dog,Puppy,Abdominal Swelling,Diarrhea,Dehydration,Poor Growth,Dull Coat,Intestinal Parasites,Moderate,Medical,0.92
+Cat,Adult,Excessive Grooming,Hair Loss,Skin Lesions,Irritability,Scratching,Psychogenic Alopecia,Mild,Behavioral,0.88
+Dog,Adult,Swollen Abdomen,Difficulty Breathing,Pale Gums,Weakness,Collapse,Internal Bleeding,Severe,Emergency,0.96
+Cat,Senior,Difficulty Urinating,Blood in Urine,Crying in Litter Box,Frequent Licking,Lethargy,Bladder Stones,Moderate,Surgical,0.93
+Dog,Puppy,Eye Discharge,Squinting,Redness,Pawing at Eye,Swelling,Conjunctivitis,Mild,Medical,0.90
+Cat,Kitten,Limping,Swollen Leg,Pain,Fever,Lethargy,Broken Bone,Moderate,Surgical,0.94
+Dog,Senior,Increased Appetite,Weight Loss,Panting,Restlessness,Hair Loss,Thyroid Disease,Moderate,Chronic,0.92
+Cat,Adult,Difficulty Breathing,Open-Mouth Breathing,Lethargy,Blue Gums,Collapse,Pleural Effusion,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Hair Loss,Skin Redness,Anxiety,Restlessness,Acral Lick Dermatitis,Mild,Behavioral,0.88
+Cat,Senior,Swollen Abdomen,Difficulty Breathing,Weight Loss,Poor Appetite,Lethargy,Abdominal Cancer,Severe,Terminal,0.96
+Dog,Puppy,Difficulty Walking,Weakness,Tremors,Collapse,Seizures,Hypoglycemia,Severe,Emergency,0.94
+Cat,Kitten,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Gastroenteritis,Moderate,Medical,0.91
+Dog,Senior,Coughing,Gagging,Difficulty Breathing,Exercise Intolerance,Collapse,Tracheal Collapse,Moderate,Chronic,0.93
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Pale Gums,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Panting,Anxiety,Pacing,Trembling,Hiding,Noise Phobia,Mild,Behavioral,0.87
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Vomiting,Lethargy,Chronic Kidney Disease,Severe,Chronic,0.94
+Dog,Puppy,Swollen Joints,Fever,Lameness,Pain,Lethargy,Panosteitis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Coronavirus,Moderate,Medical,0.92
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Fainting,Collapse,Congestive Heart Failure,Severe,Chronic,0.95
+Cat,Adult,Sneezing,Nasal Discharge,Congestion,Loss of Appetite,Lethargy,Rhinitis,Mild,Medical,0.90
+Dog,Adult,Swollen Abdomen,Lethargy,Pale Gums,Weakness,Collapse,Splenic Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Eating,Weight Loss,Drooling,Bad Breath,Pawing at Mouth,Stomatitis,Moderate,Dental,0.92
+Dog,Puppy,Diarrhea,Vomiting,Lethargy,Dehydration,Fever,Coronavirus,Moderate,Medical,0.91
+Cat,Kitten,Difficulty Breathing,Wheezing,Coughing,Lethargy,Blue Gums,Bronchitis,Moderate,Medical,0.92
+Dog,Senior,Swollen Abdomen,Difficulty Breathing,Lethargy,Coughing,Exercise Intolerance,Pleural Effusion,Severe,Emergency,0.95
+Cat,Adult,Limping,Joint Pain,Swelling,Fever,Lethargy,Arthritis,Moderate,Chronic,0.93
+Dog,Adult,Excessive Barking,Pacing,Destructive Behavior,Escape Attempts,House Soiling,Separation Anxiety,Mild,Behavioral,0.88
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Lung Cancer,Severe,Terminal,0.96
+Dog,Puppy,Limping,Pain,Swelling,Fever,Lethargy,Osteomyelitis,Moderate,Medical,0.92
+Cat,Kitten,Seizures,Disorientation,Circling,Head Tilt,Blindness,Hydrocephalus,Severe,Chronic,0.94
+Dog,Senior,Difficulty Walking,Weakness,Muscle Wasting,Lethargy,Incontinence,Intervertebral Disc Disease,Severe,Surgical,0.93
+Cat,Adult,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Pancreatitis,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Scratching,Hair Loss,Skin Redness,Hot Spots,Food Allergy,Moderate,Medical,0.91
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Poor Coat,Lethargy,Diabetes Mellitus,Severe,Chronic,0.94
+Dog,Puppy,Vomiting,Diarrhea,Lethargy,Fever,Abdominal Pain,Gastroenteritis,Moderate,Medical,0.91
+Cat,Kitten,Swollen Abdomen,Lethargy,Poor Growth,Diarrhea,Vomiting,Intestinal Blockage,Severe,Surgical,0.93
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Lethargy,Collapse,Pulmonary Fibrosis,Severe,Terminal,0.95
+Dog,Puppy,Head Tilt,Disorientation,Circling,Loss of Balance,Seizures,Vestibular Disease,Moderate,Medical,0.92
+Cat,Adult,Excessive Scratching,Hair Loss,Skin Lesions,Irritability,Restlessness,Flea Allergy Dermatitis,Mild,Medical,0.89
+Dog,Adult,Swollen Lymph Nodes,Fever,Lethargy,Loss of Appetite,Weight Loss,Lymphoma,Severe,Terminal,0.96
+Cat,Senior,Difficulty Jumping,Stiffness,Pain,Reduced Activity,Weight Gain,Arthritis,Moderate,Chronic,0.93
+Dog,Puppy,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parasitic Infection,Moderate,Medical,0.91
+Cat,Kitten,Swollen Eyes,Discharge,Squinting,Redness,Pawing at Face,Conjunctivitis,Mild,Medical,0.90
+Dog,Senior,Excessive Panting,Restlessness,Increased Thirst,Frequent Urination,Weight Loss,Hyperthyroidism,Moderate,Chronic,0.92
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Diarrhea,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Drooling,Difficulty Eating,Bad Breath,Weight Loss,Pawing at Mouth,Oral Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Heart Disease,Severe,Chronic,0.93
+Dog,Puppy,Swollen Joints,Lameness,Pain,Fever,Lethargy,Septic Arthritis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parvovirus,Severe,Emergency,0.95
+Dog,Senior,Confusion,Disorientation,Changes in Sleep,Anxiety,Inappropriate Elimination,Cognitive Dysfunction,Moderate,Chronic,0.90
+Cat,Kitten,Swollen Paw Pads,Lethargy,Fever,Nasal Discharge,Loss of Appetite,Feline Calicivirus,Moderate,Medical,0.91
+Dog,Adult,Excessive Panting,Restlessness,Pacing,Whining,Tremors,Heat Stroke,Severe,Emergency,0.96
+Cat,Senior,Weight Gain,Thickened Skin,Lethargy,Slow Healing,Recurrent Infections,Hypothyroidism,Moderate,Chronic,0.93
+Dog,Puppy,Abdominal Swelling,Diarrhea,Dehydration,Poor Growth,Dull Coat,Intestinal Parasites,Moderate,Medical,0.92
+Cat,Adult,Excessive Grooming,Hair Loss,Skin Lesions,Irritability,Scratching,Psychogenic Alopecia,Mild,Behavioral,0.88
+Dog,Adult,Swollen Abdomen,Difficulty Breathing,Pale Gums,Weakness,Collapse,Internal Bleeding,Severe,Emergency,0.96
+Cat,Senior,Difficulty Urinating,Blood in Urine,Crying in Litter Box,Frequent Licking,Lethargy,Bladder Stones,Moderate,Surgical,0.93
+Dog,Puppy,Eye Discharge,Squinting,Redness,Pawing at Eye,Swelling,Conjunctivitis,Mild,Medical,0.90
+Cat,Kitten,Limping,Swollen Leg,Pain,Fever,Lethargy,Broken Bone,Moderate,Surgical,0.94
+Dog,Senior,Increased Appetite,Weight Loss,Panting,Restlessness,Hair Loss,Thyroid Disease,Moderate,Chronic,0.92
+Cat,Adult,Difficulty Breathing,Open-Mouth Breathing,Lethargy,Blue Gums,Collapse,Pleural Effusion,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Hair Loss,Skin Redness,Anxiety,Restlessness,Acral Lick Dermatitis,Mild,Behavioral,0.88
+Cat,Senior,Swollen Abdomen,Difficulty Breathing,Weight Loss,Poor Appetite,Lethargy,Abdominal Cancer,Severe,Terminal,0.96
+Dog,Puppy,Difficulty Walking,Weakness,Tremors,Collapse,Seizures,Hypoglycemia,Severe,Emergency,0.94
+Cat,Kitten,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Gastroenteritis,Moderate,Medical,0.91
+Dog,Senior,Coughing,Gagging,Difficulty Breathing,Exercise Intolerance,Collapse,Tracheal Collapse,Moderate,Chronic,0.93
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Pale Gums,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Panting,Anxiety,Pacing,Trembling,Hiding,Noise Phobia,Mild,Behavioral,0.87
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Vomiting,Lethargy,Chronic Kidney Disease,Severe,Chronic,0.94
+Dog,Puppy,Swollen Joints,Fever,Lameness,Pain,Lethargy,Panosteitis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Coronavirus,Moderate,Medical,0.92
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Fainting,Collapse,Congestive Heart Failure,Severe,Chronic,0.95
+Cat,Adult,Sneezing,Nasal Discharge,Congestion,Loss of Appetite,Lethargy,Rhinitis,Mild,Medical,0.90
+Dog,Adult,Swollen Abdomen,Lethargy,Pale Gums,Weakness,Collapse,Splenic Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Eating,Weight Loss,Drooling,Bad Breath,Pawing at Mouth,Stomatitis,Moderate,Dental,0.92
+Dog,Puppy,Diarrhea,Vomiting,Lethargy,Dehydration,Fever,Coronavirus,Moderate,Medical,0.91
+Cat,Kitten,Difficulty Breathing,Wheezing,Coughing,Lethargy,Blue Gums,Bronchitis,Moderate,Medical,0.92
+Dog,Senior,Swollen Abdomen,Difficulty Breathing,Lethargy,Coughing,Exercise Intolerance,Pleural Effusion,Severe,Emergency,0.95
+Cat,Adult,Limping,Joint Pain,Swelling,Fever,Lethargy,Arthritis,Moderate,Chronic,0.93
+Dog,Adult,Excessive Barking,Pacing,Destructive Behavior,Escape Attempts,House Soiling,Separation Anxiety,Mild,Behavioral,0.88
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Lung Cancer,Severe,Terminal,0.96
+Dog,Puppy,Limping,Pain,Swelling,Fever,Lethargy,Osteomyelitis,Moderate,Medical,0.92
+Cat,Kitten,Seizures,Disorientation,Circling,Head Tilt,Blindness,Hydrocephalus,Severe,Chronic,0.94
+Dog,Senior,Difficulty Walking,Weakness,Muscle Wasting,Lethargy,Incontinence,Intervertebral Disc Disease,Severe,Surgical,0.93
+Cat,Adult,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Pancreatitis,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Scratching,Hair Loss,Skin Redness,Hot Spots,Food Allergy,Moderate,Medical,0.91
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Poor Coat,Lethargy,Diabetes Mellitus,Severe,Chronic,0.94
+Dog,Puppy,Vomiting,Diarrhea,Lethargy,Fever,Abdominal Pain,Gastroenteritis,Moderate,Medical,0.91
+Cat,Kitten,Swollen Abdomen,Lethargy,Poor Growth,Diarrhea,Vomiting,Intestinal Blockage,Severe,Surgical,0.93
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Lethargy,Collapse,Pulmonary Fibrosis,Severe,Terminal,0.95
+Dog,Puppy,Head Tilt,Disorientation,Circling,Loss of Balance,Seizures,Vestibular Disease,Moderate,Medical,0.92
+Cat,Adult,Excessive Scratching,Hair Loss,Skin Lesions,Irritability,Restlessness,Flea Allergy Dermatitis,Mild,Medical,0.89
+Dog,Adult,Swollen Lymph Nodes,Fever,Lethargy,Loss of Appetite,Weight Loss,Lymphoma,Severe,Terminal,0.96
+Cat,Senior,Difficulty Jumping,Stiffness,Pain,Reduced Activity,Weight Gain,Arthritis,Moderate,Chronic,0.93
+Dog,Puppy,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parasitic Infection,Moderate,Medical,0.91
+Cat,Kitten,Swollen Eyes,Discharge,Squinting,Redness,Pawing at Face,Conjunctivitis,Mild,Medical,0.90
+Dog,Senior,Excessive Panting,Restlessness,Increased Thirst,Frequent Urination,Weight Loss,Hyperthyroidism,Moderate,Chronic,0.92
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Diarrhea,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Drooling,Difficulty Eating,Bad Breath,Weight Loss,Pawing at Mouth,Oral Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Heart Disease,Severe,Chronic,0.93
+Dog,Puppy,Swollen Joints,Lameness,Pain,Fever,Lethargy,Septic Arthritis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parvovirus,Severe,Emergency,0.95
+Dog,Senior,Confusion,Disorientation,Changes in Sleep,Anxiety,Inappropriate Elimination,Cognitive Dysfunction,Moderate,Chronic,0.90
+Cat,Kitten,Swollen Paw Pads,Lethargy,Fever,Nasal Discharge,Loss of Appetite,Feline Calicivirus,Moderate,Medical,0.91
+Dog,Adult,Excessive Panting,Restlessness,Pacing,Whining,Tremors,Heat Stroke,Severe,Emergency,0.96
+Cat,Senior,Weight Gain,Thickened Skin,Lethargy,Slow Healing,Recurrent Infections,Hypothyroidism,Moderate,Chronic,0.93
+Dog,Puppy,Abdominal Swelling,Diarrhea,Dehydration,Poor Growth,Dull Coat,Intestinal Parasites,Moderate,Medical,0.92
+Cat,Adult,Excessive Grooming,Hair Loss,Skin Lesions,Irritability,Scratching,Psychogenic Alopecia,Mild,Behavioral,0.88
+Dog,Adult,Swollen Abdomen,Difficulty Breathing,Pale Gums,Weakness,Collapse,Internal Bleeding,Severe,Emergency,0.96
+Cat,Senior,Difficulty Urinating,Blood in Urine,Crying in Litter Box,Frequent Licking,Lethargy,Bladder Stones,Moderate,Surgical,0.93
+Dog,Puppy,Eye Discharge,Squinting,Redness,Pawing at Eye,Swelling,Conjunctivitis,Mild,Medical,0.90
+Cat,Kitten,Limping,Swollen Leg,Pain,Fever,Lethargy,Broken Bone,Moderate,Surgical,0.94
+Dog,Senior,Increased Appetite,Weight Loss,Panting,Restlessness,Hair Loss,Thyroid Disease,Moderate,Chronic,0.92
+Cat,Adult,Difficulty Breathing,Open-Mouth Breathing,Lethargy,Blue Gums,Collapse,Pleural Effusion,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Hair Loss,Skin Redness,Anxiety,Restlessness,Acral Lick Dermatitis,Mild,Behavioral,0.88
+Cat,Senior,Swollen Abdomen,Difficulty Breathing,Weight Loss,Poor Appetite,Lethargy,Abdominal Cancer,Severe,Terminal,0.96
+Dog,Puppy,Difficulty Walking,Weakness,Tremors,Collapse,Seizures,Hypoglycemia,Severe,Emergency,0.94
+Cat,Kitten,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Gastroenteritis,Moderate,Medical,0.91
+Dog,Senior,Coughing,Gagging,Difficulty Breathing,Exercise Intolerance,Collapse,Tracheal Collapse,Moderate,Chronic,0.93
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Pale Gums,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Panting,Anxiety,Pacing,Trembling,Hiding,Noise Phobia,Mild,Behavioral,0.87
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Vomiting,Lethargy,Chronic Kidney Disease,Severe,Chronic,0.94
+Dog,Puppy,Swollen Joints,Fever,Lameness,Pain,Lethargy,Panosteitis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Coronavirus,Moderate,Medical,0.92
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Fainting,Collapse,Congestive Heart Failure,Severe,Chronic,0.95
+Cat,Adult,Sneezing,Nasal Discharge,Congestion,Loss of Appetite,Lethargy,Rhinitis,Mild,Medical,0.90
+Dog,Adult,Swollen Abdomen,Lethargy,Pale Gums,Weakness,Collapse,Splenic Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Eating,Weight Loss,Drooling,Bad Breath,Pawing at Mouth,Stomatitis,Moderate,Dental,0.92
+Dog,Puppy,Diarrhea,Vomiting,Lethargy,Dehydration,Fever,Coronavirus,Moderate,Medical,0.91
+Cat,Kitten,Difficulty Breathing,Wheezing,Coughing,Lethargy,Blue Gums,Bronchitis,Moderate,Medical,0.92
+Dog,Senior,Swollen Abdomen,Difficulty Breathing,Lethargy,Coughing,Exercise Intolerance,Pleural Effusion,Severe,Emergency,0.95
+Cat,Adult,Limping,Joint Pain,Swelling,Fever,Lethargy,Arthritis,Moderate,Chronic,0.93
+Dog,Adult,Excessive Barking,Pacing,Destructive Behavior,Escape Attempts,House Soiling,Separation Anxiety,Mild,Behavioral,0.88
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Lung Cancer,Severe,Terminal,0.96
+Dog,Puppy,Limping,Pain,Swelling,Fever,Lethargy,Osteomyelitis,Moderate,Medical,0.92
+Cat,Kitten,Seizures,Disorientation,Circling,Head Tilt,Blindness,Hydrocephalus,Severe,Chronic,0.94
+Dog,Senior,Difficulty Walking,Weakness,Muscle Wasting,Lethargy,Incontinence,Intervertebral Disc Disease,Severe,Surgical,0.93
+Cat,Adult,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Pancreatitis,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Scratching,Hair Loss,Skin Redness,Hot Spots,Food Allergy,Moderate,Medical,0.91
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Poor Coat,Lethargy,Diabetes Mellitus,Severe,Chronic,0.94
+Dog,Puppy,Vomiting,Diarrhea,Lethargy,Fever,Abdominal Pain,Gastroenteritis,Moderate,Medical,0.91
+Cat,Kitten,Swollen Abdomen,Lethargy,Poor Growth,Diarrhea,Vomiting,Intestinal Blockage,Severe,Surgical,0.93
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Lethargy,Collapse,Pulmonary Fibrosis,Severe,Terminal,0.95
+Dog,Puppy,Head Tilt,Disorientation,Circling,Loss of Balance,Seizures,Vestibular Disease,Moderate,Medical,0.92
+Cat,Adult,Excessive Scratching,Hair Loss,Skin Lesions,Irritability,Restlessness,Flea Allergy Dermatitis,Mild,Medical,0.89
+Dog,Adult,Swollen Lymph Nodes,Fever,Lethargy,Loss of Appetite,Weight Loss,Lymphoma,Severe,Terminal,0.96
+Cat,Senior,Difficulty Jumping,Stiffness,Pain,Reduced Activity,Weight Gain,Arthritis,Moderate,Chronic,0.93
+Dog,Puppy,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parasitic Infection,Moderate,Medical,0.91
+Cat,Kitten,Swollen Eyes,Discharge,Squinting,Redness,Pawing at Face,Conjunctivitis,Mild,Medical,0.90
+Dog,Senior,Excessive Panting,Restlessness,Increased Thirst,Frequent Urination,Weight Loss,Hyperthyroidism,Moderate,Chronic,0.92
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Diarrhea,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Drooling,Difficulty Eating,Bad Breath,Weight Loss,Pawing at Mouth,Oral Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Heart Disease,Severe,Chronic,0.93
+Dog,Puppy,Swollen Joints,Lameness,Pain,Fever,Lethargy,Septic Arthritis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parvovirus,Severe,Emergency,0.95
+Dog,Senior,Confusion,Disorientation,Changes in Sleep,Anxiety,Inappropriate Elimination,Cognitive Dysfunction,Moderate,Chronic,0.90
+Cat,Kitten,Swollen Paw Pads,Lethargy,Fever,Nasal Discharge,Loss of Appetite,Feline Calicivirus,Moderate,Medical,0.91
+Dog,Adult,Excessive Panting,Restlessness,Pacing,Whining,Tremors,Heat Stroke,Severe,Emergency,0.96
+Cat,Senior,Weight Gain,Thickened Skin,Lethargy,Slow Healing,Recurrent Infections,Hypothyroidism,Moderate,Chronic,0.93
+Dog,Puppy,Abdominal Swelling,Diarrhea,Dehydration,Poor Growth,Dull Coat,Intestinal Parasites,Moderate,Medical,0.92
+Cat,Adult,Excessive Grooming,Hair Loss,Skin Lesions,Irritability,Scratching,Psychogenic Alopecia,Mild,Behavioral,0.88
+Dog,Adult,Swollen Abdomen,Difficulty Breathing,Pale Gums,Weakness,Collapse,Internal Bleeding,Severe,Emergency,0.96
+Cat,Senior,Difficulty Urinating,Blood in Urine,Crying in Litter Box,Frequent Licking,Lethargy,Bladder Stones,Moderate,Surgical,0.93
+Dog,Puppy,Eye Discharge,Squinting,Redness,Pawing at Eye,Swelling,Conjunctivitis,Mild,Medical,0.90
+Cat,Kitten,Limping,Swollen Leg,Pain,Fever,Lethargy,Broken Bone,Moderate,Surgical,0.94
+Dog,Senior,Increased Appetite,Weight Loss,Panting,Restlessness,Hair Loss,Thyroid Disease,Moderate,Chronic,0.92
+Cat,Adult,Difficulty Breathing,Open-Mouth Breathing,Lethargy,Blue Gums,Collapse,Pleural Effusion,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Hair Loss,Skin Redness,Anxiety,Restlessness,Acral Lick Dermatitis,Mild,Behavioral,0.88
+Cat,Senior,Swollen Abdomen,Difficulty Breathing,Weight Loss,Poor Appetite,Lethargy,Abdominal Cancer,Severe,Terminal,0.96
+Dog,Puppy,Difficulty Walking,Weakness,Tremors,Collapse,Seizures,Hypoglycemia,Severe,Emergency,0.94
+Cat,Kitten,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Gastroenteritis,Moderate,Medical,0.91
+Dog,Senior,Coughing,Gagging,Difficulty Breathing,Exercise Intolerance,Collapse,Tracheal Collapse,Moderate,Chronic,0.93
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Pale Gums,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Panting,Anxiety,Pacing,Trembling,Hiding,Noise Phobia,Mild,Behavioral,0.87
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Vomiting,Lethargy,Chronic Kidney Disease,Severe,Chronic,0.94
+Dog,Puppy,Swollen Joints,Fever,Lameness,Pain,Lethargy,Panosteitis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Coronavirus,Moderate,Medical,0.92
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Fainting,Collapse,Congestive Heart Failure,Severe,Chronic,0.95
+Cat,Adult,Sneezing,Nasal Discharge,Congestion,Loss of Appetite,Lethargy,Rhinitis,Mild,Medical,0.90
+Dog,Adult,Swollen Abdomen,Lethargy,Pale Gums,Weakness,Collapse,Splenic Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Eating,Weight Loss,Drooling,Bad Breath,Pawing at Mouth,Stomatitis,Moderate,Dental,0.92
+Dog,Puppy,Diarrhea,Vomiting,Lethargy,Dehydration,Fever,Coronavirus,Moderate,Medical,0.91
+Cat,Kitten,Difficulty Breathing,Wheezing,Coughing,Lethargy,Blue Gums,Bronchitis,Moderate,Medical,0.92
+Dog,Senior,Swollen Abdomen,Difficulty Breathing,Lethargy,Coughing,Exercise Intolerance,Pleural Effusion,Severe,Emergency,0.95
+Cat,Adult,Limping,Joint Pain,Swelling,Fever,Lethargy,Arthritis,Moderate,Chronic,0.93
+Dog,Adult,Excessive Barking,Pacing,Destructive Behavior,Escape Attempts,House Soiling,Separation Anxiety,Mild,Behavioral,0.88
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Lung Cancer,Severe,Terminal,0.96
+Dog,Puppy,Limping,Pain,Swelling,Fever,Lethargy,Osteomyelitis,Moderate,Medical,0.92
+Cat,Kitten,Seizures,Disorientation,Circling,Head Tilt,Blindness,Hydrocephalus,Severe,Chronic,0.94
+Dog,Senior,Difficulty Walking,Weakness,Muscle Wasting,Lethargy,Incontinence,Intervertebral Disc Disease,Severe,Surgical,0.93
+Cat,Adult,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Pancreatitis,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Scratching,Hair Loss,Skin Redness,Hot Spots,Food Allergy,Moderate,Medical,0.91
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Poor Coat,Lethargy,Diabetes Mellitus,Severe,Chronic,0.94
+Dog,Puppy,Vomiting,Diarrhea,Lethargy,Fever,Abdominal Pain,Gastroenteritis,Moderate,Medical,0.91
+Cat,Kitten,Swollen Abdomen,Lethargy,Poor Growth,Diarrhea,Vomiting,Intestinal Blockage,Severe,Surgical,0.93
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Lethargy,Collapse,Pulmonary Fibrosis,Severe,Terminal,0.95
+Dog,Puppy,Head Tilt,Disorientation,Circling,Loss of Balance,Seizures,Vestibular Disease,Moderate,Medical,0.92
+Cat,Adult,Excessive Scratching,Hair Loss,Skin Lesions,Irritability,Restlessness,Flea Allergy Dermatitis,Mild,Medical,0.89
+Dog,Adult,Swollen Lymph Nodes,Fever,Lethargy,Loss of Appetite,Weight Loss,Lymphoma,Severe,Terminal,0.96
+Cat,Senior,Difficulty Jumping,Stiffness,Pain,Reduced Activity,Weight Gain,Arthritis,Moderate,Chronic,0.93
+Dog,Puppy,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parasitic Infection,Moderate,Medical,0.91
+Cat,Kitten,Swollen Eyes,Discharge,Squinting,Redness,Pawing at Face,Conjunctivitis,Mild,Medical,0.90
+Dog,Senior,Excessive Panting,Restlessness,Increased Thirst,Frequent Urination,Weight Loss,Hyperthyroidism,Moderate,Chronic,0.92
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Diarrhea,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Drooling,Difficulty Eating,Bad Breath,Weight Loss,Pawing at Mouth,Oral Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Heart Disease,Severe,Chronic,0.93
+Dog,Puppy,Swollen Joints,Lameness,Pain,Fever,Lethargy,Septic Arthritis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parvovirus,Severe,Emergency,0.95
+Dog,Senior,Confusion,Disorientation,Changes in Sleep,Anxiety,Inappropriate Elimination,Cognitive Dysfunction,Moderate,Chronic,0.90
+Cat,Kitten,Swollen Paw Pads,Lethargy,Fever,Nasal Discharge,Loss of Appetite,Feline Calicivirus,Moderate,Medical,0.91
+Dog,Adult,Excessive Panting,Restlessness,Pacing,Whining,Tremors,Heat Stroke,Severe,Emergency,0.96
+Cat,Senior,Weight Gain,Thickened Skin,Lethargy,Slow Healing,Recurrent Infections,Hypothyroidism,Moderate,Chronic,0.93
+Dog,Puppy,Abdominal Swelling,Diarrhea,Dehydration,Poor Growth,Dull Coat,Intestinal Parasites,Moderate,Medical,0.92
+Cat,Adult,Excessive Grooming,Hair Loss,Skin Lesions,Irritability,Scratching,Psychogenic Alopecia,Mild,Behavioral,0.88
+Dog,Adult,Swollen Abdomen,Difficulty Breathing,Pale Gums,Weakness,Collapse,Internal Bleeding,Severe,Emergency,0.96
+Cat,Senior,Difficulty Urinating,Blood in Urine,Crying in Litter Box,Frequent Licking,Lethargy,Bladder Stones,Moderate,Surgical,0.93
+Dog,Puppy,Eye Discharge,Squinting,Redness,Pawing at Eye,Swelling,Conjunctivitis,Mild,Medical,0.90
+Cat,Kitten,Limping,Swollen Leg,Pain,Fever,Lethargy,Broken Bone,Moderate,Surgical,0.94
+Dog,Senior,Increased Appetite,Weight Loss,Panting,Restlessness,Hair Loss,Thyroid Disease,Moderate,Chronic,0.92
+Cat,Adult,Difficulty Breathing,Open-Mouth Breathing,Lethargy,Blue Gums,Collapse,Pleural Effusion,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Hair Loss,Skin Redness,Anxiety,Restlessness,Acral Lick Dermatitis,Mild,Behavioral,0.88
+Cat,Senior,Swollen Abdomen,Difficulty Breathing,Weight Loss,Poor Appetite,Lethargy,Abdominal Cancer,Severe,Terminal,0.96
+Dog,Puppy,Difficulty Walking,Weakness,Tremors,Collapse,Seizures,Hypoglycemia,Severe,Emergency,0.94
+Cat,Kitten,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Gastroenteritis,Moderate,Medical,0.91
+Dog,Senior,Coughing,Gagging,Difficulty Breathing,Exercise Intolerance,Collapse,Tracheal Collapse,Moderate,Chronic,0.93
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Pale Gums,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Panting,Anxiety,Pacing,Trembling,Hiding,Noise Phobia,Mild,Behavioral,0.87
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Vomiting,Lethargy,Chronic Kidney Disease,Severe,Chronic,0.94
+Dog,Puppy,Swollen Joints,Fever,Lameness,Pain,Lethargy,Panosteitis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Coronavirus,Moderate,Medical,0.92
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Fainting,Collapse,Congestive Heart Failure,Severe,Chronic,0.95
+Cat,Adult,Sneezing,Nasal Discharge,Congestion,Loss of Appetite,Lethargy,Rhinitis,Mild,Medical,0.90
+Dog,Adult,Swollen Abdomen,Lethargy,Pale Gums,Weakness,Collapse,Splenic Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Eating,Weight Loss,Drooling,Bad Breath,Pawing at Mouth,Stomatitis,Moderate,Dental,0.92
+Dog,Puppy,Diarrhea,Vomiting,Lethargy,Dehydration,Fever,Coronavirus,Moderate,Medical,0.91
+Cat,Kitten,Difficulty Breathing,Wheezing,Coughing,Lethargy,Blue Gums,Bronchitis,Moderate,Medical,0.92
+Dog,Senior,Swollen Abdomen,Difficulty Breathing,Lethargy,Coughing,Exercise Intolerance,Pleural Effusion,Severe,Emergency,0.95
+Cat,Adult,Limping,Joint Pain,Swelling,Fever,Lethargy,Arthritis,Moderate,Chronic,0.93
+Dog,Adult,Excessive Barking,Pacing,Destructive Behavior,Escape Attempts,House Soiling,Separation Anxiety,Mild,Behavioral,0.88
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Lung Cancer,Severe,Terminal,0.96
+Dog,Puppy,Limping,Pain,Swelling,Fever,Lethargy,Osteomyelitis,Moderate,Medical,0.92
+Cat,Kitten,Seizures,Disorientation,Circling,Head Tilt,Blindness,Hydrocephalus,Severe,Chronic,0.94
+Dog,Senior,Difficulty Walking,Weakness,Muscle Wasting,Lethargy,Incontinence,Intervertebral Disc Disease,Severe,Surgical,0.93
+Cat,Adult,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Pancreatitis,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Scratching,Hair Loss,Skin Redness,Hot Spots,Food Allergy,Moderate,Medical,0.91
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Poor Coat,Lethargy,Diabetes Mellitus,Severe,Chronic,0.94
+Dog,Puppy,Vomiting,Diarrhea,Lethargy,Fever,Abdominal Pain,Gastroenteritis,Moderate,Medical,0.91
+Cat,Kitten,Swollen Abdomen,Lethargy,Poor Growth,Diarrhea,Vomiting,Intestinal Blockage,Severe,Surgical,0.93
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Lethargy,Collapse,Pulmonary Fibrosis,Severe,Terminal,0.95
+Dog,Puppy,Head Tilt,Disorientation,Circling,Loss of Balance,Seizures,Vestibular Disease,Moderate,Medical,0.92
+Cat,Adult,Excessive Scratching,Hair Loss,Skin Lesions,Irritability,Restlessness,Flea Allergy Dermatitis,Mild,Medical,0.89
+Dog,Adult,Swollen Lymph Nodes,Fever,Lethargy,Loss of Appetite,Weight Loss,Lymphoma,Severe,Terminal,0.96
+Cat,Senior,Difficulty Jumping,Stiffness,Pain,Reduced Activity,Weight Gain,Arthritis,Moderate,Chronic,0.93
+Dog,Puppy,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parasitic Infection,Moderate,Medical,0.91
+Cat,Kitten,Swollen Eyes,Discharge,Squinting,Redness,Pawing at Face,Conjunctivitis,Mild,Medical,0.90
+Dog,Senior,Excessive Panting,Restlessness,Increased Thirst,Frequent Urination,Weight Loss,Hyperthyroidism,Moderate,Chronic,0.92
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Diarrhea,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Drooling,Difficulty Eating,Bad Breath,Weight Loss,Pawing at Mouth,Oral Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Heart Disease,Severe,Chronic,0.93
+Dog,Puppy,Swollen Joints,Lameness,Pain,Fever,Lethargy,Septic Arthritis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parvovirus,Severe,Emergency,0.95
+Dog,Senior,Confusion,Disorientation,Changes in Sleep,Anxiety,Inappropriate Elimination,Cognitive Dysfunction,Moderate,Chronic,0.90
+Cat,Kitten,Swollen Paw Pads,Lethargy,Fever,Nasal Discharge,Loss of Appetite,Feline Calicivirus,Moderate,Medical,0.91
+Dog,Adult,Excessive Panting,Restlessness,Pacing,Whining,Tremors,Heat Stroke,Severe,Emergency,0.96
+Cat,Senior,Weight Gain,Thickened Skin,Lethargy,Slow Healing,Recurrent Infections,Hypothyroidism,Moderate,Chronic,0.93
+Dog,Puppy,Abdominal Swelling,Diarrhea,Dehydration,Poor Growth,Dull Coat,Intestinal Parasites,Moderate,Medical,0.92
+Cat,Adult,Excessive Grooming,Hair Loss,Skin Lesions,Irritability,Scratching,Psychogenic Alopecia,Mild,Behavioral,0.88
+Dog,Adult,Swollen Abdomen,Difficulty Breathing,Pale Gums,Weakness,Collapse,Internal Bleeding,Severe,Emergency,0.96
+Cat,Senior,Difficulty Urinating,Blood in Urine,Crying in Litter Box,Frequent Licking,Lethargy,Bladder Stones,Moderate,Surgical,0.93
+Dog,Puppy,Eye Discharge,Squinting,Redness,Pawing at Eye,Swelling,Conjunctivitis,Mild,Medical,0.90
+Cat,Kitten,Limping,Swollen Leg,Pain,Fever,Lethargy,Broken Bone,Moderate,Surgical,0.94
+Dog,Senior,Increased Appetite,Weight Loss,Panting,Restlessness,Hair Loss,Thyroid Disease,Moderate,Chronic,0.92
+Cat,Adult,Difficulty Breathing,Open-Mouth Breathing,Lethargy,Blue Gums,Collapse,Pleural Effusion,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Hair Loss,Skin Redness,Anxiety,Restlessness,Acral Lick Dermatitis,Mild,Behavioral,0.88
+Cat,Senior,Swollen Abdomen,Difficulty Breathing,Weight Loss,Poor Appetite,Lethargy,Abdominal Cancer,Severe,Terminal,0.96
+Dog,Puppy,Difficulty Walking,Weakness,Tremors,Collapse,Seizures,Hypoglycemia,Severe,Emergency,0.94
+Cat,Kitten,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Gastroenteritis,Moderate,Medical,0.91
+Dog,Senior,Coughing,Gagging,Difficulty Breathing,Exercise Intolerance,Collapse,Tracheal Collapse,Moderate,Chronic,0.93
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Pale Gums,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Panting,Anxiety,Pacing,Trembling,Hiding,Noise Phobia,Mild,Behavioral,0.87
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Vomiting,Lethargy,Chronic Kidney Disease,Severe,Chronic,0.94
+Dog,Puppy,Swollen Joints,Fever,Lameness,Pain,Lethargy,Panosteitis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Coronavirus,Moderate,Medical,0.92
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Fainting,Collapse,Congestive Heart Failure,Severe,Chronic,0.95
+Cat,Adult,Sneezing,Nasal Discharge,Congestion,Loss of Appetite,Lethargy,Rhinitis,Mild,Medical,0.90
+Dog,Adult,Swollen Abdomen,Lethargy,Pale Gums,Weakness,Collapse,Splenic Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Eating,Weight Loss,Drooling,Bad Breath,Pawing at Mouth,Stomatitis,Moderate,Dental,0.92
+Dog,Puppy,Diarrhea,Vomiting,Lethargy,Dehydration,Fever,Coronavirus,Moderate,Medical,0.91
+Cat,Kitten,Difficulty Breathing,Wheezing,Coughing,Lethargy,Blue Gums,Bronchitis,Moderate,Medical,0.92
+Dog,Senior,Swollen Abdomen,Difficulty Breathing,Lethargy,Coughing,Exercise Intolerance,Pleural Effusion,Severe,Emergency,0.95
+Cat,Adult,Limping,Joint Pain,Swelling,Fever,Lethargy,Arthritis,Moderate,Chronic,0.93
+Dog,Adult,Excessive Barking,Pacing,Destructive Behavior,Escape Attempts,House Soiling,Separation Anxiety,Mild,Behavioral,0.88
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Lung Cancer,Severe,Terminal,0.96
+Dog,Puppy,Limping,Pain,Swelling,Fever,Lethargy,Osteomyelitis,Moderate,Medical,0.92
+Cat,Kitten,Seizures,Disorientation,Circling,Head Tilt,Blindness,Hydrocephalus,Severe,Chronic,0.94
+Dog,Senior,Difficulty Walking,Weakness,Muscle Wasting,Lethargy,Incontinence,Intervertebral Disc Disease,Severe,Surgical,0.93
+Cat,Adult,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Pancreatitis,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Scratching,Hair Loss,Skin Redness,Hot Spots,Food Allergy,Moderate,Medical,0.91
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Poor Coat,Lethargy,Diabetes Mellitus,Severe,Chronic,0.94
+Dog,Puppy,Vomiting,Diarrhea,Lethargy,Fever,Abdominal Pain,Gastroenteritis,Moderate,Medical,0.91
+Cat,Kitten,Swollen Abdomen,Lethargy,Poor Growth,Diarrhea,Vomiting,Intestinal Blockage,Severe,Surgical,0.93
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Lethargy,Collapse,Pulmonary Fibrosis,Severe,Terminal,0.95
+Dog,Puppy,Head Tilt,Disorientation,Circling,Loss of Balance,Seizures,Vestibular Disease,Moderate,Medical,0.92
+Cat,Adult,Excessive Scratching,Hair Loss,Skin Lesions,Irritability,Restlessness,Flea Allergy Dermatitis,Mild,Medical,0.89
+Dog,Adult,Swollen Lymph Nodes,Fever,Lethargy,Loss of Appetite,Weight Loss,Lymphoma,Severe,Terminal,0.96
+Cat,Senior,Difficulty Jumping,Stiffness,Pain,Reduced Activity,Weight Gain,Arthritis,Moderate,Chronic,0.93
+Dog,Puppy,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parasitic Infection,Moderate,Medical,0.91
+Cat,Kitten,Swollen Eyes,Discharge,Squinting,Redness,Pawing at Face,Conjunctivitis,Mild,Medical,0.90
+Dog,Senior,Excessive Panting,Restlessness,Increased Thirst,Frequent Urination,Weight Loss,Hyperthyroidism,Moderate,Chronic,0.92
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Diarrhea,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Drooling,Difficulty Eating,Bad Breath,Weight Loss,Pawing at Mouth,Oral Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Heart Disease,Severe,Chronic,0.93
+Dog,Puppy,Swollen Joints,Lameness,Pain,Fever,Lethargy,Septic Arthritis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parvovirus,Severe,Emergency,0.95
+Dog,Senior,Confusion,Disorientation,Changes in Sleep,Anxiety,Inappropriate Elimination,Cognitive Dysfunction,Moderate,Chronic,0.90
+Cat,Kitten,Swollen Paw Pads,Lethargy,Fever,Nasal Discharge,Loss of Appetite,Feline Calicivirus,Moderate,Medical,0.91
+Dog,Adult,Excessive Panting,Restlessness,Pacing,Whining,Tremors,Heat Stroke,Severe,Emergency,0.96
+Cat,Senior,Weight Gain,Thickened Skin,Lethargy,Slow Healing,Recurrent Infections,Hypothyroidism,Moderate,Chronic,0.93
+Dog,Puppy,Abdominal Swelling,Diarrhea,Dehydration,Poor Growth,Dull Coat,Intestinal Parasites,Moderate,Medical,0.92
+Cat,Adult,Excessive Grooming,Hair Loss,Skin Lesions,Irritability,Scratching,Psychogenic Alopecia,Mild,Behavioral,0.88
+Dog,Adult,Swollen Abdomen,Difficulty Breathing,Pale Gums,Weakness,Collapse,Internal Bleeding,Severe,Emergency,0.96
+Cat,Senior,Difficulty Urinating,Blood in Urine,Crying in Litter Box,Frequent Licking,Lethargy,Bladder Stones,Moderate,Surgical,0.93
+Dog,Puppy,Eye Discharge,Squinting,Redness,Pawing at Eye,Swelling,Conjunctivitis,Mild,Medical,0.90
+Cat,Kitten,Limping,Swollen Leg,Pain,Fever,Lethargy,Broken Bone,Moderate,Surgical,0.94
+Dog,Senior,Increased Appetite,Weight Loss,Panting,Restlessness,Hair Loss,Thyroid Disease,Moderate,Chronic,0.92
+Cat,Adult,Difficulty Breathing,Open-Mouth Breathing,Lethargy,Blue Gums,Collapse,Pleural Effusion,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Hair Loss,Skin Redness,Anxiety,Restlessness,Acral Lick Dermatitis,Mild,Behavioral,0.88
+Cat,Senior,Swollen Abdomen,Difficulty Breathing,Weight Loss,Poor Appetite,Lethargy,Abdominal Cancer,Severe,Terminal,0.96
+Dog,Puppy,Difficulty Walking,Weakness,Tremors,Collapse,Seizures,Hypoglycemia,Severe,Emergency,0.94
+Cat,Kitten,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Gastroenteritis,Moderate,Medical,0.91
+Dog,Senior,Coughing,Gagging,Difficulty Breathing,Exercise Intolerance,Collapse,Tracheal Collapse,Moderate,Chronic,0.93
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Pale Gums,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Panting,Anxiety,Pacing,Trembling,Hiding,Noise Phobia,Mild,Behavioral,0.87
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Vomiting,Lethargy,Chronic Kidney Disease,Severe,Chronic,0.94
+Dog,Puppy,Swollen Joints,Fever,Lameness,Pain,Lethargy,Panosteitis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Coronavirus,Moderate,Medical,0.92
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Fainting,Collapse,Congestive Heart Failure,Severe,Chronic,0.95
+Cat,Adult,Sneezing,Nasal Discharge,Congestion,Loss of Appetite,Lethargy,Rhinitis,Mild,Medical,0.90
+Dog,Adult,Swollen Abdomen,Lethargy,Pale Gums,Weakness,Collapse,Splenic Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Eating,Weight Loss,Drooling,Bad Breath,Pawing at Mouth,Stomatitis,Moderate,Dental,0.92
+Dog,Puppy,Diarrhea,Vomiting,Lethargy,Dehydration,Fever,Coronavirus,Moderate,Medical,0.91
+Cat,Kitten,Difficulty Breathing,Wheezing,Coughing,Lethargy,Blue Gums,Bronchitis,Moderate,Medical,0.92
+Dog,Senior,Swollen Abdomen,Difficulty Breathing,Lethargy,Coughing,Exercise Intolerance,Pleural Effusion,Severe,Emergency,0.95
+Cat,Adult,Limping,Joint Pain,Swelling,Fever,Lethargy,Arthritis,Moderate,Chronic,0.93
+Dog,Adult,Excessive Barking,Pacing,Destructive Behavior,Escape Attempts,House Soiling,Separation Anxiety,Mild,Behavioral,0.88
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Lung Cancer,Severe,Terminal,0.96
+Dog,Puppy,Limping,Pain,Swelling,Fever,Lethargy,Osteomyelitis,Moderate,Medical,0.92
+Cat,Kitten,Seizures,Disorientation,Circling,Head Tilt,Blindness,Hydrocephalus,Severe,Chronic,0.94
+Dog,Senior,Difficulty Walking,Weakness,Muscle Wasting,Lethargy,Incontinence,Intervertebral Disc Disease,Severe,Surgical,0.93
+Cat,Adult,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Pancreatitis,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Scratching,Hair Loss,Skin Redness,Hot Spots,Food Allergy,Moderate,Medical,0.91
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Poor Coat,Lethargy,Diabetes Mellitus,Severe,Chronic,0.94
+Dog,Puppy,Vomiting,Diarrhea,Lethargy,Fever,Abdominal Pain,Gastroenteritis,Moderate,Medical,0.91
+Cat,Kitten,Swollen Abdomen,Lethargy,Poor Growth,Diarrhea,Vomiting,Intestinal Blockage,Severe,Surgical,0.93
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Lethargy,Collapse,Pulmonary Fibrosis,Severe,Terminal,0.95
+Dog,Puppy,Head Tilt,Disorientation,Circling,Loss of Balance,Seizures,Vestibular Disease,Moderate,Medical,0.92
+Cat,Adult,Excessive Scratching,Hair Loss,Skin Lesions,Irritability,Restlessness,Flea Allergy Dermatitis,Mild,Medical,0.89
+Dog,Adult,Swollen Lymph Nodes,Fever,Lethargy,Loss of Appetite,Weight Loss,Lymphoma,Severe,Terminal,0.96
+Cat,Senior,Difficulty Jumping,Stiffness,Pain,Reduced Activity,Weight Gain,Arthritis,Moderate,Chronic,0.93
+Dog,Puppy,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parasitic Infection,Moderate,Medical,0.91
+Cat,Kitten,Swollen Eyes,Discharge,Squinting,Redness,Pawing at Face,Conjunctivitis,Mild,Medical,0.90
+Dog,Senior,Excessive Panting,Restlessness,Increased Thirst,Frequent Urination,Weight Loss,Hyperthyroidism,Moderate,Chronic,0.92
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Diarrhea,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Drooling,Difficulty Eating,Bad Breath,Weight Loss,Pawing at Mouth,Oral Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Heart Disease,Severe,Chronic,0.93
+Dog,Puppy,Swollen Joints,Lameness,Pain,Fever,Lethargy,Septic Arthritis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parvovirus,Severe,Emergency,0.95
+Dog,Senior,Confusion,Disorientation,Changes in Sleep,Anxiety,Inappropriate Elimination,Cognitive Dysfunction,Moderate,Chronic,0.90
+Cat,Kitten,Swollen Paw Pads,Lethargy,Fever,Nasal Discharge,Loss of Appetite,Feline Calicivirus,Moderate,Medical,0.91
+Dog,Adult,Excessive Panting,Restlessness,Pacing,Whining,Tremors,Heat Stroke,Severe,Emergency,0.96
+Cat,Senior,Weight Gain,Thickened Skin,Lethargy,Slow Healing,Recurrent Infections,Hypothyroidism,Moderate,Chronic,0.93
+Dog,Puppy,Abdominal Swelling,Diarrhea,Dehydration,Poor Growth,Dull Coat,Intestinal Parasites,Moderate,Medical,0.92
+Cat,Adult,Excessive Grooming,Hair Loss,Skin Lesions,Irritability,Scratching,Psychogenic Alopecia,Mild,Behavioral,0.88
+Dog,Adult,Swollen Abdomen,Difficulty Breathing,Pale Gums,Weakness,Collapse,Internal Bleeding,Severe,Emergency,0.96
+Cat,Senior,Difficulty Urinating,Blood in Urine,Crying in Litter Box,Frequent Licking,Lethargy,Bladder Stones,Moderate,Surgical,0.93
+Dog,Puppy,Eye Discharge,Squinting,Redness,Pawing at Eye,Swelling,Conjunctivitis,Mild,Medical,0.90
+Cat,Kitten,Limping,Swollen Leg,Pain,Fever,Lethargy,Broken Bone,Moderate,Surgical,0.94
+Dog,Senior,Increased Appetite,Weight Loss,Panting,Restlessness,Hair Loss,Thyroid Disease,Moderate,Chronic,0.92
+Cat,Adult,Difficulty Breathing,Open-Mouth Breathing,Lethargy,Blue Gums,Collapse,Pleural Effusion,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Hair Loss,Skin Redness,Anxiety,Restlessness,Acral Lick Dermatitis,Mild,Behavioral,0.88
+Cat,Senior,Swollen Abdomen,Difficulty Breathing,Weight Loss,Poor Appetite,Lethargy,Abdominal Cancer,Severe,Terminal,0.96
+Dog,Puppy,Difficulty Walking,Weakness,Tremors,Collapse,Seizures,Hypoglycemia,Severe,Emergency,0.94
+Cat,Kitten,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Gastroenteritis,Moderate,Medical,0.91
+Dog,Senior,Coughing,Gagging,Difficulty Breathing,Exercise Intolerance,Collapse,Tracheal Collapse,Moderate,Chronic,0.93
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Pale Gums,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Panting,Anxiety,Pacing,Trembling,Hiding,Noise Phobia,Mild,Behavioral,0.87
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Vomiting,Lethargy,Chronic Kidney Disease,Severe,Chronic,0.94
+Dog,Puppy,Swollen Joints,Fever,Lameness,Pain,Lethargy,Panosteitis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Coronavirus,Moderate,Medical,0.92
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Fainting,Collapse,Congestive Heart Failure,Severe,Chronic,0.95
+Cat,Adult,Sneezing,Nasal Discharge,Congestion,Loss of Appetite,Lethargy,Rhinitis,Mild,Medical,0.90
+Dog,Adult,Swollen Abdomen,Lethargy,Pale Gums,Weakness,Collapse,Splenic Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Eating,Weight Loss,Drooling,Bad Breath,Pawing at Mouth,Stomatitis,Moderate,Dental,0.92
+Dog,Puppy,Diarrhea,Vomiting,Lethargy,Dehydration,Fever,Coronavirus,Moderate,Medical,0.91
+Cat,Kitten,Difficulty Breathing,Wheezing,Coughing,Lethargy,Blue Gums,Bronchitis,Moderate,Medical,0.92
+Dog,Senior,Swollen Abdomen,Difficulty Breathing,Lethargy,Coughing,Exercise Intolerance,Pleural Effusion,Severe,Emergency,0.95
+Cat,Adult,Limping,Joint Pain,Swelling,Fever,Lethargy,Arthritis,Moderate,Chronic,0.93
+Dog,Adult,Excessive Barking,Pacing,Destructive Behavior,Escape Attempts,House Soiling,Separation Anxiety,Mild,Behavioral,0.88
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Lung Cancer,Severe,Terminal,0.96
+Dog,Puppy,Limping,Pain,Swelling,Fever,Lethargy,Osteomyelitis,Moderate,Medical,0.92
+Cat,Kitten,Seizures,Disorientation,Circling,Head Tilt,Blindness,Hydrocephalus,Severe,Chronic,0.94
+Dog,Senior,Difficulty Walking,Weakness,Muscle Wasting,Lethargy,Incontinence,Intervertebral Disc Disease,Severe,Surgical,0.93
+Cat,Adult,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Pancreatitis,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Scratching,Hair Loss,Skin Redness,Hot Spots,Food Allergy,Moderate,Medical,0.91
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Poor Coat,Lethargy,Diabetes Mellitus,Severe,Chronic,0.94
+Dog,Puppy,Vomiting,Diarrhea,Lethargy,Fever,Abdominal Pain,Gastroenteritis,Moderate,Medical,0.91
+Cat,Kitten,Swollen Abdomen,Lethargy,Poor Growth,Diarrhea,Vomiting,Intestinal Blockage,Severe,Surgical,0.93
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Lethargy,Collapse,Pulmonary Fibrosis,Severe,Terminal,0.95
+Dog,Puppy,Head Tilt,Disorientation,Circling,Loss of Balance,Seizures,Vestibular Disease,Moderate,Medical,0.92
+Cat,Adult,Excessive Scratching,Hair Loss,Skin Lesions,Irritability,Restlessness,Flea Allergy Dermatitis,Mild,Medical,0.89
+Dog,Adult,Swollen Lymph Nodes,Fever,Lethargy,Loss of Appetite,Weight Loss,Lymphoma,Severe,Terminal,0.96
+Cat,Senior,Difficulty Jumping,Stiffness,Pain,Reduced Activity,Weight Gain,Arthritis,Moderate,Chronic,0.93
+Dog,Puppy,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parasitic Infection,Moderate,Medical,0.91
+Cat,Kitten,Swollen Eyes,Discharge,Squinting,Redness,Pawing at Face,Conjunctivitis,Mild,Medical,0.90
+Dog,Senior,Excessive Panting,Restlessness,Increased Thirst,Frequent Urination,Weight Loss,Hyperthyroidism,Moderate,Chronic,0.92
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Diarrhea,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Drooling,Difficulty Eating,Bad Breath,Weight Loss,Pawing at Mouth,Oral Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Heart Disease,Severe,Chronic,0.93
+Dog,Puppy,Swollen Joints,Lameness,Pain,Fever,Lethargy,Septic Arthritis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parvovirus,Severe,Emergency,0.95
+Dog,Senior,Confusion,Disorientation,Changes in Sleep,Anxiety,Inappropriate Elimination,Cognitive Dysfunction,Moderate,Chronic,0.90
+Cat,Kitten,Swollen Paw Pads,Lethargy,Fever,Nasal Discharge,Loss of Appetite,Feline Calicivirus,Moderate,Medical,0.91
+Dog,Adult,Excessive Panting,Restlessness,Pacing,Whining,Tremors,Heat Stroke,Severe,Emergency,0.96
+Cat,Senior,Weight Gain,Thickened Skin,Lethargy,Slow Healing,Recurrent Infections,Hypothyroidism,Moderate,Chronic,0.93
+Dog,Puppy,Abdominal Swelling,Diarrhea,Dehydration,Poor Growth,Dull Coat,Intestinal Parasites,Moderate,Medical,0.92
+Cat,Adult,Excessive Grooming,Hair Loss,Skin Lesions,Irritability,Scratching,Psychogenic Alopecia,Mild,Behavioral,0.88
+Dog,Adult,Swollen Abdomen,Difficulty Breathing,Pale Gums,Weakness,Collapse,Internal Bleeding,Severe,Emergency,0.96
+Cat,Senior,Difficulty Urinating,Blood in Urine,Crying in Litter Box,Frequent Licking,Lethargy,Bladder Stones,Moderate,Surgical,0.93
+Dog,Puppy,Eye Discharge,Squinting,Redness,Pawing at Eye,Swelling,Conjunctivitis,Mild,Medical,0.90
+Cat,Kitten,Limping,Swollen Leg,Pain,Fever,Lethargy,Broken Bone,Moderate,Surgical,0.94
+Dog,Senior,Increased Appetite,Weight Loss,Panting,Restlessness,Hair Loss,Thyroid Disease,Moderate,Chronic,0.92
+Cat,Adult,Difficulty Breathing,Open-Mouth Breathing,Lethargy,Blue Gums,Collapse,Pleural Effusion,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Hair Loss,Skin Redness,Anxiety,Restlessness,Acral Lick Dermatitis,Mild,Behavioral,0.88
+Cat,Senior,Swollen Abdomen,Difficulty Breathing,Weight Loss,Poor Appetite,Lethargy,Abdominal Cancer,Severe,Terminal,0.96
+Dog,Puppy,Difficulty Walking,Weakness,Tremors,Collapse,Seizures,Hypoglycemia,Severe,Emergency,0.94
+Cat,Kitten,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Gastroenteritis,Moderate,Medical,0.91
+Dog,Senior,Coughing,Gagging,Difficulty Breathing,Exercise Intolerance,Collapse,Tracheal Collapse,Moderate,Chronic,0.93
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Pale Gums,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Panting,Anxiety,Pacing,Trembling,Hiding,Noise Phobia,Mild,Behavioral,0.87
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Vomiting,Lethargy,Chronic Kidney Disease,Severe,Chronic,0.94
+Dog,Puppy,Swollen Joints,Fever,Lameness,Pain,Lethargy,Panosteitis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Coronavirus,Moderate,Medical,0.92
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Fainting,Collapse,Congestive Heart Failure,Severe,Chronic,0.95
+Cat,Adult,Sneezing,Nasal Discharge,Congestion,Loss of Appetite,Lethargy,Rhinitis,Mild,Medical,0.90
+Dog,Adult,Swollen Abdomen,Lethargy,Pale Gums,Weakness,Collapse,Splenic Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Eating,Weight Loss,Drooling,Bad Breath,Pawing at Mouth,Stomatitis,Moderate,Dental,0.92
+Dog,Puppy,Diarrhea,Vomiting,Lethargy,Dehydration,Fever,Coronavirus,Moderate,Medical,0.91
+Cat,Kitten,Difficulty Breathing,Wheezing,Coughing,Lethargy,Blue Gums,Bronchitis,Moderate,Medical,0.92
+Dog,Senior,Swollen Abdomen,Difficulty Breathing,Lethargy,Coughing,Exercise Intolerance,Pleural Effusion,Severe,Emergency,0.95
+Cat,Adult,Limping,Joint Pain,Swelling,Fever,Lethargy,Arthritis,Moderate,Chronic,0.93
+Dog,Adult,Excessive Barking,Pacing,Destructive Behavior,Escape Attempts,House Soiling,Separation Anxiety,Mild,Behavioral,0.88
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Lung Cancer,Severe,Terminal,0.96
+Dog,Puppy,Limping,Pain,Swelling,Fever,Lethargy,Osteomyelitis,Moderate,Medical,0.92
+Cat,Kitten,Seizures,Disorientation,Circling,Head Tilt,Blindness,Hydrocephalus,Severe,Chronic,0.94
+Dog,Senior,Difficulty Walking,Weakness,Muscle Wasting,Lethargy,Incontinence,Intervertebral Disc Disease,Severe,Surgical,0.93
+Cat,Adult,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Pancreatitis,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Scratching,Hair Loss,Skin Redness,Hot Spots,Food Allergy,Moderate,Medical,0.91
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Poor Coat,Lethargy,Diabetes Mellitus,Severe,Chronic,0.94
+Dog,Puppy,Vomiting,Diarrhea,Lethargy,Fever,Abdominal Pain,Gastroenteritis,Moderate,Medical,0.91
+Cat,Kitten,Swollen Abdomen,Lethargy,Poor Growth,Diarrhea,Vomiting,Intestinal Blockage,Severe,Surgical,0.93
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Lethargy,Collapse,Pulmonary Fibrosis,Severe,Terminal,0.95
+Dog,Puppy,Head Tilt,Disorientation,Circling,Loss of Balance,Seizures,Vestibular Disease,Moderate,Medical,0.92
+Cat,Adult,Excessive Scratching,Hair Loss,Skin Lesions,Irritability,Restlessness,Flea Allergy Dermatitis,Mild,Medical,0.89
+Dog,Adult,Swollen Lymph Nodes,Fever,Lethargy,Loss of Appetite,Weight Loss,Lymphoma,Severe,Terminal,0.96
+Cat,Senior,Difficulty Jumping,Stiffness,Pain,Reduced Activity,Weight Gain,Arthritis,Moderate,Chronic,0.93
+Dog,Puppy,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parasitic Infection,Moderate,Medical,0.91
+Cat,Kitten,Swollen Eyes,Discharge,Squinting,Redness,Pawing at Face,Conjunctivitis,Mild,Medical,0.90
+Dog,Senior,Excessive Panting,Restlessness,Increased Thirst,Frequent Urination,Weight Loss,Hyperthyroidism,Moderate,Chronic,0.92
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Diarrhea,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Drooling,Difficulty Eating,Bad Breath,Weight Loss,Pawing at Mouth,Oral Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Heart Disease,Severe,Chronic,0.93
+Dog,Puppy,Swollen Joints,Lameness,Pain,Fever,Lethargy,Septic Arthritis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parvovirus,Severe,Emergency,0.95
+Dog,Senior,Confusion,Disorientation,Changes in Sleep,Anxiety,Inappropriate Elimination,Cognitive Dysfunction,Moderate,Chronic,0.90
+Cat,Kitten,Swollen Paw Pads,Lethargy,Fever,Nasal Discharge,Loss of Appetite,Feline Calicivirus,Moderate,Medical,0.91
+Dog,Adult,Excessive Panting,Restlessness,Pacing,Whining,Tremors,Heat Stroke,Severe,Emergency,0.96
+Cat,Senior,Weight Gain,Thickened Skin,Lethargy,Slow Healing,Recurrent Infections,Hypothyroidism,Moderate,Chronic,0.93
+Dog,Puppy,Abdominal Swelling,Diarrhea,Dehydration,Poor Growth,Dull Coat,Intestinal Parasites,Moderate,Medical,0.92
+Cat,Adult,Excessive Grooming,Hair Loss,Skin Lesions,Irritability,Scratching,Psychogenic Alopecia,Mild,Behavioral,0.88
+Dog,Adult,Swollen Abdomen,Difficulty Breathing,Pale Gums,Weakness,Collapse,Internal Bleeding,Severe,Emergency,0.96
+Cat,Senior,Difficulty Urinating,Blood in Urine,Crying in Litter Box,Frequent Licking,Lethargy,Bladder Stones,Moderate,Surgical,0.93
+Dog,Puppy,Eye Discharge,Squinting,Redness,Pawing at Eye,Swelling,Conjunctivitis,Mild,Medical,0.90
+Cat,Kitten,Limping,Swollen Leg,Pain,Fever,Lethargy,Broken Bone,Moderate,Surgical,0.94
+Dog,Senior,Increased Appetite,Weight Loss,Panting,Restlessness,Hair Loss,Thyroid Disease,Moderate,Chronic,0.92
+Cat,Adult,Difficulty Breathing,Open-Mouth Breathing,Lethargy,Blue Gums,Collapse,Pleural Effusion,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Hair Loss,Skin Redness,Anxiety,Restlessness,Acral Lick Dermatitis,Mild,Behavioral,0.88
+Cat,Senior,Swollen Abdomen,Difficulty Breathing,Weight Loss,Poor Appetite,Lethargy,Abdominal Cancer,Severe,Terminal,0.96
+Dog,Puppy,Difficulty Walking,Weakness,Tremors,Collapse,Seizures,Hypoglycemia,Severe,Emergency,0.94
+Cat,Kitten,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Gastroenteritis,Moderate,Medical,0.91
+Dog,Senior,Coughing,Gagging,Difficulty Breathing,Exercise Intolerance,Collapse,Tracheal Collapse,Moderate,Chronic,0.93
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Pale Gums,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Panting,Anxiety,Pacing,Trembling,Hiding,Noise Phobia,Mild,Behavioral,0.87
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Vomiting,Lethargy,Chronic Kidney Disease,Severe,Chronic,0.94
+Dog,Puppy,Swollen Joints,Fever,Lameness,Pain,Lethargy,Panosteitis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Coronavirus,Moderate,Medical,0.92
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Fainting,Collapse,Congestive Heart Failure,Severe,Chronic,0.95
+Cat,Adult,Sneezing,Nasal Discharge,Congestion,Loss of Appetite,Lethargy,Rhinitis,Mild,Medical,0.90
+Dog,Adult,Swollen Abdomen,Lethargy,Pale Gums,Weakness,Collapse,Splenic Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Eating,Weight Loss,Drooling,Bad Breath,Pawing at Mouth,Stomatitis,Moderate,Dental,0.92
+Dog,Puppy,Diarrhea,Vomiting,Lethargy,Dehydration,Fever,Coronavirus,Moderate,Medical,0.91
+Cat,Kitten,Difficulty Breathing,Wheezing,Coughing,Lethargy,Blue Gums,Bronchitis,Moderate,Medical,0.92
+Dog,Senior,Swollen Abdomen,Difficulty Breathing,Lethargy,Coughing,Exercise Intolerance,Pleural Effusion,Severe,Emergency,0.95
+Cat,Adult,Limping,Joint Pain,Swelling,Fever,Lethargy,Arthritis,Moderate,Chronic,0.93
+Dog,Adult,Excessive Barking,Pacing,Destructive Behavior,Escape Attempts,House Soiling,Separation Anxiety,Mild,Behavioral,0.88
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Lung Cancer,Severe,Terminal,0.96
+Dog,Puppy,Limping,Pain,Swelling,Fever,Lethargy,Osteomyelitis,Moderate,Medical,0.92
+Cat,Kitten,Seizures,Disorientation,Circling,Head Tilt,Blindness,Hydrocephalus,Severe,Chronic,0.94
+Dog,Senior,Difficulty Walking,Weakness,Muscle Wasting,Lethargy,Incontinence,Intervertebral Disc Disease,Severe,Surgical,0.93
+Cat,Adult,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Pancreatitis,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Scratching,Hair Loss,Skin Redness,Hot Spots,Food Allergy,Moderate,Medical,0.91
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Poor Coat,Lethargy,Diabetes Mellitus,Severe,Chronic,0.94
+Dog,Puppy,Vomiting,Diarrhea,Lethargy,Fever,Abdominal Pain,Gastroenteritis,Moderate,Medical,0.91
+Cat,Kitten,Swollen Abdomen,Lethargy,Poor Growth,Diarrhea,Vomiting,Intestinal Blockage,Severe,Surgical,0.93
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Lethargy,Collapse,Pulmonary Fibrosis,Severe,Terminal,0.95
+Dog,Puppy,Head Tilt,Disorientation,Circling,Loss of Balance,Seizures,Vestibular Disease,Moderate,Medical,0.92
+Cat,Adult,Excessive Scratching,Hair Loss,Skin Lesions,Irritability,Restlessness,Flea Allergy Dermatitis,Mild,Medical,0.89
+Dog,Adult,Swollen Lymph Nodes,Fever,Lethargy,Loss of Appetite,Weight Loss,Lymphoma,Severe,Terminal,0.96
+Cat,Senior,Difficulty Jumping,Stiffness,Pain,Reduced Activity,Weight Gain,Arthritis,Moderate,Chronic,0.93
+Dog,Puppy,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parasitic Infection,Moderate,Medical,0.91
+Cat,Kitten,Swollen Eyes,Discharge,Squinting,Redness,Pawing at Face,Conjunctivitis,Mild,Medical,0.90
+Dog,Senior,Excessive Panting,Restlessness,Increased Thirst,Frequent Urination,Weight Loss,Hyperthyroidism,Moderate,Chronic,0.92
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Diarrhea,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Drooling,Difficulty Eating,Bad Breath,Weight Loss,Pawing at Mouth,Oral Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Heart Disease,Severe,Chronic,0.93
+Dog,Puppy,Swollen Joints,Lameness,Pain,Fever,Lethargy,Septic Arthritis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parvovirus,Severe,Emergency,0.95
+Dog,Senior,Confusion,Disorientation,Changes in Sleep,Anxiety,Inappropriate Elimination,Cognitive Dysfunction,Moderate,Chronic,0.90
+Cat,Kitten,Swollen Paw Pads,Lethargy,Fever,Nasal Discharge,Loss of Appetite,Feline Calicivirus,Moderate,Medical,0.91
+Dog,Adult,Excessive Panting,Restlessness,Pacing,Whining,Tremors,Heat Stroke,Severe,Emergency,0.96
+Cat,Senior,Weight Gain,Thickened Skin,Lethargy,Slow Healing,Recurrent Infections,Hypothyroidism,Moderate,Chronic,0.93
+Dog,Puppy,Abdominal Swelling,Diarrhea,Dehydration,Poor Growth,Dull Coat,Intestinal Parasites,Moderate,Medical,0.92
+Cat,Adult,Excessive Grooming,Hair Loss,Skin Lesions,Irritability,Scratching,Psychogenic Alopecia,Mild,Behavioral,0.88
+Dog,Adult,Swollen Abdomen,Difficulty Breathing,Pale Gums,Weakness,Collapse,Internal Bleeding,Severe,Emergency,0.96
+Cat,Senior,Difficulty Urinating,Blood in Urine,Crying in Litter Box,Frequent Licking,Lethargy,Bladder Stones,Moderate,Surgical,0.93
+Dog,Puppy,Eye Discharge,Squinting,Redness,Pawing at Eye,Swelling,Conjunctivitis,Mild,Medical,0.90
+Cat,Kitten,Limping,Swollen Leg,Pain,Fever,Lethargy,Broken Bone,Moderate,Surgical,0.94
+Dog,Senior,Increased Appetite,Weight Loss,Panting,Restlessness,Hair Loss,Thyroid Disease,Moderate,Chronic,0.92
+Cat,Adult,Difficulty Breathing,Open-Mouth Breathing,Lethargy,Blue Gums,Collapse,Pleural Effusion,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Hair Loss,Skin Redness,Anxiety,Restlessness,Acral Lick Dermatitis,Mild,Behavioral,0.88
+Cat,Senior,Swollen Abdomen,Difficulty Breathing,Weight Loss,Poor Appetite,Lethargy,Abdominal Cancer,Severe,Terminal,0.96
+Dog,Puppy,Difficulty Walking,Weakness,Tremors,Collapse,Seizures,Hypoglycemia,Severe,Emergency,0.94
+Cat,Kitten,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Gastroenteritis,Moderate,Medical,0.91
+Dog,Senior,Coughing,Gagging,Difficulty Breathing,Exercise Intolerance,Collapse,Tracheal Collapse,Moderate,Chronic,0.93
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Pale Gums,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Panting,Anxiety,Pacing,Trembling,Hiding,Noise Phobia,Mild,Behavioral,0.87
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Vomiting,Lethargy,Chronic Kidney Disease,Severe,Chronic,0.94
+Dog,Puppy,Swollen Joints,Fever,Lameness,Pain,Lethargy,Panosteitis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Coronavirus,Moderate,Medical,0.92
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Fainting,Collapse,Congestive Heart Failure,Severe,Chronic,0.95
+Cat,Adult,Sneezing,Nasal Discharge,Congestion,Loss of Appetite,Lethargy,Rhinitis,Mild,Medical,0.90
+Dog,Adult,Swollen Abdomen,Lethargy,Pale Gums,Weakness,Collapse,Splenic Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Eating,Weight Loss,Drooling,Bad Breath,Pawing at Mouth,Stomatitis,Moderate,Dental,0.92
+Dog,Puppy,Diarrhea,Vomiting,Lethargy,Dehydration,Fever,Coronavirus,Moderate,Medical,0.91
+Cat,Kitten,Difficulty Breathing,Wheezing,Coughing,Lethargy,Blue Gums,Bronchitis,Moderate,Medical,0.92
+Dog,Senior,Swollen Abdomen,Difficulty Breathing,Lethargy,Coughing,Exercise Intolerance,Pleural Effusion,Severe,Emergency,0.95
+Cat,Adult,Limping,Joint Pain,Swelling,Fever,Lethargy,Arthritis,Moderate,Chronic,0.93
+Dog,Adult,Excessive Barking,Pacing,Destructive Behavior,Escape Attempts,House Soiling,Separation Anxiety,Mild,Behavioral,0.88
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Lung Cancer,Severe,Terminal,0.96
+Dog,Puppy,Limping,Pain,Swelling,Fever,Lethargy,Osteomyelitis,Moderate,Medical,0.92
+Cat,Kitten,Seizures,Disorientation,Circling,Head Tilt,Blindness,Hydrocephalus,Severe,Chronic,0.94
+Dog,Senior,Difficulty Walking,Weakness,Muscle Wasting,Lethargy,Incontinence,Intervertebral Disc Disease,Severe,Surgical,0.93
+Cat,Adult,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Pancreatitis,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Scratching,Hair Loss,Skin Redness,Hot Spots,Food Allergy,Moderate,Medical,0.91
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Poor Coat,Lethargy,Diabetes Mellitus,Severe,Chronic,0.94
+Dog,Puppy,Vomiting,Diarrhea,Lethargy,Fever,Abdominal Pain,Gastroenteritis,Moderate,Medical,0.91
+Cat,Kitten,Swollen Abdomen,Lethargy,Poor Growth,Diarrhea,Vomiting,Intestinal Blockage,Severe,Surgical,0.93
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Lethargy,Collapse,Pulmonary Fibrosis,Severe,Terminal,0.95
+Dog,Puppy,Head Tilt,Disorientation,Circling,Loss of Balance,Seizures,Vestibular Disease,Moderate,Medical,0.92
+Cat,Adult,Excessive Scratching,Hair Loss,Skin Lesions,Irritability,Restlessness,Flea Allergy Dermatitis,Mild,Medical,0.89
+Dog,Adult,Swollen Lymph Nodes,Fever,Lethargy,Loss of Appetite,Weight Loss,Lymphoma,Severe,Terminal,0.96
+Cat,Senior,Difficulty Jumping,Stiffness,Pain,Reduced Activity,Weight Gain,Arthritis,Moderate,Chronic,0.93
+Dog,Puppy,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parasitic Infection,Moderate,Medical,0.91
+Cat,Kitten,Swollen Eyes,Discharge,Squinting,Redness,Pawing at Face,Conjunctivitis,Mild,Medical,0.90
+Dog,Senior,Excessive Panting,Restlessness,Increased Thirst,Frequent Urination,Weight Loss,Hyperthyroidism,Moderate,Chronic,0.92
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Diarrhea,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Drooling,Difficulty Eating,Bad Breath,Weight Loss,Pawing at Mouth,Oral Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Heart Disease,Severe,Chronic,0.93
+Dog,Puppy,Swollen Joints,Lameness,Pain,Fever,Lethargy,Septic Arthritis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parvovirus,Severe,Emergency,0.95
+Dog,Senior,Confusion,Disorientation,Changes in Sleep,Anxiety,Inappropriate Elimination,Cognitive Dysfunction,Moderate,Chronic,0.90
+Cat,Kitten,Swollen Paw Pads,Lethargy,Fever,Nasal Discharge,Loss of Appetite,Feline Calicivirus,Moderate,Medical,0.91
+Dog,Adult,Excessive Panting,Restlessness,Pacing,Whining,Tremors,Heat Stroke,Severe,Emergency,0.96
+Cat,Senior,Weight Gain,Thickened Skin,Lethargy,Slow Healing,Recurrent Infections,Hypothyroidism,Moderate,Chronic,0.93
+Dog,Puppy,Abdominal Swelling,Diarrhea,Dehydration,Poor Growth,Dull Coat,Intestinal Parasites,Moderate,Medical,0.92
+Cat,Adult,Excessive Grooming,Hair Loss,Skin Lesions,Irritability,Scratching,Psychogenic Alopecia,Mild,Behavioral,0.88
+Dog,Adult,Swollen Abdomen,Difficulty Breathing,Pale Gums,Weakness,Collapse,Internal Bleeding,Severe,Emergency,0.96
+Cat,Senior,Difficulty Urinating,Blood in Urine,Crying in Litter Box,Frequent Licking,Lethargy,Bladder Stones,Moderate,Surgical,0.93
+Dog,Puppy,Eye Discharge,Squinting,Redness,Pawing at Eye,Swelling,Conjunctivitis,Mild,Medical,0.90
+Cat,Kitten,Limping,Swollen Leg,Pain,Fever,Lethargy,Broken Bone,Moderate,Surgical,0.94
+Dog,Senior,Increased Appetite,Weight Loss,Panting,Restlessness,Hair Loss,Thyroid Disease,Moderate,Chronic,0.92
+Cat,Adult,Difficulty Breathing,Open-Mouth Breathing,Lethargy,Blue Gums,Collapse,Pleural Effusion,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Hair Loss,Skin Redness,Anxiety,Restlessness,Acral Lick Dermatitis,Mild,Behavioral,0.88
+Cat,Senior,Swollen Abdomen,Difficulty Breathing,Weight Loss,Poor Appetite,Lethargy,Abdominal Cancer,Severe,Terminal,0.96
+Dog,Puppy,Difficulty Walking,Weakness,Tremors,Collapse,Seizures,Hypoglycemia,Severe,Emergency,0.94
+Cat,Kitten,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Gastroenteritis,Moderate,Medical,0.91
+Dog,Senior,Coughing,Gagging,Difficulty Breathing,Exercise Intolerance,Collapse,Tracheal Collapse,Moderate,Chronic,0.93
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Pale Gums,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Panting,Anxiety,Pacing,Trembling,Hiding,Noise Phobia,Mild,Behavioral,0.87
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Vomiting,Lethargy,Chronic Kidney Disease,Severe,Chronic,0.94
+Dog,Puppy,Swollen Joints,Fever,Lameness,Pain,Lethargy,Panosteitis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Coronavirus,Moderate,Medical,0.92
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Fainting,Collapse,Congestive Heart Failure,Severe,Chronic,0.95
+Cat,Adult,Sneezing,Nasal Discharge,Congestion,Loss of Appetite,Lethargy,Rhinitis,Mild,Medical,0.90
+Dog,Adult,Swollen Abdomen,Lethargy,Pale Gums,Weakness,Collapse,Splenic Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Eating,Weight Loss,Drooling,Bad Breath,Pawing at Mouth,Stomatitis,Moderate,Dental,0.92
+Dog,Puppy,Diarrhea,Vomiting,Lethargy,Dehydration,Fever,Coronavirus,Moderate,Medical,0.91
+Cat,Kitten,Difficulty Breathing,Wheezing,Coughing,Lethargy,Blue Gums,Bronchitis,Moderate,Medical,0.92
+Dog,Senior,Swollen Abdomen,Difficulty Breathing,Lethargy,Coughing,Exercise Intolerance,Pleural Effusion,Severe,Emergency,0.95
+Cat,Adult,Limping,Joint Pain,Swelling,Fever,Lethargy,Arthritis,Moderate,Chronic,0.93
+Dog,Adult,Excessive Barking,Pacing,Destructive Behavior,Escape Attempts,House Soiling,Separation Anxiety,Mild,Behavioral,0.88
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Lung Cancer,Severe,Terminal,0.96
+Dog,Puppy,Limping,Pain,Swelling,Fever,Lethargy,Osteomyelitis,Moderate,Medical,0.92
+Cat,Kitten,Seizures,Disorientation,Circling,Head Tilt,Blindness,Hydrocephalus,Severe,Chronic,0.94
+Dog,Senior,Difficulty Walking,Weakness,Muscle Wasting,Lethargy,Incontinence,Intervertebral Disc Disease,Severe,Surgical,0.93
+Cat,Adult,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Pancreatitis,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Scratching,Hair Loss,Skin Redness,Hot Spots,Food Allergy,Moderate,Medical,0.91
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Poor Coat,Lethargy,Diabetes Mellitus,Severe,Chronic,0.94
+Dog,Puppy,Vomiting,Diarrhea,Lethargy,Fever,Abdominal Pain,Gastroenteritis,Moderate,Medical,0.91
+Cat,Kitten,Swollen Abdomen,Lethargy,Poor Growth,Diarrhea,Vomiting,Intestinal Blockage,Severe,Surgical,0.93
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Lethargy,Collapse,Pulmonary Fibrosis,Severe,Terminal,0.95
+Dog,Puppy,Head Tilt,Disorientation,Circling,Loss of Balance,Seizures,Vestibular Disease,Moderate,Medical,0.92
+Cat,Adult,Excessive Scratching,Hair Loss,Skin Lesions,Irritability,Restlessness,Flea Allergy Dermatitis,Mild,Medical,0.89
+Dog,Adult,Swollen Lymph Nodes,Fever,Lethargy,Loss of Appetite,Weight Loss,Lymphoma,Severe,Terminal,0.96
+Cat,Senior,Difficulty Jumping,Stiffness,Pain,Reduced Activity,Weight Gain,Arthritis,Moderate,Chronic,0.93
+Dog,Puppy,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parasitic Infection,Moderate,Medical,0.91
+Cat,Kitten,Swollen Eyes,Discharge,Squinting,Redness,Pawing at Face,Conjunctivitis,Mild,Medical,0.90
+Dog,Senior,Excessive Panting,Restlessness,Increased Thirst,Frequent Urination,Weight Loss,Hyperthyroidism,Moderate,Chronic,0.92
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Diarrhea,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Drooling,Difficulty Eating,Bad Breath,Weight Loss,Pawing at Mouth,Oral Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Heart Disease,Severe,Chronic,0.93
+Dog,Puppy,Swollen Joints,Lameness,Pain,Fever,Lethargy,Septic Arthritis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parvovirus,Severe,Emergency,0.95
+Dog,Senior,Confusion,Disorientation,Changes in Sleep,Anxiety,Inappropriate Elimination,Cognitive Dysfunction,Moderate,Chronic,0.90
+Cat,Kitten,Swollen Paw Pads,Lethargy,Fever,Nasal Discharge,Loss of Appetite,Feline Calicivirus,Moderate,Medical,0.91
+Dog,Adult,Excessive Panting,Restlessness,Pacing,Whining,Tremors,Heat Stroke,Severe,Emergency,0.96
+Cat,Senior,Weight Gain,Thickened Skin,Lethargy,Slow Healing,Recurrent Infections,Hypothyroidism,Moderate,Chronic,0.93
+Dog,Puppy,Abdominal Swelling,Diarrhea,Dehydration,Poor Growth,Dull Coat,Intestinal Parasites,Moderate,Medical,0.92
+Cat,Adult,Excessive Grooming,Hair Loss,Skin Lesions,Irritability,Scratching,Psychogenic Alopecia,Mild,Behavioral,0.88
+Dog,Adult,Swollen Abdomen,Difficulty Breathing,Pale Gums,Weakness,Collapse,Internal Bleeding,Severe,Emergency,0.96
+Cat,Senior,Difficulty Urinating,Blood in Urine,Crying in Litter Box,Frequent Licking,Lethargy,Bladder Stones,Moderate,Surgical,0.93
+Dog,Puppy,Eye Discharge,Squinting,Redness,Pawing at Eye,Swelling,Conjunctivitis,Mild,Medical,0.90
+Cat,Kitten,Limping,Swollen Leg,Pain,Fever,Lethargy,Broken Bone,Moderate,Surgical,0.94
+Dog,Senior,Increased Appetite,Weight Loss,Panting,Restlessness,Hair Loss,Thyroid Disease,Moderate,Chronic,0.92
+Cat,Adult,Difficulty Breathing,Open-Mouth Breathing,Lethargy,Blue Gums,Collapse,Pleural Effusion,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Hair Loss,Skin Redness,Anxiety,Restlessness,Acral Lick Dermatitis,Mild,Behavioral,0.88
+Cat,Senior,Swollen Abdomen,Difficulty Breathing,Weight Loss,Poor Appetite,Lethargy,Abdominal Cancer,Severe,Terminal,0.96
+Dog,Puppy,Difficulty Walking,Weakness,Tremors,Collapse,Seizures,Hypoglycemia,Severe,Emergency,0.94
+Cat,Kitten,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Gastroenteritis,Moderate,Medical,0.91
+Dog,Senior,Coughing,Gagging,Difficulty Breathing,Exercise Intolerance,Collapse,Tracheal Collapse,Moderate,Chronic,0.93
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Pale Gums,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Panting,Anxiety,Pacing,Trembling,Hiding,Noise Phobia,Mild,Behavioral,0.87
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Vomiting,Lethargy,Chronic Kidney Disease,Severe,Chronic,0.94
+Dog,Puppy,Swollen Joints,Fever,Lameness,Pain,Lethargy,Panosteitis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Coronavirus,Moderate,Medical,0.92
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Fainting,Collapse,Congestive Heart Failure,Severe,Chronic,0.95
+Cat,Adult,Sneezing,Nasal Discharge,Congestion,Loss of Appetite,Lethargy,Rhinitis,Mild,Medical,0.90
+Dog,Adult,Swollen Abdomen,Lethargy,Pale Gums,Weakness,Collapse,Splenic Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Eating,Weight Loss,Drooling,Bad Breath,Pawing at Mouth,Stomatitis,Moderate,Dental,0.92
+Dog,Puppy,Diarrhea,Vomiting,Lethargy,Dehydration,Fever,Coronavirus,Moderate,Medical,0.91
+Cat,Kitten,Difficulty Breathing,Wheezing,Coughing,Lethargy,Blue Gums,Bronchitis,Moderate,Medical,0.92
+Dog,Senior,Swollen Abdomen,Difficulty Breathing,Lethargy,Coughing,Exercise Intolerance,Pleural Effusion,Severe,Emergency,0.95
+Cat,Adult,Limping,Joint Pain,Swelling,Fever,Lethargy,Arthritis,Moderate,Chronic,0.93
+Dog,Adult,Excessive Barking,Pacing,Destructive Behavior,Escape Attempts,House Soiling,Separation Anxiety,Mild,Behavioral,0.88
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Lung Cancer,Severe,Terminal,0.96
+Dog,Puppy,Limping,Pain,Swelling,Fever,Lethargy,Osteomyelitis,Moderate,Medical,0.92
+Cat,Kitten,Seizures,Disorientation,Circling,Head Tilt,Blindness,Hydrocephalus,Severe,Chronic,0.94
+Dog,Senior,Difficulty Walking,Weakness,Muscle Wasting,Lethargy,Incontinence,Intervertebral Disc Disease,Severe,Surgical,0.93
+Cat,Adult,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Pancreatitis,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Scratching,Hair Loss,Skin Redness,Hot Spots,Food Allergy,Moderate,Medical,0.91
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Poor Coat,Lethargy,Diabetes Mellitus,Severe,Chronic,0.94
+Dog,Puppy,Vomiting,Diarrhea,Lethargy,Fever,Abdominal Pain,Gastroenteritis,Moderate,Medical,0.91
+Cat,Kitten,Swollen Abdomen,Lethargy,Poor Growth,Diarrhea,Vomiting,Intestinal Blockage,Severe,Surgical,0.93
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Lethargy,Collapse,Pulmonary Fibrosis,Severe,Terminal,0.95
+Dog,Puppy,Head Tilt,Disorientation,Circling,Loss of Balance,Seizures,Vestibular Disease,Moderate,Medical,0.92
+Cat,Adult,Excessive Scratching,Hair Loss,Skin Lesions,Irritability,Restlessness,Flea Allergy Dermatitis,Mild,Medical,0.89
+Dog,Adult,Swollen Lymph Nodes,Fever,Lethargy,Loss of Appetite,Weight Loss,Lymphoma,Severe,Terminal,0.96
+Cat,Senior,Difficulty Jumping,Stiffness,Pain,Reduced Activity,Weight Gain,Arthritis,Moderate,Chronic,0.93
+Dog,Puppy,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parasitic Infection,Moderate,Medical,0.91
+Cat,Kitten,Swollen Eyes,Discharge,Squinting,Redness,Pawing at Face,Conjunctivitis,Mild,Medical,0.90
+Dog,Senior,Excessive Panting,Restlessness,Increased Thirst,Frequent Urination,Weight Loss,Hyperthyroidism,Moderate,Chronic,0.92
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Diarrhea,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Drooling,Difficulty Eating,Bad Breath,Weight Loss,Pawing at Mouth,Oral Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Heart Disease,Severe,Chronic,0.93
+Dog,Puppy,Swollen Joints,Lameness,Pain,Fever,Lethargy,Septic Arthritis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parvovirus,Severe,Emergency,0.95
+Dog,Senior,Confusion,Disorientation,Changes in Sleep,Anxiety,Inappropriate Elimination,Cognitive Dysfunction,Moderate,Chronic,0.90
+Cat,Kitten,Swollen Paw Pads,Lethargy,Fever,Nasal Discharge,Loss of Appetite,Feline Calicivirus,Moderate,Medical,0.91
+Dog,Adult,Excessive Panting,Restlessness,Pacing,Whining,Tremors,Heat Stroke,Severe,Emergency,0.96
+Cat,Senior,Weight Gain,Thickened Skin,Lethargy,Slow Healing,Recurrent Infections,Hypothyroidism,Moderate,Chronic,0.93
+Dog,Puppy,Abdominal Swelling,Diarrhea,Dehydration,Poor Growth,Dull Coat,Intestinal Parasites,Moderate,Medical,0.92
+Cat,Adult,Excessive Grooming,Hair Loss,Skin Lesions,Irritability,Scratching,Psychogenic Alopecia,Mild,Behavioral,0.88
+Dog,Adult,Swollen Abdomen,Difficulty Breathing,Pale Gums,Weakness,Collapse,Internal Bleeding,Severe,Emergency,0.96
+Cat,Senior,Difficulty Urinating,Blood in Urine,Crying in Litter Box,Frequent Licking,Lethargy,Bladder Stones,Moderate,Surgical,0.93
+Dog,Puppy,Eye Discharge,Squinting,Redness,Pawing at Eye,Swelling,Conjunctivitis,Mild,Medical,0.90
+Cat,Kitten,Limping,Swollen Leg,Pain,Fever,Lethargy,Broken Bone,Moderate,Surgical,0.94
+Dog,Senior,Increased Appetite,Weight Loss,Panting,Restlessness,Hair Loss,Thyroid Disease,Moderate,Chronic,0.92
+Cat,Adult,Difficulty Breathing,Open-Mouth Breathing,Lethargy,Blue Gums,Collapse,Pleural Effusion,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Hair Loss,Skin Redness,Anxiety,Restlessness,Acral Lick Dermatitis,Mild,Behavioral,0.88
+Cat,Senior,Swollen Abdomen,Difficulty Breathing,Weight Loss,Poor Appetite,Lethargy,Abdominal Cancer,Severe,Terminal,0.96
+Dog,Puppy,Difficulty Walking,Weakness,Tremors,Collapse,Seizures,Hypoglycemia,Severe,Emergency,0.94
+Cat,Kitten,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Gastroenteritis,Moderate,Medical,0.91
+Dog,Senior,Coughing,Gagging,Difficulty Breathing,Exercise Intolerance,Collapse,Tracheal Collapse,Moderate,Chronic,0.93
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Pale Gums,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Panting,Anxiety,Pacing,Trembling,Hiding,Noise Phobia,Mild,Behavioral,0.87
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Vomiting,Lethargy,Chronic Kidney Disease,Severe,Chronic,0.94
+Dog,Puppy,Swollen Joints,Fever,Lameness,Pain,Lethargy,Panosteitis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Coronavirus,Moderate,Medical,0.92
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Fainting,Collapse,Congestive Heart Failure,Severe,Chronic,0.95
+Cat,Adult,Sneezing,Nasal Discharge,Congestion,Loss of Appetite,Lethargy,Rhinitis,Mild,Medical,0.90
+Dog,Adult,Swollen Abdomen,Lethargy,Pale Gums,Weakness,Collapse,Splenic Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Eating,Weight Loss,Drooling,Bad Breath,Pawing at Mouth,Stomatitis,Moderate,Dental,0.92
+Dog,Puppy,Diarrhea,Vomiting,Lethargy,Dehydration,Fever,Coronavirus,Moderate,Medical,0.91
+Cat,Kitten,Difficulty Breathing,Wheezing,Coughing,Lethargy,Blue Gums,Bronchitis,Moderate,Medical,0.92
+Dog,Senior,Swollen Abdomen,Difficulty Breathing,Lethargy,Coughing,Exercise Intolerance,Pleural Effusion,Severe,Emergency,0.95
+Cat,Adult,Limping,Joint Pain,Swelling,Fever,Lethargy,Arthritis,Moderate,Chronic,0.93
+Dog,Adult,Excessive Barking,Pacing,Destructive Behavior,Escape Attempts,House Soiling,Separation Anxiety,Mild,Behavioral,0.88
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Lung Cancer,Severe,Terminal,0.96
+Dog,Puppy,Limping,Pain,Swelling,Fever,Lethargy,Osteomyelitis,Moderate,Medical,0.92
+Cat,Kitten,Seizures,Disorientation,Circling,Head Tilt,Blindness,Hydrocephalus,Severe,Chronic,0.94
+Dog,Senior,Difficulty Walking,Weakness,Muscle Wasting,Lethargy,Incontinence,Intervertebral Disc Disease,Severe,Surgical,0.93
+Cat,Adult,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Pancreatitis,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Scratching,Hair Loss,Skin Redness,Hot Spots,Food Allergy,Moderate,Medical,0.91
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Poor Coat,Lethargy,Diabetes Mellitus,Severe,Chronic,0.94
+Dog,Puppy,Vomiting,Diarrhea,Lethargy,Fever,Abdominal Pain,Gastroenteritis,Moderate,Medical,0.91
+Cat,Kitten,Swollen Abdomen,Lethargy,Poor Growth,Diarrhea,Vomiting,Intestinal Blockage,Severe,Surgical,0.93
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Lethargy,Collapse,Pulmonary Fibrosis,Severe,Terminal,0.95
+Dog,Puppy,Head Tilt,Disorientation,Circling,Loss of Balance,Seizures,Vestibular Disease,Moderate,Medical,0.92
+Cat,Adult,Excessive Scratching,Hair Loss,Skin Lesions,Irritability,Restlessness,Flea Allergy Dermatitis,Mild,Medical,0.89
+Dog,Adult,Swollen Lymph Nodes,Fever,Lethargy,Loss of Appetite,Weight Loss,Lymphoma,Severe,Terminal,0.96
+Cat,Senior,Difficulty Jumping,Stiffness,Pain,Reduced Activity,Weight Gain,Arthritis,Moderate,Chronic,0.93
+Dog,Puppy,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parasitic Infection,Moderate,Medical,0.91
+Cat,Kitten,Swollen Eyes,Discharge,Squinting,Redness,Pawing at Face,Conjunctivitis,Mild,Medical,0.90
+Dog,Senior,Excessive Panting,Restlessness,Increased Thirst,Frequent Urination,Weight Loss,Hyperthyroidism,Moderate,Chronic,0.92
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Diarrhea,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Drooling,Difficulty Eating,Bad Breath,Weight Loss,Pawing at Mouth,Oral Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Heart Disease,Severe,Chronic,0.93
+Dog,Puppy,Swollen Joints,Lameness,Pain,Fever,Lethargy,Septic Arthritis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parvovirus,Severe,Emergency,0.95
+Dog,Senior,Confusion,Disorientation,Changes in Sleep,Anxiety,Inappropriate Elimination,Cognitive Dysfunction,Moderate,Chronic,0.90
+Cat,Kitten,Swollen Paw Pads,Lethargy,Fever,Nasal Discharge,Loss of Appetite,Feline Calicivirus,Moderate,Medical,0.91
+Dog,Adult,Excessive Panting,Restlessness,Pacing,Whining,Tremors,Heat Stroke,Severe,Emergency,0.96
+Cat,Senior,Weight Gain,Thickened Skin,Lethargy,Slow Healing,Recurrent Infections,Hypothyroidism,Moderate,Chronic,0.93
+Dog,Puppy,Abdominal Swelling,Diarrhea,Dehydration,Poor Growth,Dull Coat,Intestinal Parasites,Moderate,Medical,0.92
+Cat,Adult,Excessive Grooming,Hair Loss,Skin Lesions,Irritability,Scratching,Psychogenic Alopecia,Mild,Behavioral,0.88
+Dog,Adult,Swollen Abdomen,Difficulty Breathing,Pale Gums,Weakness,Collapse,Internal Bleeding,Severe,Emergency,0.96
+Cat,Senior,Difficulty Urinating,Blood in Urine,Crying in Litter Box,Frequent Licking,Lethargy,Bladder Stones,Moderate,Surgical,0.93
+Dog,Puppy,Eye Discharge,Squinting,Redness,Pawing at Eye,Swelling,Conjunctivitis,Mild,Medical,0.90
+Cat,Kitten,Limping,Swollen Leg,Pain,Fever,Lethargy,Broken Bone,Moderate,Surgical,0.94
+Dog,Senior,Increased Appetite,Weight Loss,Panting,Restlessness,Hair Loss,Thyroid Disease,Moderate,Chronic,0.92
+Cat,Adult,Difficulty Breathing,Open-Mouth Breathing,Lethargy,Blue Gums,Collapse,Pleural Effusion,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Hair Loss,Skin Redness,Anxiety,Restlessness,Acral Lick Dermatitis,Mild,Behavioral,0.88
+Cat,Senior,Swollen Abdomen,Difficulty Breathing,Weight Loss,Poor Appetite,Lethargy,Abdominal Cancer,Severe,Terminal,0.96
+Dog,Puppy,Difficulty Walking,Weakness,Tremors,Collapse,Seizures,Hypoglycemia,Severe,Emergency,0.94
+Cat,Kitten,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Gastroenteritis,Moderate,Medical,0.91
+Dog,Senior,Coughing,Gagging,Difficulty Breathing,Exercise Intolerance,Collapse,Tracheal Collapse,Moderate,Chronic,0.93
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Pale Gums,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Panting,Anxiety,Pacing,Trembling,Hiding,Noise Phobia,Mild,Behavioral,0.87
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Vomiting,Lethargy,Chronic Kidney Disease,Severe,Chronic,0.94
+Dog,Puppy,Swollen Joints,Fever,Lameness,Pain,Lethargy,Panosteitis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Coronavirus,Moderate,Medical,0.92
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Fainting,Collapse,Congestive Heart Failure,Severe,Chronic,0.95
+Cat,Adult,Sneezing,Nasal Discharge,Congestion,Loss of Appetite,Lethargy,Rhinitis,Mild,Medical,0.90
+Dog,Adult,Swollen Abdomen,Lethargy,Pale Gums,Weakness,Collapse,Splenic Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Eating,Weight Loss,Drooling,Bad Breath,Pawing at Mouth,Stomatitis,Moderate,Dental,0.92
+Dog,Puppy,Diarrhea,Vomiting,Lethargy,Dehydration,Fever,Coronavirus,Moderate,Medical,0.91
+Cat,Kitten,Difficulty Breathing,Wheezing,Coughing,Lethargy,Blue Gums,Bronchitis,Moderate,Medical,0.92
+Dog,Senior,Swollen Abdomen,Difficulty Breathing,Lethargy,Coughing,Exercise Intolerance,Pleural Effusion,Severe,Emergency,0.95
+Cat,Adult,Limping,Joint Pain,Swelling,Fever,Lethargy,Arthritis,Moderate,Chronic,0.93
+Dog,Adult,Excessive Barking,Pacing,Destructive Behavior,Escape Attempts,House Soiling,Separation Anxiety,Mild,Behavioral,0.88
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Lung Cancer,Severe,Terminal,0.96
+Dog,Puppy,Limping,Pain,Swelling,Fever,Lethargy,Osteomyelitis,Moderate,Medical,0.92
+Cat,Kitten,Seizures,Disorientation,Circling,Head Tilt,Blindness,Hydrocephalus,Severe,Chronic,0.94
+Dog,Senior,Difficulty Walking,Weakness,Muscle Wasting,Lethargy,Incontinence,Intervertebral Disc Disease,Severe,Surgical,0.93
+Cat,Adult,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Pancreatitis,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Scratching,Hair Loss,Skin Redness,Hot Spots,Food Allergy,Moderate,Medical,0.91
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Poor Coat,Lethargy,Diabetes Mellitus,Severe,Chronic,0.94
+Dog,Puppy,Vomiting,Diarrhea,Lethargy,Fever,Abdominal Pain,Gastroenteritis,Moderate,Medical,0.91
+Cat,Kitten,Swollen Abdomen,Lethargy,Poor Growth,Diarrhea,Vomiting,Intestinal Blockage,Severe,Surgical,0.93
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Lethargy,Collapse,Pulmonary Fibrosis,Severe,Terminal,0.95
+Dog,Puppy,Head Tilt,Disorientation,Circling,Loss of Balance,Seizures,Vestibular Disease,Moderate,Medical,0.92
+Cat,Adult,Excessive Scratching,Hair Loss,Skin Lesions,Irritability,Restlessness,Flea Allergy Dermatitis,Mild,Medical,0.89
+Dog,Adult,Swollen Lymph Nodes,Fever,Lethargy,Loss of Appetite,Weight Loss,Lymphoma,Severe,Terminal,0.96
+Cat,Senior,Difficulty Jumping,Stiffness,Pain,Reduced Activity,Weight Gain,Arthritis,Moderate,Chronic,0.93
+Dog,Puppy,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parasitic Infection,Moderate,Medical,0.91
+Cat,Kitten,Swollen Eyes,Discharge,Squinting,Redness,Pawing at Face,Conjunctivitis,Mild,Medical,0.90
+Dog,Senior,Excessive Panting,Restlessness,Increased Thirst,Frequent Urination,Weight Loss,Hyperthyroidism,Moderate,Chronic,0.92
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Diarrhea,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Drooling,Difficulty Eating,Bad Breath,Weight Loss,Pawing at Mouth,Oral Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Heart Disease,Severe,Chronic,0.93
+Dog,Puppy,Swollen Joints,Lameness,Pain,Fever,Lethargy,Septic Arthritis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Parvovirus,Severe,Emergency,0.95
+Dog,Senior,Confusion,Disorientation,Changes in Sleep,Anxiety,Inappropriate Elimination,Cognitive Dysfunction,Moderate,Chronic,0.90
+Cat,Kitten,Swollen Paw Pads,Lethargy,Fever,Nasal Discharge,Loss of Appetite,Feline Calicivirus,Moderate,Medical,0.91
+Dog,Adult,Excessive Panting,Restlessness,Pacing,Whining,Tremors,Heat Stroke,Severe,Emergency,0.96
+Cat,Senior,Weight Gain,Thickened Skin,Lethargy,Slow Healing,Recurrent Infections,Hypothyroidism,Moderate,Chronic,0.93
+Dog,Puppy,Abdominal Swelling,Diarrhea,Dehydration,Poor Growth,Dull Coat,Intestinal Parasites,Moderate,Medical,0.92
+Cat,Adult,Excessive Grooming,Hair Loss,Skin Lesions,Irritability,Scratching,Psychogenic Alopecia,Mild,Behavioral,0.88
+Dog,Adult,Swollen Abdomen,Difficulty Breathing,Pale Gums,Weakness,Collapse,Internal Bleeding,Severe,Emergency,0.96
+Cat,Senior,Difficulty Urinating,Blood in Urine,Crying in Litter Box,Frequent Licking,Lethargy,Bladder Stones,Moderate,Surgical,0.93
+Dog,Puppy,Eye Discharge,Squinting,Redness,Pawing at Eye,Swelling,Conjunctivitis,Mild,Medical,0.90
+Cat,Kitten,Limping,Swollen Leg,Pain,Fever,Lethargy,Broken Bone,Moderate,Surgical,0.94
+Dog,Senior,Increased Appetite,Weight Loss,Panting,Restlessness,Hair Loss,Thyroid Disease,Moderate,Chronic,0.92
+Cat,Adult,Difficulty Breathing,Open-Mouth Breathing,Lethargy,Blue Gums,Collapse,Pleural Effusion,Severe,Emergency,0.95
+Dog,Adult,Excessive Licking,Hair Loss,Skin Redness,Anxiety,Restlessness,Acral Lick Dermatitis,Mild,Behavioral,0.88
+Cat,Senior,Swollen Abdomen,Difficulty Breathing,Weight Loss,Poor Appetite,Lethargy,Abdominal Cancer,Severe,Terminal,0.96
+Dog,Puppy,Difficulty Walking,Weakness,Tremors,Collapse,Seizures,Hypoglycemia,Severe,Emergency,0.94
+Cat,Kitten,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Gastroenteritis,Moderate,Medical,0.91
+Dog,Senior,Coughing,Gagging,Difficulty Breathing,Exercise Intolerance,Collapse,Tracheal Collapse,Moderate,Chronic,0.93
+Cat,Adult,Swollen Abdomen,Lethargy,Poor Appetite,Vomiting,Pale Gums,Feline Infectious Peritonitis,Severe,Terminal,0.95
+Dog,Adult,Excessive Panting,Anxiety,Pacing,Trembling,Hiding,Noise Phobia,Mild,Behavioral,0.87
+Cat,Senior,Increased Thirst,Increased Urination,Weight Loss,Vomiting,Lethargy,Chronic Kidney Disease,Severe,Chronic,0.94
+Dog,Puppy,Swollen Joints,Fever,Lameness,Pain,Lethargy,Panosteitis,Moderate,Medical,0.91
+Cat,Kitten,Diarrhea,Vomiting,Dehydration,Lethargy,Fever,Coronavirus,Moderate,Medical,0.92
+Dog,Senior,Difficulty Breathing,Coughing,Exercise Intolerance,Fainting,Collapse,Congestive Heart Failure,Severe,Chronic,0.95
+Cat,Adult,Sneezing,Nasal Discharge,Congestion,Loss of Appetite,Lethargy,Rhinitis,Mild,Medical,0.90
+Dog,Adult,Swollen Abdomen,Lethargy,Pale Gums,Weakness,Collapse,Splenic Tumor,Severe,Surgical,0.94
+Cat,Senior,Difficulty Eating,Weight Loss,Drooling,Bad Breath,Pawing at Mouth,Stomatitis,Moderate,Dental,0.92
+Dog,Puppy,Diarrhea,Vomiting,Lethargy,Dehydration,Fever,Coronavirus,Moderate,Medical,0.91
+Cat,Kitten,Difficulty Breathing,Wheezing,Coughing,Lethargy,Blue Gums,Bronchitis,Moderate,Medical,0.92
+Dog,Senior,Swollen Abdomen,Difficulty Breathing,Lethargy,Coughing,Exercise Intolerance,Pleural Effusion,Severe,Emergency,0.95
+Cat,Adult,Limping,Joint Pain,Swelling,Fever,Lethargy,Arthritis,Moderate,Chronic,0.93
+Dog,Adult,Excessive Barking,Pacing,Destructive Behavior,Escape Attempts,House Soiling,Separation Anxiety,Mild,Behavioral,0.88
+Cat,Senior,Difficulty Breathing,Coughing,Lethargy,Poor Appetite,Weight Loss,Lung Cancer,Severe,Terminal,0.96
+Dog,Puppy,Limping,Pain,Swelling,Fever,Lethargy,Osteomyelitis,Moderate,Medical,0.92
+Cat,Kitten,Seizures,Disorientation,Circling,Head Tilt,Blindness,Hydrocephalus,Severe,Chronic,0.94
+Dog,Senior,Difficulty Walking,Weakness,Muscle Wasting,Lethargy,Incontinence,Intervertebral Disc Disease,Severe,Surgical,0.93
+Cat,Adult,Vomiting,Diarrhea,Abdominal Pain,Fever,Dehydration,Pancreatitis,Severe,Emergency,0.95
